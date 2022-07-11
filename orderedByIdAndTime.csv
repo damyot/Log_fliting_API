@@ -1,0 +1,867 @@
+,#,company_id,event,time,theme,account_users,metric_count,graph_origin,number_of_graphs_on_dashboard,graphs_owned
+62,63,013e23de101611ec4ba9f65a089981aa,View Dashboard,420,Light,71.0,,,,7.0
+63,64,013e23de101611ec4ba9f65a089981aa,Tab Switched,420,,71.0,,,,7.0
+75,76,013e23de101611ec4ba9f65a089981aa,View Dashboard,480,Light,71.0,,,,7.0
+83,84,013e23de101611ec4ba9f65a089981aa,View Dashboard,540,Light,71.0,,,,7.0
+92,93,013e23de101611ec4ba9f65a089981aa,View Dashboard,600,Light,71.0,,,,7.0
+96,97,013e23de101611ec4ba9f65a089981aa,View Dashboard,600,Light,71.0,,,,7.0
+103,104,013e23de101611ec4ba9f65a089981aa,View Dashboard,600,Light,71.0,,,,7.0
+116,117,013e23de101611ec4ba9f65a089981aa,View Dashboard,720,Light,71.0,,,,7.0
+820,821,013e23de101611ec4ba9f65a089981aa,Orientation Switch,5340,,71.0,,,,7.0
+821,822,013e23de101611ec4ba9f65a089981aa,Orientation Switch,5340,,71.0,,,,7.0
+828,829,013e23de101611ec4ba9f65a089981aa,Orientation Switch,5460,,71.0,,,,7.0
+829,830,013e23de101611ec4ba9f65a089981aa,Orientation Switch,5460,,71.0,,,,7.0
+830,831,013e23de101611ec4ba9f65a089981aa,Orientation Switch,5460,,71.0,,,,7.0
+831,832,013e23de101611ec4ba9f65a089981aa,Orientation Switch,5460,,71.0,,,,7.0
+832,833,013e23de101611ec4ba9f65a089981aa,Orientation Switch,5460,,71.0,,,,7.0
+833,834,013e23de101611ec4ba9f65a089981aa,Orientation Switch,5460,,71.0,,,,7.0
+834,835,013e23de101611ec4ba9f65a089981aa,Orientation Switch,5520,,71.0,,,,7.0
+836,837,013e23de101611ec4ba9f65a089981aa,Orientation Switch,5520,,71.0,,,,7.0
+837,838,013e23de101611ec4ba9f65a089981aa,Orientation Switch,5520,,71.0,,,,7.0
+838,839,013e23de101611ec4ba9f65a089981aa,Orientation Switch,5520,,71.0,,,,7.0
+72,73,02beb6333cf4c95ba91e1c9b0c0b4c18,View Dashboard,480,Dark,,,,,
+12,13,0350cd2785e3e1565e068c557ebb8f1a,Orientation Switch,0,,17.0,,,,0.0
+23,24,0350cd2785e3e1565e068c557ebb8f1a,Orientation Switch,60,,17.0,,,,0.0
+55,56,0350cd2785e3e1565e068c557ebb8f1a,Orientation Switch,360,,17.0,,,,0.0
+80,81,0350cd2785e3e1565e068c557ebb8f1a,Orientation Switch,540,,17.0,,,,0.0
+380,381,054258eac6822185e00d0e85ebdb2600,View Dashboard,2700,Light,9.0,,,,0.0
+668,669,08d3aae4e208ea82cab3a4122cd45411,View Dashboard,4200,Light,21.0,,,,14.0
+117,118,0cb9a8a08a803866118c0d5aaea84ba7,View Dashboard,720,Light,1.0,,,,8.0
+124,125,11912946febc33d58237d0a3e2134c25,View Dashboard,840,Light,1.0,,,,20.0
+126,127,11912946febc33d58237d0a3e2134c25,Show More Graphs,900,,1.0,,,7.0,20.0
+179,180,1732beab1667c7fb06fac4006908848d,View Dashboard,1140,Light,28.0,,,,0.0
+180,181,1732beab1667c7fb06fac4006908848d,Manual Refresh,1140,,28.0,,,,0.0
+185,186,1732beab1667c7fb06fac4006908848d,Show More Graphs,1200,,28.0,,,7.0,0.0
+549,550,184aa1848d90368f39d1dd4b50632939,View Dashboard,3780,Light,4.0,,,,0.0
+551,552,184aa1848d90368f39d1dd4b50632939,Manual Refresh,3780,,4.0,,,,0.0
+553,554,184aa1848d90368f39d1dd4b50632939,View Dashboard,3840,Light,4.0,,,,0.0
+554,555,184aa1848d90368f39d1dd4b50632939,Manual Refresh,3840,,4.0,,,,0.0
+557,558,184aa1848d90368f39d1dd4b50632939,Show More Graphs,3840,,4.0,,,9.0,0.0
+558,559,184aa1848d90368f39d1dd4b50632939,Orientation Switch,3840,,4.0,,,,0.0
+568,569,184aa1848d90368f39d1dd4b50632939,Orientation Switch,3900,,4.0,,,,0.0
+588,589,184aa1848d90368f39d1dd4b50632939,View Dashboard,3900,Light,4.0,,,,0.0
+13,14,197c731783a51319754597fea6c43112,Orientation Switch,60,,112.0,,,,0.0
+427,428,197c731783a51319754597fea6c43112,Orientation Switch,3000,,112.0,,,,0.0
+453,454,197c731783a51319754597fea6c43112,Orientation Switch,3120,,112.0,,,,0.0
+672,673,1a7b31e238551797a91eef869fe0b7a9,Orientation Switch,4200,,3.0,,,,4.0
+675,676,1a7b31e238551797a91eef869fe0b7a9,Orientation Switch,4260,,3.0,,,,4.0
+170,171,1b8538e2a12dbd7257fd059867bac72d,View Dashboard,1080,Light,1.0,,,,21.0
+172,173,1b8538e2a12dbd7257fd059867bac72d,Orientation Switch,1080,,1.0,,,,21.0
+276,277,1b8538e2a12dbd7257fd059867bac72d,Orientation Switch,1800,,1.0,,,,21.0
+85,86,1bc6375691d4a6f82025cf6c57709da5,Create Data Source,600,,1.0,,,,14.0
+82,83,1caf640d9d16265cb7281cc7ccf8ab55,View Dashboard,540,Light,1.0,,,,8.0
+86,87,1caf640d9d16265cb7281cc7ccf8ab55,Trial Sign Up Completed,600,,1.0,,,,8.0
+88,89,1caf640d9d16265cb7281cc7ccf8ab55,Guide Start,600,,1.0,,,,8.0
+93,94,1caf640d9d16265cb7281cc7ccf8ab55,View Dashboard,600,Light,1.0,,,,8.0
+94,95,1caf640d9d16265cb7281cc7ccf8ab55,Guide Start,600,,1.0,,,,8.0
+95,96,1caf640d9d16265cb7281cc7ccf8ab55,Guide Exit,600,,1.0,,,,8.0
+97,98,1caf640d9d16265cb7281cc7ccf8ab55,Guide Start,600,,1.0,,,,8.0
+100,101,1caf640d9d16265cb7281cc7ccf8ab55,Guide Exit,600,,1.0,,,,8.0
+101,102,1caf640d9d16265cb7281cc7ccf8ab55,Guide Start,600,,1.0,,,,8.0
+102,103,1caf640d9d16265cb7281cc7ccf8ab55,Add Blank Tab,600,,1.0,,,,8.0
+104,105,1caf640d9d16265cb7281cc7ccf8ab55,Add Button,600,,1.0,,,,8.0
+105,106,1caf640d9d16265cb7281cc7ccf8ab55,Guide Exit,600,,1.0,,,,8.0
+106,107,1caf640d9d16265cb7281cc7ccf8ab55,Guide Start,600,,1.0,,,,8.0
+111,112,1caf640d9d16265cb7281cc7ccf8ab55,Guide Exit,660,,1.0,,,,8.0
+112,113,1caf640d9d16265cb7281cc7ccf8ab55,Graph Editor,660,,1.0,,Custom,,8.0
+131,132,1caf640d9d16265cb7281cc7ccf8ab55,Create Data Source,900,,1.0,,,,8.0
+134,135,1caf640d9d16265cb7281cc7ccf8ab55,Data Source Connector,960,,1.0,,,,8.0
+51,52,1fb0c38e91eb39efd7740c35b063fcaa,Graph Saved in Editor,360,,1.0,,Template,,9.0
+53,54,1fb0c38e91eb39efd7740c35b063fcaa,View Dashboard,360,Light,1.0,,,,8.0
+71,72,1fb0c38e91eb39efd7740c35b063fcaa,Add Button,480,,1.0,,,,8.0
+77,78,1fb0c38e91eb39efd7740c35b063fcaa,Graph Editor,480,,1.0,,Custom,,8.0
+132,133,1fb0c38e91eb39efd7740c35b063fcaa,Graph Editor,960,,1.0,,Custom,,8.0
+133,134,1fb0c38e91eb39efd7740c35b063fcaa,View Dashboard,960,Light,1.0,,,,8.0
+135,136,1fb0c38e91eb39efd7740c35b063fcaa,Add Button,960,,1.0,,,,8.0
+139,140,1fb0c38e91eb39efd7740c35b063fcaa,Graph Gallery,960,,1.0,,,,8.0
+141,142,1fb0c38e91eb39efd7740c35b063fcaa,Graph Gallery,960,,1.0,,,,8.0
+142,143,1fb0c38e91eb39efd7740c35b063fcaa,Graph Gallery,960,,1.0,,,,8.0
+145,146,1fb0c38e91eb39efd7740c35b063fcaa,Template Connect Button,960,,1.0,,,,8.0
+147,148,1fb0c38e91eb39efd7740c35b063fcaa,Template Connected,960,,1.0,,,,8.0
+149,150,1fb0c38e91eb39efd7740c35b063fcaa,Edit Graph from Dashboard,960,,1.0,,Template,,8.0
+151,152,1fb0c38e91eb39efd7740c35b063fcaa,Graph Editor,960,,1.0,,Template,,8.0
+161,162,1fb0c38e91eb39efd7740c35b063fcaa,Graph Saved in Editor,1020,,1.0,,Template,,10.0
+163,164,1fb0c38e91eb39efd7740c35b063fcaa,View Dashboard,1020,Light,1.0,,,,8.0
+21,22,296411f5ce302103d499ca4656fb8c71,View Dashboard,60,Light,1.0,,,,8.0
+242,243,296411f5ce302103d499ca4656fb8c71,View Dashboard,1500,Light,1.0,,,,8.0
+22,23,2a3c721d40a0b403125991ca1cf77a28,View Dashboard,60,Light,32.0,,,,0.0
+28,29,2a3c721d40a0b403125991ca1cf77a28,View Dashboard,120,Light,32.0,,,,0.0
+235,236,2a3c721d40a0b403125991ca1cf77a28,View Dashboard,1440,Light,32.0,,,,0.0
+718,719,2c7312b8fc1aa94a24847baa699ccde3,View Dashboard,4440,Light,3.0,,,,0.0
+724,725,2c7312b8fc1aa94a24847baa699ccde3,Show More Graphs,4500,,3.0,,,10.0,0.0
+561,562,2dc4ab05664bc381440736d9e28c4bd1,View Dashboard,3840,Light,8.0,,,,60.0
+563,564,2dc4ab05664bc381440736d9e28c4bd1,Show More Graphs,3900,,8.0,,,11.0,60.0
+567,568,2dc4ab05664bc381440736d9e28c4bd1,Show More Graphs,3900,,8.0,,,11.0,60.0
+37,38,31706a205dcad526617c7247ea535d98,View Dashboard,240,Light,2.0,,,,18.0
+787,788,3cad74c41b8f449a72eeb3ec457f01b2,View Dashboard,4860,Light,2.0,,,,27.0
+864,865,3cad74c41b8f449a72eeb3ec457f01b2,View Dashboard,6300,Light,2.0,,,,27.0
+865,866,3cad74c41b8f449a72eeb3ec457f01b2,Edit Graph from Dashboard,6300,,2.0,,Custom,,27.0
+15,16,3cdc5e38a59a03a8e1b03abfb748b59a,Trial Sign Up Completed,60,,1.0,,,,8.0
+17,18,3cdc5e38a59a03a8e1b03abfb748b59a,Guide Start,60,,1.0,,,,8.0
+18,19,3cdc5e38a59a03a8e1b03abfb748b59a,Guide Exit,60,,1.0,,,,8.0
+19,20,3cdc5e38a59a03a8e1b03abfb748b59a,Guide Start,60,,1.0,,,,8.0
+20,21,3cdc5e38a59a03a8e1b03abfb748b59a,Guide Start,60,,1.0,,,,8.0
+31,32,3cdc5e38a59a03a8e1b03abfb748b59a,Create Data Source,180,,1.0,,,,8.0
+32,33,3cdc5e38a59a03a8e1b03abfb748b59a,Data Source Connector,180,,1.0,,,,8.0
+36,37,3cdc5e38a59a03a8e1b03abfb748b59a,DS Template Selected,240,,1.0,,,,8.0
+46,47,3cdc5e38a59a03a8e1b03abfb748b59a,Data Source Created,300,,1.0,,,,8.0
+50,51,3cdc5e38a59a03a8e1b03abfb748b59a,View Dashboard,360,Light,1.0,,,,8.0
+54,55,3cdc5e38a59a03a8e1b03abfb748b59a,Add Blank Tab,360,,1.0,,,,8.0
+64,65,3cdc5e38a59a03a8e1b03abfb748b59a,Build Graph from Library,420,,1.0,,,,8.0
+66,67,3cdc5e38a59a03a8e1b03abfb748b59a,Graph Editor,420,,1.0,,Custom,,8.0
+69,70,3cdc5e38a59a03a8e1b03abfb748b59a,Guide Start,480,,1.0,,,,8.0
+81,82,3cdc5e38a59a03a8e1b03abfb748b59a,Graph Editor,540,,1.0,,Custom,,8.0
+593,594,3cdc5e38a59a03a8e1b03abfb748b59a,View Dashboard,3960,Light,1.0,,,,8.0
+598,599,3cdc5e38a59a03a8e1b03abfb748b59a,Create Data Source,3960,,1.0,,,,8.0
+600,601,3cdc5e38a59a03a8e1b03abfb748b59a,Create Data Source,3960,,1.0,,,,8.0
+854,855,3f74b4421b42fa8f182ece7dffd81d75,View Dashboard,6240,Light,6.0,,,,0.0
+855,856,3f74b4421b42fa8f182ece7dffd81d75,Orientation Switch,6240,,6.0,,,,0.0
+38,39,405d25d7e476a63d4cfc49f1c7cb38f0,View Dashboard,240,Light,1.0,,,,23.0
+40,41,405d25d7e476a63d4cfc49f1c7cb38f0,View Dashboard,240,Light,1.0,,,,23.0
+41,42,405d25d7e476a63d4cfc49f1c7cb38f0,Edit Graph from Dashboard,240,,1.0,,Custom,,23.0
+42,43,405d25d7e476a63d4cfc49f1c7cb38f0,Graph Editor,240,,1.0,,Custom,,23.0
+58,59,405d25d7e476a63d4cfc49f1c7cb38f0,Graph Saved in Editor,360,,1.0,,Custom,,23.0
+59,60,405d25d7e476a63d4cfc49f1c7cb38f0,View Dashboard,360,Light,1.0,,,,23.0
+138,139,42a6e310d0fb4cbd4c35755fd0c71564,Graph Editor,960,,1.0,,Custom,,8.0
+140,141,42a6e310d0fb4cbd4c35755fd0c71564,View Dashboard,960,Light,1.0,,,,8.0
+143,144,42a6e310d0fb4cbd4c35755fd0c71564,Add Button,960,,1.0,,,,8.0
+144,145,42a6e310d0fb4cbd4c35755fd0c71564,Build a New Graph Button,960,,1.0,,,,8.0
+146,147,42a6e310d0fb4cbd4c35755fd0c71564,Graph Editor,960,,1.0,,Custom,,8.0
+152,153,42a6e310d0fb4cbd4c35755fd0c71564,Graph Editor,1020,,1.0,,Custom,,8.0
+153,154,42a6e310d0fb4cbd4c35755fd0c71564,View Dashboard,1020,Light,1.0,,,,8.0
+157,158,42a6e310d0fb4cbd4c35755fd0c71564,Add Button,1020,,1.0,,,,8.0
+158,159,42a6e310d0fb4cbd4c35755fd0c71564,Build a New Graph Button,1020,,1.0,,,,8.0
+160,161,42a6e310d0fb4cbd4c35755fd0c71564,Graph Editor,1020,,1.0,,Custom,,8.0
+162,163,42a6e310d0fb4cbd4c35755fd0c71564,Graph Editor,1020,,1.0,,Custom,,8.0
+164,165,42a6e310d0fb4cbd4c35755fd0c71564,View Dashboard,1020,Light,1.0,,,,8.0
+166,167,42a6e310d0fb4cbd4c35755fd0c71564,Add Button,1020,,1.0,,,,8.0
+167,168,42a6e310d0fb4cbd4c35755fd0c71564,Graph Added to Dashboard,1080,,1.0,,,,8.0
+168,169,42a6e310d0fb4cbd4c35755fd0c71564,Graph Added to Dashboard,1080,,1.0,,,,8.0
+171,172,42a6e310d0fb4cbd4c35755fd0c71564,Edit Graph from Dashboard,1080,,1.0,,Custom,,8.0
+173,174,42a6e310d0fb4cbd4c35755fd0c71564,Graph Editor,1080,,1.0,,Custom,,8.0
+177,178,42a6e310d0fb4cbd4c35755fd0c71564,Graph Saved in Editor,1140,,1.0,,Custom,,11.0
+178,179,42a6e310d0fb4cbd4c35755fd0c71564,View Dashboard,1140,Light,1.0,,,,8.0
+181,182,42a6e310d0fb4cbd4c35755fd0c71564,Edit Graph from Dashboard,1140,,1.0,,Custom,,8.0
+182,183,42a6e310d0fb4cbd4c35755fd0c71564,Graph Editor,1140,,1.0,,Custom,,8.0
+183,184,42a6e310d0fb4cbd4c35755fd0c71564,Graph Editor,1200,,1.0,,Custom,,8.0
+184,185,42a6e310d0fb4cbd4c35755fd0c71564,View Dashboard,1200,Light,1.0,,,,8.0
+186,187,42a6e310d0fb4cbd4c35755fd0c71564,Add Button,1200,,1.0,,,,8.0
+187,188,42a6e310d0fb4cbd4c35755fd0c71564,Graph Added to Dashboard,1200,,1.0,,,,8.0
+193,194,42a6e310d0fb4cbd4c35755fd0c71564,Add Button,1200,,1.0,,,,8.0
+196,197,42a6e310d0fb4cbd4c35755fd0c71564,Graph Added to Dashboard,1260,,1.0,,,,8.0
+198,199,42a6e310d0fb4cbd4c35755fd0c71564,Edit Graph from Dashboard,1260,,1.0,,Custom,,8.0
+199,200,42a6e310d0fb4cbd4c35755fd0c71564,Graph Editor,1260,,1.0,,Custom,,8.0
+260,261,42a6e310d0fb4cbd4c35755fd0c71564,Graph Saved in Editor,1680,,1.0,,Custom,,11.0
+261,262,42a6e310d0fb4cbd4c35755fd0c71564,View Dashboard,1680,Light,1.0,,,,8.0
+262,263,42a6e310d0fb4cbd4c35755fd0c71564,Add Button,1680,,1.0,,,,8.0
+263,264,42a6e310d0fb4cbd4c35755fd0c71564,Build a New Graph Button,1680,,1.0,,,,8.0
+264,265,42a6e310d0fb4cbd4c35755fd0c71564,Graph Editor,1680,,1.0,,Custom,,8.0
+265,266,42a6e310d0fb4cbd4c35755fd0c71564,Graph Editor,1740,,1.0,,Custom,,8.0
+266,267,42a6e310d0fb4cbd4c35755fd0c71564,View Dashboard,1740,Light,1.0,,,,8.0
+271,272,42a6e310d0fb4cbd4c35755fd0c71564,Edit Graph from Dashboard,1740,,1.0,,Custom,,8.0
+272,273,42a6e310d0fb4cbd4c35755fd0c71564,Graph Editor,1740,,1.0,,Custom,,8.0
+273,274,42a6e310d0fb4cbd4c35755fd0c71564,Sidebar Help,1740,,1.0,,,,8.0
+274,275,42a6e310d0fb4cbd4c35755fd0c71564,Graph Saved in Editor,1800,,1.0,,Custom,,11.0
+275,276,42a6e310d0fb4cbd4c35755fd0c71564,View Dashboard,1800,Light,1.0,,,,8.0
+277,278,42a6e310d0fb4cbd4c35755fd0c71564,Add Button,1800,,1.0,,,,8.0
+278,279,42a6e310d0fb4cbd4c35755fd0c71564,Build a New Graph Button,1800,,1.0,,,,8.0
+279,280,42a6e310d0fb4cbd4c35755fd0c71564,Graph Editor,1800,,1.0,,Custom,,8.0
+296,297,42a6e310d0fb4cbd4c35755fd0c71564,Graph Saved in Editor,1980,,1.0,,Custom,,11.0
+298,299,42a6e310d0fb4cbd4c35755fd0c71564,View Dashboard,2040,Light,1.0,,,,8.0
+299,300,42a6e310d0fb4cbd4c35755fd0c71564,Edit Graph from Dashboard,2040,,1.0,,Custom,,8.0
+300,301,42a6e310d0fb4cbd4c35755fd0c71564,Graph Editor,2040,,1.0,,Custom,,8.0
+325,326,42a6e310d0fb4cbd4c35755fd0c71564,Graph Saved in Editor,2280,,1.0,,Custom,,12.0
+326,327,42a6e310d0fb4cbd4c35755fd0c71564,View Dashboard,2280,Light,1.0,,,,8.0
+345,346,42a6e310d0fb4cbd4c35755fd0c71564,Add Button,2400,,1.0,,,,8.0
+349,350,42a6e310d0fb4cbd4c35755fd0c71564,Build a New Graph Button,2460,,1.0,,,,8.0
+350,351,42a6e310d0fb4cbd4c35755fd0c71564,Graph Editor,2460,,1.0,,Custom,,8.0
+356,357,42a6e310d0fb4cbd4c35755fd0c71564,Graph Editor,2520,,1.0,,Custom,,8.0
+358,359,42a6e310d0fb4cbd4c35755fd0c71564,View Dashboard,2520,Light,1.0,,,,8.0
+382,383,42a6e310d0fb4cbd4c35755fd0c71564,View Dashboard,2700,Light,1.0,,,,8.0
+383,384,42a6e310d0fb4cbd4c35755fd0c71564,Edit Graph from Dashboard,2700,,1.0,,Custom,,8.0
+384,385,42a6e310d0fb4cbd4c35755fd0c71564,Graph Editor,2760,,1.0,,Custom,,8.0
+396,397,42a6e310d0fb4cbd4c35755fd0c71564,Graph Editor,2760,,1.0,,Custom,,8.0
+397,398,42a6e310d0fb4cbd4c35755fd0c71564,View Dashboard,2760,Light,1.0,,,,8.0
+398,399,42a6e310d0fb4cbd4c35755fd0c71564,Add Button,2760,,1.0,,,,8.0
+399,400,42a6e310d0fb4cbd4c35755fd0c71564,Build a New Graph Button,2760,,1.0,,,,8.0
+400,401,42a6e310d0fb4cbd4c35755fd0c71564,Graph Editor,2760,,1.0,,Custom,,8.0
+457,458,42a6e310d0fb4cbd4c35755fd0c71564,Graph Saved in Editor,3180,,1.0,,Custom,,12.0
+458,459,42a6e310d0fb4cbd4c35755fd0c71564,View Dashboard,3180,Light,1.0,,,,8.0
+506,507,42a6e310d0fb4cbd4c35755fd0c71564,Edit Graph from Dashboard,3420,,1.0,,Custom,,8.0
+507,508,42a6e310d0fb4cbd4c35755fd0c71564,Graph Editor,3420,,1.0,,Custom,,8.0
+711,712,42a6e310d0fb4cbd4c35755fd0c71564,Graph Editor,4440,,1.0,,Custom,,8.0
+712,713,42a6e310d0fb4cbd4c35755fd0c71564,View Dashboard,4440,Light,1.0,,,,8.0
+775,776,4398c530a4d5f3760fd740107dbc670b,View Dashboard,4800,Dark,3.0,,,,0.0
+316,317,43aa58feadb3981f8ad67d47f5416790,View Dashboard,2160,Light,1.0,,,,12.0
+47,48,4da83fc3e758478f4e0d92de1cd8da7e,View Dashboard,300,Light,181.0,,,,0.0
+48,49,4da83fc3e758478f4e0d92de1cd8da7e,Tab Switched,360,,181.0,,,,0.0
+52,53,4da83fc3e758478f4e0d92de1cd8da7e,Tab Switched,360,,181.0,,,,0.0
+56,57,4da83fc3e758478f4e0d92de1cd8da7e,Tab Switched,360,,181.0,,,,0.0
+60,61,4da83fc3e758478f4e0d92de1cd8da7e,Show More Graphs,360,,181.0,,,7.0,0.0
+814,815,4eb76c8ca4473d1e2aec236c1c78fe6c,View Dashboard,5220,Dark,2.0,,,,13.0
+3,4,51b809b091fc0f51dc7aca9ddc486bfe,Graph Saved in Editor,0,,1.0,,Custom,,15.0
+4,5,51b809b091fc0f51dc7aca9ddc486bfe,View Dashboard,0,Light,1.0,,,,8.0
+14,15,51b809b091fc0f51dc7aca9ddc486bfe,Edit Graph from Dashboard,60,,1.0,,Custom,,8.0
+16,17,51b809b091fc0f51dc7aca9ddc486bfe,Graph Editor,60,,1.0,,Custom,,8.0
+25,26,51b809b091fc0f51dc7aca9ddc486bfe,Graph Saved in Editor,60,,1.0,,Custom,,15.0
+26,27,51b809b091fc0f51dc7aca9ddc486bfe,View Dashboard,120,Dark,1.0,,,,8.0
+33,34,51b809b091fc0f51dc7aca9ddc486bfe,Add Button,180,,1.0,,,,8.0
+34,35,51b809b091fc0f51dc7aca9ddc486bfe,Build a New Graph Button,240,,1.0,,,,8.0
+35,36,51b809b091fc0f51dc7aca9ddc486bfe,Graph Editor,240,,1.0,,Custom,,8.0
+74,75,51b809b091fc0f51dc7aca9ddc486bfe,Create Data Source,480,,1.0,,,,8.0
+78,79,51b809b091fc0f51dc7aca9ddc486bfe,Data Source Connector,480,,1.0,,,,8.0
+89,90,51b809b091fc0f51dc7aca9ddc486bfe,Create Data Source,600,,1.0,,,,8.0
+91,92,51b809b091fc0f51dc7aca9ddc486bfe,Data Source Connector,600,,1.0,,,,8.0
+99,100,51b809b091fc0f51dc7aca9ddc486bfe,Data Source Created,600,,1.0,,,,15.0
+108,109,51b809b091fc0f51dc7aca9ddc486bfe,Graph Saved in Editor,660,,1.0,,Custom,,15.0
+110,111,51b809b091fc0f51dc7aca9ddc486bfe,View Dashboard,660,Dark,1.0,,,,8.0
+122,123,51b809b091fc0f51dc7aca9ddc486bfe,Edit Graph from Dashboard,840,,1.0,,Custom,,8.0
+123,124,51b809b091fc0f51dc7aca9ddc486bfe,Graph Editor,840,,1.0,,Custom,,8.0
+127,128,51b809b091fc0f51dc7aca9ddc486bfe,Graph Saved in Editor,900,,1.0,,Custom,,16.0
+128,129,51b809b091fc0f51dc7aca9ddc486bfe,View Dashboard,900,Dark,1.0,,,,8.0
+129,130,51b809b091fc0f51dc7aca9ddc486bfe,Edit Graph from Dashboard,900,,1.0,,Custom,,8.0
+130,131,51b809b091fc0f51dc7aca9ddc486bfe,Graph Editor,900,,1.0,,Custom,,8.0
+136,137,51b809b091fc0f51dc7aca9ddc486bfe,Graph Saved in Editor,960,,1.0,,Custom,,16.0
+137,138,51b809b091fc0f51dc7aca9ddc486bfe,View Dashboard,960,Dark,1.0,,,,8.0
+148,149,51b809b091fc0f51dc7aca9ddc486bfe,Edit Graph from Dashboard,960,,1.0,,Custom,,8.0
+150,151,51b809b091fc0f51dc7aca9ddc486bfe,Graph Editor,960,,1.0,,Custom,,8.0
+154,155,51b809b091fc0f51dc7aca9ddc486bfe,Graph Saved in Editor,1020,,1.0,,Custom,,16.0
+155,156,51b809b091fc0f51dc7aca9ddc486bfe,View Dashboard,1020,Dark,1.0,,,,8.0
+174,175,51b809b091fc0f51dc7aca9ddc486bfe,Edit Graph from Dashboard,1140,,1.0,,Custom,,8.0
+175,176,51b809b091fc0f51dc7aca9ddc486bfe,Graph Editor,1140,,1.0,,Custom,,8.0
+188,189,51b809b091fc0f51dc7aca9ddc486bfe,Graph Saved in Editor,1200,,1.0,,Custom,,16.0
+189,190,51b809b091fc0f51dc7aca9ddc486bfe,View Dashboard,1200,Dark,1.0,,,,8.0
+191,192,51b809b091fc0f51dc7aca9ddc486bfe,Edit Graph from Dashboard,1200,,1.0,,Custom,,8.0
+192,193,51b809b091fc0f51dc7aca9ddc486bfe,Graph Editor,1200,,1.0,,Custom,,8.0
+194,195,51b809b091fc0f51dc7aca9ddc486bfe,Graph Saved in Editor,1200,,1.0,,Custom,,16.0
+195,196,51b809b091fc0f51dc7aca9ddc486bfe,View Dashboard,1260,Dark,1.0,,,,8.0
+201,202,51b809b091fc0f51dc7aca9ddc486bfe,Edit Graph from Dashboard,1260,,1.0,,Custom,,8.0
+202,203,51b809b091fc0f51dc7aca9ddc486bfe,Graph Editor,1260,,1.0,,Custom,,8.0
+205,206,51b809b091fc0f51dc7aca9ddc486bfe,Graph Saved in Editor,1260,,1.0,,Custom,,16.0
+207,208,51b809b091fc0f51dc7aca9ddc486bfe,View Dashboard,1260,Light,1.0,,,,8.0
+208,209,51b809b091fc0f51dc7aca9ddc486bfe,Edit Graph from Dashboard,1320,,1.0,,Custom,,8.0
+210,211,51b809b091fc0f51dc7aca9ddc486bfe,Graph Editor,1320,,1.0,,Custom,,8.0
+213,214,51b809b091fc0f51dc7aca9ddc486bfe,Graph Saved in Editor,1320,,1.0,,Custom,,16.0
+214,215,51b809b091fc0f51dc7aca9ddc486bfe,View Dashboard,1320,Light,1.0,,,,8.0
+217,218,51b809b091fc0f51dc7aca9ddc486bfe,Edit Graph from Dashboard,1320,,1.0,,Custom,,8.0
+218,219,51b809b091fc0f51dc7aca9ddc486bfe,Graph Editor,1320,,1.0,,Custom,,8.0
+220,221,51b809b091fc0f51dc7aca9ddc486bfe,Graph Saved in Editor,1380,,1.0,,Custom,,16.0
+221,222,51b809b091fc0f51dc7aca9ddc486bfe,View Dashboard,1380,Light,1.0,,,,8.0
+222,223,51b809b091fc0f51dc7aca9ddc486bfe,Edit Graph from Dashboard,1380,,1.0,,Custom,,8.0
+223,224,51b809b091fc0f51dc7aca9ddc486bfe,Graph Editor,1380,,1.0,,Custom,,8.0
+225,226,51b809b091fc0f51dc7aca9ddc486bfe,Graph Saved in Editor,1380,,1.0,,Custom,,16.0
+226,227,51b809b091fc0f51dc7aca9ddc486bfe,View Dashboard,1380,Light,1.0,,,,8.0
+229,230,51b809b091fc0f51dc7aca9ddc486bfe,Edit Graph from Dashboard,1440,,1.0,,Custom,,8.0
+230,231,51b809b091fc0f51dc7aca9ddc486bfe,Graph Editor,1440,,1.0,,Custom,,8.0
+233,234,51b809b091fc0f51dc7aca9ddc486bfe,Graph Saved in Editor,1440,,1.0,,Custom,,16.0
+234,235,51b809b091fc0f51dc7aca9ddc486bfe,View Dashboard,1440,Light,1.0,,,,8.0
+236,237,51b809b091fc0f51dc7aca9ddc486bfe,Edit Graph from Dashboard,1440,,1.0,,Custom,,8.0
+237,238,51b809b091fc0f51dc7aca9ddc486bfe,Graph Editor,1440,,1.0,,Custom,,8.0
+238,239,51b809b091fc0f51dc7aca9ddc486bfe,Graph Saved in Editor,1440,,1.0,,Custom,,16.0
+239,240,51b809b091fc0f51dc7aca9ddc486bfe,View Dashboard,1440,Light,1.0,,,,8.0
+240,241,51b809b091fc0f51dc7aca9ddc486bfe,Edit Graph from Dashboard,1440,,1.0,,Custom,,8.0
+241,242,51b809b091fc0f51dc7aca9ddc486bfe,Graph Editor,1440,,1.0,,Custom,,8.0
+243,244,51b809b091fc0f51dc7aca9ddc486bfe,Graph Saved in Editor,1500,,1.0,,Custom,,16.0
+244,245,51b809b091fc0f51dc7aca9ddc486bfe,View Dashboard,1500,Light,1.0,,,,8.0
+245,246,51b809b091fc0f51dc7aca9ddc486bfe,Edit Graph from Dashboard,1500,,1.0,,Custom,,8.0
+246,247,51b809b091fc0f51dc7aca9ddc486bfe,Graph Editor,1500,,1.0,,Custom,,8.0
+249,250,51b809b091fc0f51dc7aca9ddc486bfe,Graph Saved in Editor,1500,,1.0,,Custom,,16.0
+250,251,51b809b091fc0f51dc7aca9ddc486bfe,View Dashboard,1500,Light,1.0,,,,8.0
+251,252,51b809b091fc0f51dc7aca9ddc486bfe,Edit Graph from Dashboard,1500,,1.0,,Custom,,8.0
+252,253,51b809b091fc0f51dc7aca9ddc486bfe,Graph Editor,1500,,1.0,,Custom,,8.0
+258,259,51b809b091fc0f51dc7aca9ddc486bfe,Graph Saved in Editor,1680,,1.0,,Custom,,16.0
+259,260,51b809b091fc0f51dc7aca9ddc486bfe,View Dashboard,1680,Light,1.0,,,,8.0
+267,268,51b809b091fc0f51dc7aca9ddc486bfe,Edit Graph from Dashboard,1740,,1.0,,Custom,,8.0
+268,269,51b809b091fc0f51dc7aca9ddc486bfe,Graph Editor,1740,,1.0,,Custom,,8.0
+270,271,51b809b091fc0f51dc7aca9ddc486bfe,Sidebar Help,1740,,1.0,,,,8.0
+291,292,51b809b091fc0f51dc7aca9ddc486bfe,Graph Saved in Editor,1980,,1.0,,Custom,,16.0
+293,294,51b809b091fc0f51dc7aca9ddc486bfe,View Dashboard,1980,Light,1.0,,,,8.0
+294,295,51b809b091fc0f51dc7aca9ddc486bfe,Build Graph from Library,1980,,1.0,,,,16.0
+295,296,51b809b091fc0f51dc7aca9ddc486bfe,Graph Editor,1980,,1.0,,Custom,,8.0
+313,314,51b809b091fc0f51dc7aca9ddc486bfe,Graph Saved in Editor,2160,,1.0,,Custom,,16.0
+315,316,51b809b091fc0f51dc7aca9ddc486bfe,View Dashboard,2160,Light,1.0,,,,8.0
+318,319,51b809b091fc0f51dc7aca9ddc486bfe,View Dashboard,2220,Light,1.0,,,,8.0
+320,321,51b809b091fc0f51dc7aca9ddc486bfe,Edit Graph from Dashboard,2220,,1.0,,Custom,,8.0
+321,322,51b809b091fc0f51dc7aca9ddc486bfe,Graph Editor,2220,,1.0,,Custom,,8.0
+322,323,51b809b091fc0f51dc7aca9ddc486bfe,Graph Saved in Editor,2220,,1.0,,Custom,,17.0
+323,324,51b809b091fc0f51dc7aca9ddc486bfe,View Dashboard,2220,Light,1.0,,,,8.0
+327,328,51b809b091fc0f51dc7aca9ddc486bfe,View Dashboard,2280,Light,1.0,,,,8.0
+329,330,51b809b091fc0f51dc7aca9ddc486bfe,View Dashboard,2280,Light,1.0,,,,8.0
+332,333,51b809b091fc0f51dc7aca9ddc486bfe,Add Button,2280,,1.0,,,,8.0
+333,334,51b809b091fc0f51dc7aca9ddc486bfe,Graph Added to Dashboard,2340,,1.0,,,,8.0
+341,342,51b809b091fc0f51dc7aca9ddc486bfe,Edit Graph from Dashboard,2400,,1.0,,Custom,,8.0
+342,343,51b809b091fc0f51dc7aca9ddc486bfe,Graph Editor,2400,,1.0,,Custom,,8.0
+343,344,51b809b091fc0f51dc7aca9ddc486bfe,Graph Saved in Editor,2400,,1.0,,Custom,,17.0
+344,345,51b809b091fc0f51dc7aca9ddc486bfe,View Dashboard,2400,Dark,1.0,,,,8.0
+351,352,51b809b091fc0f51dc7aca9ddc486bfe,Edit Graph from Dashboard,2520,,1.0,,Custom,,8.0
+352,353,51b809b091fc0f51dc7aca9ddc486bfe,Graph Editor,2520,,1.0,,Custom,,8.0
+355,356,51b809b091fc0f51dc7aca9ddc486bfe,Graph Saved in Editor,2520,,1.0,,Custom,,17.0
+357,358,51b809b091fc0f51dc7aca9ddc486bfe,View Dashboard,2520,Dark,1.0,,,,8.0
+359,360,51b809b091fc0f51dc7aca9ddc486bfe,Edit Graph from Dashboard,2580,,1.0,,Custom,,8.0
+360,361,51b809b091fc0f51dc7aca9ddc486bfe,Graph Editor,2580,,1.0,,Custom,,8.0
+365,366,51b809b091fc0f51dc7aca9ddc486bfe,Graph Saved in Editor,2640,,1.0,,Custom,,17.0
+366,367,51b809b091fc0f51dc7aca9ddc486bfe,View Dashboard,2640,Dark,1.0,,,,8.0
+368,369,51b809b091fc0f51dc7aca9ddc486bfe,Edit Graph from Dashboard,2640,,1.0,,Custom,,8.0
+369,370,51b809b091fc0f51dc7aca9ddc486bfe,Graph Editor,2640,,1.0,,Custom,,8.0
+370,371,51b809b091fc0f51dc7aca9ddc486bfe,Graph Saved in Editor,2640,,1.0,,Custom,,17.0
+371,372,51b809b091fc0f51dc7aca9ddc486bfe,View Dashboard,2640,Dark,1.0,,,,8.0
+372,373,51b809b091fc0f51dc7aca9ddc486bfe,Edit Graph from Dashboard,2640,,1.0,,Custom,,8.0
+373,374,51b809b091fc0f51dc7aca9ddc486bfe,Graph Editor,2640,,1.0,,Custom,,8.0
+375,376,51b809b091fc0f51dc7aca9ddc486bfe,Graph Saved in Editor,2700,,1.0,,Custom,,17.0
+376,377,51b809b091fc0f51dc7aca9ddc486bfe,View Dashboard,2700,Dark,1.0,,,,8.0
+379,380,51b809b091fc0f51dc7aca9ddc486bfe,Edit Graph from Dashboard,2700,,1.0,,Custom,,8.0
+381,382,51b809b091fc0f51dc7aca9ddc486bfe,Graph Editor,2700,,1.0,,Custom,,8.0
+385,386,51b809b091fc0f51dc7aca9ddc486bfe,Graph Editor,2760,,1.0,,Custom,,8.0
+386,387,51b809b091fc0f51dc7aca9ddc486bfe,View Dashboard,2760,Dark,1.0,,,,8.0
+387,388,51b809b091fc0f51dc7aca9ddc486bfe,Edit Graph from Dashboard,2760,,1.0,,Custom,,8.0
+388,389,51b809b091fc0f51dc7aca9ddc486bfe,Graph Editor,2760,,1.0,,Custom,,8.0
+392,393,51b809b091fc0f51dc7aca9ddc486bfe,Graph Saved in Editor,2760,,1.0,,Custom,,17.0
+393,394,51b809b091fc0f51dc7aca9ddc486bfe,View Dashboard,2760,Dark,1.0,,,,8.0
+405,406,51b809b091fc0f51dc7aca9ddc486bfe,Edit Graph from Dashboard,2820,,1.0,,Custom,,8.0
+406,407,51b809b091fc0f51dc7aca9ddc486bfe,Graph Editor,2820,,1.0,,Custom,,8.0
+412,413,51b809b091fc0f51dc7aca9ddc486bfe,Graph Saved in Editor,2880,,1.0,,Custom,,17.0
+413,414,51b809b091fc0f51dc7aca9ddc486bfe,View Dashboard,2880,Dark,1.0,,,,8.0
+416,417,51b809b091fc0f51dc7aca9ddc486bfe,Edit Graph from Dashboard,2880,,1.0,,Custom,,8.0
+417,418,51b809b091fc0f51dc7aca9ddc486bfe,Graph Editor,2880,,1.0,,Custom,,8.0
+418,419,51b809b091fc0f51dc7aca9ddc486bfe,Graph Saved in Editor,2940,,1.0,,Custom,,17.0
+419,420,51b809b091fc0f51dc7aca9ddc486bfe,View Dashboard,2940,Dark,1.0,,,,8.0
+422,423,51b809b091fc0f51dc7aca9ddc486bfe,Edit Graph from Dashboard,3000,,1.0,,Custom,,8.0
+423,424,51b809b091fc0f51dc7aca9ddc486bfe,Graph Editor,3000,,1.0,,Custom,,8.0
+424,425,51b809b091fc0f51dc7aca9ddc486bfe,Graph Saved in Editor,3000,,1.0,,Custom,,17.0
+425,426,51b809b091fc0f51dc7aca9ddc486bfe,View Dashboard,3000,Dark,1.0,,,,8.0
+426,427,51b809b091fc0f51dc7aca9ddc486bfe,Edit Graph from Dashboard,3000,,1.0,,Custom,,8.0
+428,429,51b809b091fc0f51dc7aca9ddc486bfe,Graph Editor,3000,,1.0,,Custom,,8.0
+429,430,51b809b091fc0f51dc7aca9ddc486bfe,Graph Saved in Editor,3000,,1.0,,Custom,,17.0
+430,431,51b809b091fc0f51dc7aca9ddc486bfe,View Dashboard,3000,Dark,1.0,,,,8.0
+436,437,51b809b091fc0f51dc7aca9ddc486bfe,Edit Graph from Dashboard,3060,,1.0,,Custom,,8.0
+438,439,51b809b091fc0f51dc7aca9ddc486bfe,Graph Editor,3060,,1.0,,Custom,,8.0
+447,448,51b809b091fc0f51dc7aca9ddc486bfe,Graph Saved in Editor,3120,,1.0,,Custom,,17.0
+448,449,51b809b091fc0f51dc7aca9ddc486bfe,View Dashboard,3120,Dark,1.0,,,,8.0
+449,450,51b809b091fc0f51dc7aca9ddc486bfe,Edit Graph from Dashboard,3120,,1.0,,Custom,,8.0
+450,451,51b809b091fc0f51dc7aca9ddc486bfe,Graph Editor,3120,,1.0,,Custom,,8.0
+451,452,51b809b091fc0f51dc7aca9ddc486bfe,Graph Saved in Editor,3120,,1.0,,Custom,,17.0
+452,453,51b809b091fc0f51dc7aca9ddc486bfe,View Dashboard,3120,Dark,1.0,,,,8.0
+455,456,51b809b091fc0f51dc7aca9ddc486bfe,Edit Graph from Dashboard,3180,,1.0,,Custom,,8.0
+456,457,51b809b091fc0f51dc7aca9ddc486bfe,Graph Editor,3180,,1.0,,Custom,,8.0
+459,460,51b809b091fc0f51dc7aca9ddc486bfe,Graph Saved in Editor,3180,,1.0,,Custom,,17.0
+460,461,51b809b091fc0f51dc7aca9ddc486bfe,View Dashboard,3180,Dark,1.0,,,,8.0
+469,470,51b809b091fc0f51dc7aca9ddc486bfe,Edit Graph from Dashboard,3300,,1.0,,Custom,,8.0
+471,472,51b809b091fc0f51dc7aca9ddc486bfe,Graph Editor,3300,,1.0,,Custom,,8.0
+483,484,51b809b091fc0f51dc7aca9ddc486bfe,Graph Saved in Editor,3300,,1.0,,Custom,,17.0
+484,485,51b809b091fc0f51dc7aca9ddc486bfe,View Dashboard,3300,Dark,1.0,,,,8.0
+493,494,51b809b091fc0f51dc7aca9ddc486bfe,Sidebar Help,3420,,1.0,,,,8.0
+495,496,51b809b091fc0f51dc7aca9ddc486bfe,New Account,3420,,1.0,,,,8.0
+858,859,51b809b091fc0f51dc7aca9ddc486bfe,Add Button,6240,,1.0,,,,8.0
+859,860,51b809b091fc0f51dc7aca9ddc486bfe,Build a New Graph Button,6240,,1.0,,,,8.0
+861,862,51b809b091fc0f51dc7aca9ddc486bfe,Graph Editor,6240,,1.0,,Custom,,8.0
+851,852,55971db4aee962c0a71595ab98e47855,View Dashboard,6060,Light,1.0,,,,33.0
+797,798,5943f3577db9006e38f2b15c35a05c34,View Dashboard,4980,Light,1.0,,,,4.0
+464,465,5d07cb7798127b003f253edcf24550ae,View Dashboard,3240,Light,1.0,,,,8.0
+465,466,5d07cb7798127b003f253edcf24550ae,Trial Sign Up Completed,3300,,1.0,,,,8.0
+466,467,5d07cb7798127b003f253edcf24550ae,Guide Start,3300,,1.0,,,,8.0
+467,468,5d07cb7798127b003f253edcf24550ae,View Dashboard,3300,Light,1.0,,,,8.0
+468,469,5d07cb7798127b003f253edcf24550ae,Guide Start,3300,,1.0,,,,8.0
+470,471,5d07cb7798127b003f253edcf24550ae,Guide Exit,3300,,1.0,,,,8.0
+472,473,5d07cb7798127b003f253edcf24550ae,Guide Start,3300,,1.0,,,,8.0
+473,474,5d07cb7798127b003f253edcf24550ae,Guide Exit,3300,,1.0,,,,8.0
+474,475,5d07cb7798127b003f253edcf24550ae,Guide Start,3300,,1.0,,,,8.0
+475,476,5d07cb7798127b003f253edcf24550ae,Add Blank Tab,3300,,1.0,,,,8.0
+476,477,5d07cb7798127b003f253edcf24550ae,Add Button,3300,,1.0,,,,8.0
+477,478,5d07cb7798127b003f253edcf24550ae,Guide Exit,3300,,1.0,,,,8.0
+478,479,5d07cb7798127b003f253edcf24550ae,Guide Start,3300,,1.0,,,,8.0
+479,480,5d07cb7798127b003f253edcf24550ae,Build a New Graph Button,3300,,1.0,,,,8.0
+480,481,5d07cb7798127b003f253edcf24550ae,Guide Exit,3300,,1.0,,,,8.0
+481,482,5d07cb7798127b003f253edcf24550ae,Graph Editor,3300,,1.0,,Custom,,8.0
+482,483,5d07cb7798127b003f253edcf24550ae,Guide Start,3300,,1.0,,,,8.0
+486,487,5d07cb7798127b003f253edcf24550ae,Graph Saved in Editor,3360,,1.0,,Custom,,8.0
+487,488,5d07cb7798127b003f253edcf24550ae,Editor Survey,3360,,1.0,,,,8.0
+489,490,5d07cb7798127b003f253edcf24550ae,View Dashboard,3360,Light,1.0,,,,8.0
+490,491,5d07cb7798127b003f253edcf24550ae,Create Data Source,3360,,1.0,,,,9.0
+823,824,6219c5a8680744c6e4644198f9a713fe,View Dashboard,5460,Light,1.0,,,,8.0
+824,825,6219c5a8680744c6e4644198f9a713fe,Dashboard Template Added,5460,,1.0,,,,8.0
+826,827,6219c5a8680744c6e4644198f9a713fe,Add Existing Tab,5460,,1.0,,,,8.0
+165,166,6b5ab83f529f0cc2c78f1e34b14cc099,View Dashboard,1020,Light,1.0,,,,8.0
+1,2,6c5941a5643cbcc803d42298adec6661,View Dashboard,0,Light,41.0,,,,0.0
+49,50,6c5941a5643cbcc803d42298adec6661,View Dashboard,360,Light,41.0,,,,0.0
+84,85,6c5941a5643cbcc803d42298adec6661,View Dashboard,540,Light,41.0,,,,0.0
+433,434,6c5941a5643cbcc803d42298adec6661,View Dashboard,3000,Light,41.0,,,,0.0
+114,115,716710665c939a34c93ad4237340581a,View Dashboard,660,Light,5.0,,,,0.0
+415,416,717205a57e88e2a243a553582ed1e060,View Dashboard,2880,Light,70.0,,,,0.0
+197,198,75163e6646c5efebcbdc787b8d98e09b,View Dashboard,1260,Light,1.0,,,,8.0
+209,210,75163e6646c5efebcbdc787b8d98e09b,Trial Sign Up Completed,1320,,1.0,,,,8.0
+227,228,75163e6646c5efebcbdc787b8d98e09b,View Dashboard,1380,Light,1.0,,,,8.0
+228,229,75163e6646c5efebcbdc787b8d98e09b,View Dashboard,1440,Light,1.0,,,,8.0
+231,232,75163e6646c5efebcbdc787b8d98e09b,View Dashboard,1440,Light,1.0,,,,8.0
+677,678,75931f723e66ffce04ea4d6ecda74174,View Dashboard,4260,Light,1.0,,,,8.0
+571,572,763a5c56284f07705a8562c2d4f76976,View Dashboard,3900,Light,1.0,,,,8.0
+39,40,763bf501a2bf11277ac40a2b230f0c34,View Dashboard,240,Light,4.0,,,,0.0
+43,44,763bf501a2bf11277ac40a2b230f0c34,Show More Graphs,240,,4.0,,,15.0,0.0
+44,45,763bf501a2bf11277ac40a2b230f0c34,Show More Graphs,240,,4.0,,,15.0,0.0
+256,257,763bf501a2bf11277ac40a2b230f0c34,View Dashboard,1620,Light,4.0,,,,0.0
+550,551,77757e99eb32bc0977fe1e5865a19791,View Dashboard,3780,Light,13.0,,,,0.0
+611,612,77757e99eb32bc0977fe1e5865a19791,View Dashboard,4080,Light,13.0,,,,0.0
+617,618,77757e99eb32bc0977fe1e5865a19791,View Dashboard,4080,Light,13.0,,,,0.0
+620,621,77757e99eb32bc0977fe1e5865a19791,View Dashboard,4080,Light,13.0,,,,0.0
+621,622,77757e99eb32bc0977fe1e5865a19791,View Dashboard,4080,Light,13.0,,,,0.0
+632,633,77757e99eb32bc0977fe1e5865a19791,View Dashboard,4140,Light,13.0,,,,0.0
+633,634,77757e99eb32bc0977fe1e5865a19791,View Dashboard,4140,Light,13.0,,,,0.0
+634,635,77757e99eb32bc0977fe1e5865a19791,View Dashboard,4140,Light,13.0,,,,0.0
+635,636,77757e99eb32bc0977fe1e5865a19791,View Dashboard,4140,Light,13.0,,,,0.0
+636,637,77757e99eb32bc0977fe1e5865a19791,View Dashboard,4140,Light,13.0,,,,0.0
+637,638,77757e99eb32bc0977fe1e5865a19791,View Dashboard,4140,Light,13.0,,,,0.0
+639,640,77757e99eb32bc0977fe1e5865a19791,View Dashboard,4140,Light,13.0,,,,0.0
+640,641,77757e99eb32bc0977fe1e5865a19791,View Dashboard,4140,Light,13.0,,,,0.0
+641,642,77757e99eb32bc0977fe1e5865a19791,View Dashboard,4140,Light,13.0,,,,0.0
+658,659,77757e99eb32bc0977fe1e5865a19791,Orientation Switch,4200,,13.0,,,,0.0
+665,666,77757e99eb32bc0977fe1e5865a19791,Orientation Switch,4200,,13.0,,,,0.0
+559,560,78d3bd83d75dd1981132eaaf587ccb83,View Dashboard,3840,Light,1.0,,,,8.0
+575,576,78d3bd83d75dd1981132eaaf587ccb83,Trial Sign Up Completed,3900,,1.0,,,,8.0
+577,578,78d3bd83d75dd1981132eaaf587ccb83,Guide Start,3900,,1.0,,,,8.0
+602,603,78d3bd83d75dd1981132eaaf587ccb83,View Dashboard,3960,Light,1.0,,,,8.0
+603,604,78d3bd83d75dd1981132eaaf587ccb83,Guide Start,3960,,1.0,,,,8.0
+604,605,78d3bd83d75dd1981132eaaf587ccb83,Guide Exit,4020,,1.0,,,,8.0
+203,204,7989d44de16087d458d839e2dfbd60b0,View Dashboard,1260,Light,1.0,,,,15.0
+204,205,7989d44de16087d458d839e2dfbd60b0,Build Graph from Library,1260,,1.0,,,,15.0
+206,207,7989d44de16087d458d839e2dfbd60b0,Graph Editor,1260,,1.0,,Custom,,15.0
+211,212,7989d44de16087d458d839e2dfbd60b0,Create Data Source,1320,,1.0,,,,15.0
+215,216,7989d44de16087d458d839e2dfbd60b0,Formula Editor Insert,1320,,1.0,,,,15.0
+284,285,7989d44de16087d458d839e2dfbd60b0,Create Data Source,1920,,1.0,,,,15.0
+286,287,7989d44de16087d458d839e2dfbd60b0,Data Source Connector,1920,,1.0,,,,15.0
+301,302,7989d44de16087d458d839e2dfbd60b0,Graph Editor,2040,,1.0,,Custom,,15.0
+302,303,7989d44de16087d458d839e2dfbd60b0,Create Data Source,2100,,1.0,,,,15.0
+303,304,7989d44de16087d458d839e2dfbd60b0,Data Source Connector,2100,,1.0,,,,15.0
+304,305,7989d44de16087d458d839e2dfbd60b0,Data Source Created,2100,,1.0,,,,15.0
+306,307,7989d44de16087d458d839e2dfbd60b0,Build Graph from Library,2100,,1.0,,,,15.0
+307,308,7989d44de16087d458d839e2dfbd60b0,Graph Editor,2100,,1.0,,Custom,,15.0
+324,325,7989d44de16087d458d839e2dfbd60b0,Formula Editor Insert,2220,,1.0,,,,15.0
+361,362,7989d44de16087d458d839e2dfbd60b0,Graph Editor,2580,,1.0,,Custom,,15.0
+362,363,7989d44de16087d458d839e2dfbd60b0,Build Graph from Library,2580,,1.0,,,,15.0
+363,364,7989d44de16087d458d839e2dfbd60b0,Graph Editor,2640,,1.0,,Custom,,15.0
+497,498,7989d44de16087d458d839e2dfbd60b0,Graph Editor,3420,,1.0,,Custom,,15.0
+502,503,7989d44de16087d458d839e2dfbd60b0,Build Graph from Library,3420,,1.0,,,,15.0
+503,504,7989d44de16087d458d839e2dfbd60b0,Graph Editor,3420,,1.0,,Custom,,15.0
+545,546,7989d44de16087d458d839e2dfbd60b0,Graph Editor,3720,,1.0,,Custom,,15.0
+546,547,7989d44de16087d458d839e2dfbd60b0,Graph Editor,3720,,1.0,,Custom,,15.0
+769,770,7989d44de16087d458d839e2dfbd60b0,Graph Editor,4800,,1.0,,Custom,,15.0
+770,771,7989d44de16087d458d839e2dfbd60b0,Graph Editor,4800,,1.0,,Custom,,15.0
+781,782,7989d44de16087d458d839e2dfbd60b0,Graph Saved in Editor,4860,,1.0,,Custom,,15.0
+784,785,7989d44de16087d458d839e2dfbd60b0,Graph Saved in Editor,4860,,1.0,,Custom,,15.0
+786,787,7989d44de16087d458d839e2dfbd60b0,Graph Saved in Editor,4860,,1.0,,Custom,,15.0
+791,792,7989d44de16087d458d839e2dfbd60b0,Graph Editor,4860,,1.0,,Custom,,15.0
+795,796,7989d44de16087d458d839e2dfbd60b0,Graph Saved in Editor,4920,,1.0,,Custom,,15.0
+798,799,7989d44de16087d458d839e2dfbd60b0,Graph Saved in Editor,4980,,1.0,,Custom,,15.0
+799,800,7989d44de16087d458d839e2dfbd60b0,Graph Saved in Editor,4980,,1.0,,Custom,,15.0
+800,801,7989d44de16087d458d839e2dfbd60b0,Build Graph from Library,4980,,1.0,,,,15.0
+802,803,7989d44de16087d458d839e2dfbd60b0,Graph Editor,4980,,1.0,,Custom,,15.0
+811,812,7989d44de16087d458d839e2dfbd60b0,Graph Saved in Editor,5160,,1.0,,Custom,,15.0
+812,813,7989d44de16087d458d839e2dfbd60b0,Graph Editor,5220,,1.0,,Custom,,15.0
+813,814,7989d44de16087d458d839e2dfbd60b0,Graph Saved in Editor,5220,,1.0,,Custom,,16.0
+842,843,7989d44de16087d458d839e2dfbd60b0,Graph Editor,5580,,1.0,,Custom,,15.0
+843,844,7989d44de16087d458d839e2dfbd60b0,Build Graph from Library,5580,,1.0,,,,15.0
+844,845,7989d44de16087d458d839e2dfbd60b0,Graph Editor,5580,,1.0,,Custom,,15.0
+156,157,7c790b8a1f04c66bc092b3957816d4dd,Orientation Switch,1020,,90.0,,,,0.0
+159,160,7c790b8a1f04c66bc092b3957816d4dd,Orientation Switch,1020,,90.0,,,,0.0
+45,46,7d414a1fd535217b4c83ea005a5c686e,View Dashboard,300,Dark,2.0,,,,21.0
+555,556,7e0d2c958b4b76211b1e5e3c8294ed22,View Plans,3840,,1.0,,,,29.0
+556,557,7e0d2c958b4b76211b1e5e3c8294ed22,Guide Start,3840,,1.0,,,,29.0
+395,396,813eb4f19558e06d8c6dd73caa1ea52b,View Dashboard,2760,Light,3.0,,,,0.0
+560,561,813eb4f19558e06d8c6dd73caa1ea52b,View Dashboard,3840,Light,3.0,,,,0.0
+594,595,813eb4f19558e06d8c6dd73caa1ea52b,View Dashboard,3960,Light,3.0,,,,0.0
+734,735,813eb4f19558e06d8c6dd73caa1ea52b,View Dashboard,4560,Light,3.0,,,,0.0
+817,818,831c2431e86b81fa0afb0596cafc2191,View Dashboard,5280,Light,1.0,,,,9.0
+552,553,87c2a4a0a608c4d7e46a233e117d8e95,View Dashboard,3780,Light,1.0,,,,8.0
+562,563,87c2a4a0a608c4d7e46a233e117d8e95,Trial Sign Up Completed,3840,,1.0,,,,8.0
+564,565,87c2a4a0a608c4d7e46a233e117d8e95,Guide Start,3900,,1.0,,,,8.0
+573,574,87c2a4a0a608c4d7e46a233e117d8e95,Guide Start,3900,,1.0,,,,8.0
+574,575,87c2a4a0a608c4d7e46a233e117d8e95,Guide Exit,3900,,1.0,,,,8.0
+578,579,87c2a4a0a608c4d7e46a233e117d8e95,Guide Exit,3900,,1.0,,,,8.0
+581,582,87c2a4a0a608c4d7e46a233e117d8e95,Guide Start,3900,,1.0,,,,8.0
+582,583,87c2a4a0a608c4d7e46a233e117d8e95,Add Blank Tab,3900,,1.0,,,,8.0
+595,596,87c2a4a0a608c4d7e46a233e117d8e95,Create Data Source,3960,,1.0,,,,8.0
+597,598,87c2a4a0a608c4d7e46a233e117d8e95,Data Source Connector,3960,,1.0,,,,8.0
+599,600,87c2a4a0a608c4d7e46a233e117d8e95,DS Template Selected,3960,,1.0,,,,8.0
+609,610,87c2a4a0a608c4d7e46a233e117d8e95,Data Source Error,4020,,1.0,,,,8.0
+778,779,883875a18510e68dcc642a6875717d15,View Dashboard,4800,Light,1.0,,,,38.0
+779,780,883875a18510e68dcc642a6875717d15,View Dashboard,4860,Light,1.0,,,,38.0
+780,781,883875a18510e68dcc642a6875717d15,View Dashboard,4860,Light,1.0,,,,38.0
+862,863,883875a18510e68dcc642a6875717d15,View Dashboard,6300,Light,1.0,,,,38.0
+565,566,88f36b78aebb2e8fe8630271d463ee55,View Dashboard,3900,Light,1.0,,,,40.0
+569,570,88f36b78aebb2e8fe8630271d463ee55,Template Connect Button,3900,,1.0,,,,40.0
+570,571,88f36b78aebb2e8fe8630271d463ee55,Add Template Auth,3900,,1.0,,,,40.0
+572,573,88f36b78aebb2e8fe8630271d463ee55,Add Template DS Settings,3900,,1.0,,,,40.0
+579,580,88f36b78aebb2e8fe8630271d463ee55,Template Connected,3900,,1.0,,,,40.0
+605,606,88f36b78aebb2e8fe8630271d463ee55,Template Connect Button,4020,,1.0,,,,40.0
+606,607,88f36b78aebb2e8fe8630271d463ee55,Add Template Auth,4020,,1.0,,,,40.0
+607,608,88f36b78aebb2e8fe8630271d463ee55,Add Template DS Settings,4020,,1.0,,,,40.0
+608,609,88f36b78aebb2e8fe8630271d463ee55,Template Connected,4020,,1.0,,,,40.0
+613,614,88f36b78aebb2e8fe8630271d463ee55,Template Connect Button,4080,,1.0,,,,40.0
+614,615,88f36b78aebb2e8fe8630271d463ee55,Add Template Auth,4080,,1.0,,,,40.0
+615,616,88f36b78aebb2e8fe8630271d463ee55,Error,4080,,1.0,,,,40.0
+618,619,88f36b78aebb2e8fe8630271d463ee55,Error,4080,,1.0,,,,40.0
+622,623,88f36b78aebb2e8fe8630271d463ee55,Error,4080,,1.0,,,,40.0
+626,627,88f36b78aebb2e8fe8630271d463ee55,Error,4080,,1.0,,,,40.0
+642,643,88f36b78aebb2e8fe8630271d463ee55,Error,4140,,1.0,,,,40.0
+650,651,88f36b78aebb2e8fe8630271d463ee55,Template Connect Button,4140,,1.0,,,,40.0
+651,652,88f36b78aebb2e8fe8630271d463ee55,Add Template Auth,4140,,1.0,,,,40.0
+654,655,88f36b78aebb2e8fe8630271d463ee55,Template Connect Button,4200,,1.0,,,,40.0
+655,656,88f36b78aebb2e8fe8630271d463ee55,Add Template Auth,4200,,1.0,,,,40.0
+659,660,88f36b78aebb2e8fe8630271d463ee55,Add Template DS Settings,4200,,1.0,,,,40.0
+661,662,88f36b78aebb2e8fe8630271d463ee55,Template Connected,4200,,1.0,,,,40.0
+667,668,88f36b78aebb2e8fe8630271d463ee55,Template Connect Button,4200,,1.0,,,,40.0
+669,670,88f36b78aebb2e8fe8630271d463ee55,Add Template Auth,4200,,1.0,,,,40.0
+671,672,88f36b78aebb2e8fe8630271d463ee55,Add Template DS Settings,4200,,1.0,,,,40.0
+673,674,88f36b78aebb2e8fe8630271d463ee55,Template Connected,4260,,1.0,,,,40.0
+678,679,88f36b78aebb2e8fe8630271d463ee55,Template Connect Button,4260,,1.0,,,,40.0
+679,680,88f36b78aebb2e8fe8630271d463ee55,Add Template Auth,4260,,1.0,,,,40.0
+680,681,88f36b78aebb2e8fe8630271d463ee55,Template Connect Button,4260,,1.0,,,,40.0
+681,682,88f36b78aebb2e8fe8630271d463ee55,Add Template Auth,4260,,1.0,,,,40.0
+682,683,88f36b78aebb2e8fe8630271d463ee55,Add Template DS Settings,4260,,1.0,,,,40.0
+683,684,88f36b78aebb2e8fe8630271d463ee55,Template Connected,4260,,1.0,,,,40.0
+686,687,88f36b78aebb2e8fe8630271d463ee55,Template Connect Button,4320,,1.0,,,,40.0
+687,688,88f36b78aebb2e8fe8630271d463ee55,Add Template Auth,4320,,1.0,,,,40.0
+688,689,88f36b78aebb2e8fe8630271d463ee55,Add Template DS Settings,4320,,1.0,,,,40.0
+689,690,88f36b78aebb2e8fe8630271d463ee55,Graph Gallery Error,4320,,1.0,,,,40.0
+690,691,88f36b78aebb2e8fe8630271d463ee55,Add Template Auth,4320,,1.0,,,,40.0
+691,692,88f36b78aebb2e8fe8630271d463ee55,Add Template DS Settings,4320,,1.0,,,,40.0
+692,693,88f36b78aebb2e8fe8630271d463ee55,Graph Gallery Error,4320,,1.0,,,,40.0
+693,694,88f36b78aebb2e8fe8630271d463ee55,Add Template Auth,4320,,1.0,,,,40.0
+694,695,88f36b78aebb2e8fe8630271d463ee55,Add Template DS Settings,4320,,1.0,,,,40.0
+695,696,88f36b78aebb2e8fe8630271d463ee55,Graph Gallery Error,4320,,1.0,,,,40.0
+696,697,88f36b78aebb2e8fe8630271d463ee55,Template Connect Button,4320,,1.0,,,,40.0
+697,698,88f36b78aebb2e8fe8630271d463ee55,Add Template Auth,4320,,1.0,,,,40.0
+698,699,88f36b78aebb2e8fe8630271d463ee55,Add Template DS Settings,4380,,1.0,,,,40.0
+700,701,88f36b78aebb2e8fe8630271d463ee55,Template Connected,4380,,1.0,,,,40.0
+704,705,88f36b78aebb2e8fe8630271d463ee55,Template Connect Button,4380,,1.0,,,,40.0
+705,706,88f36b78aebb2e8fe8630271d463ee55,Add Template Auth,4380,,1.0,,,,40.0
+706,707,88f36b78aebb2e8fe8630271d463ee55,Add Template DS Settings,4380,,1.0,,,,40.0
+708,709,88f36b78aebb2e8fe8630271d463ee55,Template Connected,4380,,1.0,,,,40.0
+714,715,88f36b78aebb2e8fe8630271d463ee55,Template Connect Button,4440,,1.0,,,,40.0
+715,716,88f36b78aebb2e8fe8630271d463ee55,Add Template Auth,4440,,1.0,,,,40.0
+717,718,88f36b78aebb2e8fe8630271d463ee55,Add Template DS Settings,4440,,1.0,,,,40.0
+720,721,88f36b78aebb2e8fe8630271d463ee55,Template Connected,4500,,1.0,,,,40.0
+725,726,88f36b78aebb2e8fe8630271d463ee55,Template Connect Button,4500,,1.0,,,,40.0
+726,727,88f36b78aebb2e8fe8630271d463ee55,Add Template Auth,4500,,1.0,,,,40.0
+727,728,88f36b78aebb2e8fe8630271d463ee55,Add Template DS Settings,4500,,1.0,,,,40.0
+728,729,88f36b78aebb2e8fe8630271d463ee55,Graph Gallery Error,4500,,1.0,,,,40.0
+729,730,88f36b78aebb2e8fe8630271d463ee55,Add Template Auth,4560,,1.0,,,,40.0
+730,731,88f36b78aebb2e8fe8630271d463ee55,Add Template DS Settings,4560,,1.0,,,,40.0
+732,733,88f36b78aebb2e8fe8630271d463ee55,Graph Gallery Error,4560,,1.0,,,,40.0
+735,736,88f36b78aebb2e8fe8630271d463ee55,Template Connect Button,4560,,1.0,,,,40.0
+736,737,88f36b78aebb2e8fe8630271d463ee55,Add Template Auth,4560,,1.0,,,,40.0
+737,738,88f36b78aebb2e8fe8630271d463ee55,Error,4560,,1.0,,,,40.0
+740,741,88f36b78aebb2e8fe8630271d463ee55,Add Template DS Settings,4560,,1.0,,,,40.0
+744,745,88f36b78aebb2e8fe8630271d463ee55,Graph Gallery Error,4560,,1.0,,,,40.0
+752,753,88f36b78aebb2e8fe8630271d463ee55,View Dashboard,4620,Light,1.0,,,,40.0
+761,762,88f36b78aebb2e8fe8630271d463ee55,View Dashboard,4680,Light,1.0,,,,40.0
+762,763,88f36b78aebb2e8fe8630271d463ee55,Add Button,4740,,1.0,,,,40.0
+763,764,88f36b78aebb2e8fe8630271d463ee55,Graph Gallery,4740,,1.0,,,,40.0
+764,765,88f36b78aebb2e8fe8630271d463ee55,Graph Gallery,4740,,1.0,,,,40.0
+766,767,88f36b78aebb2e8fe8630271d463ee55,Add Button,4740,,1.0,,,,40.0
+767,768,88f36b78aebb2e8fe8630271d463ee55,Graph Gallery,4740,,1.0,,,,40.0
+414,415,8bd1b26dffb5986dc6c7cecd2c71a6a8,View Dashboard,2880,Dark,3.0,,,,25.0
+61,62,933e7adea48e17154e5bab383c4de740,View Dashboard,360,Light,1.0,,,,8.0
+523,524,934b0e42cc4b3ef85f24a49881bd4218,View Dashboard,3480,Light,10.0,,,,14.0
+57,58,938922ddb1a818ff3b39b8178ba9a3a1,View Dashboard,360,Light,13.0,,,,0.0
+68,69,938922ddb1a818ff3b39b8178ba9a3a1,View Dashboard,480,Light,13.0,,,,0.0
+73,74,938922ddb1a818ff3b39b8178ba9a3a1,Show More Graphs,480,,13.0,,,6.0,0.0
+87,88,938922ddb1a818ff3b39b8178ba9a3a1,View Dashboard,600,Light,13.0,,,,0.0
+115,116,938922ddb1a818ff3b39b8178ba9a3a1,Orientation Switch,720,,13.0,,,,0.0
+305,306,938922ddb1a818ff3b39b8178ba9a3a1,View Dashboard,2100,Light,13.0,,,,0.0
+311,312,938922ddb1a818ff3b39b8178ba9a3a1,Manual Refresh,2160,,13.0,,,,0.0
+314,315,938922ddb1a818ff3b39b8178ba9a3a1,View Dashboard,2160,Light,13.0,,,,0.0
+485,486,938922ddb1a818ff3b39b8178ba9a3a1,View Dashboard,3300,Light,,,,,
+521,522,938922ddb1a818ff3b39b8178ba9a3a1,View Dashboard,3480,Light,,,,,
+525,526,938922ddb1a818ff3b39b8178ba9a3a1,Guide Start,3480,,,,,,
+526,527,938922ddb1a818ff3b39b8178ba9a3a1,Guide Exit,3540,,,,,,
+527,528,938922ddb1a818ff3b39b8178ba9a3a1,Guide Start,3540,,,,,,
+528,529,938922ddb1a818ff3b39b8178ba9a3a1,Add Existing Tab,3540,,,,,,
+590,591,938922ddb1a818ff3b39b8178ba9a3a1,View Dashboard,3900,Light,14.0,,,,0.0
+591,592,938922ddb1a818ff3b39b8178ba9a3a1,Add Existing Tab,3960,,14.0,,,,0.0
+660,661,938922ddb1a818ff3b39b8178ba9a3a1,Orientation Switch,4200,,14.0,,,,0.0
+662,663,938922ddb1a818ff3b39b8178ba9a3a1,Orientation Switch,4200,,14.0,,,,0.0
+663,664,938922ddb1a818ff3b39b8178ba9a3a1,Orientation Switch,4200,,14.0,,,,0.0
+792,793,938922ddb1a818ff3b39b8178ba9a3a1,Orientation Switch,4920,,14.0,,,,0.0
+793,794,938922ddb1a818ff3b39b8178ba9a3a1,View Dashboard,4920,Light,14.0,,,,0.0
+794,795,938922ddb1a818ff3b39b8178ba9a3a1,Orientation Switch,4920,,14.0,,,,0.0
+840,841,938922ddb1a818ff3b39b8178ba9a3a1,View Dashboard,5580,Light,14.0,,,,0.0
+841,842,938922ddb1a818ff3b39b8178ba9a3a1,Orientation Switch,5580,,14.0,,,,0.0
+610,611,9c2f8fff559aa33d9440c22fab314a79,View Dashboard,4080,Light,1.0,,,,21.0
+774,775,a22411aeb27e088c40a4b6ad21b80b9e,View Dashboard,4800,Dark,1.0,,,,11.0
+849,850,a22411aeb27e088c40a4b6ad21b80b9e,View Dashboard,5880,Dark,1.0,,,,11.0
+520,521,a50d89d33e81f12695ff764f11bc4ab8,View Dashboard,3480,Light,1.0,,,,12.0
+822,823,ab78ca911d5ebe89ce3895278faad661,View Dashboard,5400,Light,1.0,,,,8.0
+757,758,b4cf9fb986f90f3257786d5f3611b68d,View Dashboard,4680,Light,8.0,,,,0.0
+190,191,b59765e61d5b18c3e123aa822e9e400e,View Dashboard,1200,Dark,1.0,,,,12.0
+0,1,b8610d38ddca3692d34a55594e0b4df5,View Dashboard,0,Dark,1.0,,,,47.0
+2,3,b8610d38ddca3692d34a55594e0b4df5,Graph Editor,0,,1.0,,Custom,,47.0
+5,6,b8610d38ddca3692d34a55594e0b4df5,Create Data Source,0,,1.0,,,,47.0
+6,7,b8610d38ddca3692d34a55594e0b4df5,Connector Search,0,,1.0,,,,47.0
+7,8,b8610d38ddca3692d34a55594e0b4df5,Data Source Connector,0,,1.0,,,,47.0
+8,9,b8610d38ddca3692d34a55594e0b4df5,DS Template Selected,0,,1.0,,,,47.0
+9,10,b8610d38ddca3692d34a55594e0b4df5,Data Source Created,0,,1.0,,,,50.0
+24,25,b8610d38ddca3692d34a55594e0b4df5,Graph Editor,60,,1.0,,Custom,,47.0
+27,28,b8610d38ddca3692d34a55594e0b4df5,View Dashboard,120,Dark,1.0,,,,47.0
+107,108,b8610d38ddca3692d34a55594e0b4df5,Build Graph from Library,660,,1.0,,,,50.0
+109,110,b8610d38ddca3692d34a55594e0b4df5,Graph Editor,660,,1.0,,Custom,,47.0
+119,120,b8610d38ddca3692d34a55594e0b4df5,Graph Editor,780,,1.0,,Custom,,47.0
+120,121,b8610d38ddca3692d34a55594e0b4df5,Graph Editor,840,,1.0,,Custom,,47.0
+121,122,b8610d38ddca3692d34a55594e0b4df5,View Dashboard,840,Dark,1.0,,,,47.0
+390,391,b8610d38ddca3692d34a55594e0b4df5,View Dashboard,2760,Light,1.0,,,,50.0
+391,392,b8610d38ddca3692d34a55594e0b4df5,Add Existing Tab,2760,,1.0,,,,50.0
+394,395,b8610d38ddca3692d34a55594e0b4df5,Tab Switched,2760,,1.0,,,,50.0
+403,404,b8610d38ddca3692d34a55594e0b4df5,Tab Switched,2820,,1.0,,,,50.0
+408,409,b8610d38ddca3692d34a55594e0b4df5,Tab Switched,2820,,1.0,,,,50.0
+411,412,b8610d38ddca3692d34a55594e0b4df5,Orientation Switch,2820,,1.0,,,,50.0
+420,421,b8610d38ddca3692d34a55594e0b4df5,Tab Switched,2940,,1.0,,,,50.0
+421,422,b8610d38ddca3692d34a55594e0b4df5,Tab Switched,2940,,1.0,,,,50.0
+437,438,b8610d38ddca3692d34a55594e0b4df5,Orientation Switch,3060,,1.0,,,,50.0
+439,440,b8610d38ddca3692d34a55594e0b4df5,View Dashboard,3060,Light,1.0,,,,50.0
+440,441,b8610d38ddca3692d34a55594e0b4df5,Orientation Switch,3060,,1.0,,,,50.0
+454,455,b8610d38ddca3692d34a55594e0b4df5,Tab Switched,3120,,1.0,,,,50.0
+491,492,b8610d38ddca3692d34a55594e0b4df5,Orientation Switch,3420,,1.0,,,,50.0
+492,493,b8610d38ddca3692d34a55594e0b4df5,View Dashboard,3420,Light,1.0,,,,50.0
+494,495,b8610d38ddca3692d34a55594e0b4df5,Tab Switched,3420,,1.0,,,,50.0
+253,254,b97660aeb4f82feb6e0b19d8d9eb607f,View Dashboard,1560,Light,1.0,,,,8.0
+30,31,b9ad6d74631f80d4fc1384c0fcf5f115,View Dashboard,180,Light,4.0,,,,121.0
+90,91,bb44ea9a534e3f0e0b6a723cf87eba42,View Dashboard,600,Light,69.0,,,,0.0
+98,99,bb44ea9a534e3f0e0b6a723cf87eba42,Orientation Switch,600,,69.0,,,,0.0
+224,225,bb44ea9a534e3f0e0b6a723cf87eba42,Orientation Switch,1380,,69.0,,,,0.0
+289,290,bb44ea9a534e3f0e0b6a723cf87eba42,Orientation Switch,1980,,69.0,,,,0.0
+290,291,bb44ea9a534e3f0e0b6a723cf87eba42,Orientation Switch,1980,,69.0,,,,0.0
+292,293,bb44ea9a534e3f0e0b6a723cf87eba42,Orientation Switch,1980,,69.0,,,,0.0
+319,320,bb44ea9a534e3f0e0b6a723cf87eba42,Orientation Switch,2220,,69.0,,,,0.0
+825,826,bb44ea9a534e3f0e0b6a723cf87eba42,View Dashboard,5460,Light,69.0,,,,0.0
+576,577,bcb39f627f0d49dbb83c80d6d826ddc3,View Dashboard,3900,Light,3.0,,,,23.0
+589,590,bcb39f627f0d49dbb83c80d6d826ddc3,Show More Graphs,3900,,3.0,,,7.0,23.0
+804,805,bf6e66e4ef777a29b906e77a5cfff13a,Manual Refresh,5040,,3.0,,,,16.0
+805,806,bf6e66e4ef777a29b906e77a5cfff13a,Show More Graphs,5040,,3.0,,,6.0,16.0
+806,807,bf6e66e4ef777a29b906e77a5cfff13a,View Dashboard,5040,Light,3.0,,,,16.0
+807,808,bf6e66e4ef777a29b906e77a5cfff13a,Tab Switched,5040,,3.0,,,,16.0
+808,809,bf6e66e4ef777a29b906e77a5cfff13a,Manual Refresh,5040,,3.0,,,,16.0
+809,810,bf6e66e4ef777a29b906e77a5cfff13a,Manual Refresh,5040,,3.0,,,,16.0
+733,734,c29da51fb35aced0dde456d0dc8f3f17,View Dashboard,4560,Light,1.0,,,,8.0
+738,739,c29da51fb35aced0dde456d0dc8f3f17,Trial Sign Up Completed,4560,,1.0,,,,8.0
+741,742,c29da51fb35aced0dde456d0dc8f3f17,Guide Start,4560,,1.0,,,,8.0
+743,744,c29da51fb35aced0dde456d0dc8f3f17,View Dashboard,4560,Light,1.0,,,,8.0
+745,746,c29da51fb35aced0dde456d0dc8f3f17,Guide Start,4560,,1.0,,,,8.0
+746,747,c29da51fb35aced0dde456d0dc8f3f17,View Dashboard,4560,Light,1.0,,,,8.0
+747,748,c29da51fb35aced0dde456d0dc8f3f17,Guide Exit,4560,,1.0,,,,8.0
+748,749,c29da51fb35aced0dde456d0dc8f3f17,Guide Start,4560,,1.0,,,,8.0
+749,750,c29da51fb35aced0dde456d0dc8f3f17,Guide Start,4560,,1.0,,,,8.0
+755,756,c29da51fb35aced0dde456d0dc8f3f17,Build Graph from Library,4680,,1.0,,,,8.0
+756,757,c29da51fb35aced0dde456d0dc8f3f17,Graph Editor,4680,,1.0,,Custom,,8.0
+760,761,c29da51fb35aced0dde456d0dc8f3f17,Guide Start,4680,,1.0,,,,8.0
+776,777,c29da51fb35aced0dde456d0dc8f3f17,Graph Saved in Editor,4800,,1.0,,Custom,,8.0
+777,778,c29da51fb35aced0dde456d0dc8f3f17,Editor Survey,4800,,1.0,,,,8.0
+782,783,c29da51fb35aced0dde456d0dc8f3f17,Create Data Source,4860,,1.0,,,,9.0
+785,786,c29da51fb35aced0dde456d0dc8f3f17,Sidebar Help,4860,,1.0,,,,8.0
+788,789,c29da51fb35aced0dde456d0dc8f3f17,Sidebar Help,4860,,1.0,,,,8.0
+280,281,c4c21250e42fdcee13947a7c50b15b98,View Dashboard,1860,Light,3.0,,,,116.0
+281,282,c4c21250e42fdcee13947a7c50b15b98,Manual Refresh,1860,,3.0,,,,116.0
+282,283,c4c21250e42fdcee13947a7c50b15b98,Show More Graphs,1860,,3.0,,,10.0,116.0
+839,840,c552287ac2b39da2c4a12504417da891,View Dashboard,5520,Light,1.0,,,,8.0
+850,851,c7cb32f712bd28d7bf874f56f3ecf938,Data Source Error,6000,,4.0,,,,13.0
+853,854,c7cb32f712bd28d7bf874f56f3ecf938,Data Source Error,6240,,4.0,,,,13.0
+856,857,c7cb32f712bd28d7bf874f56f3ecf938,Data Source Error,6240,,4.0,,,,13.0
+857,858,c7cb32f712bd28d7bf874f56f3ecf938,Data Source Error,6240,,4.0,,,,13.0
+860,861,c7cb32f712bd28d7bf874f56f3ecf938,Data Source Error,6240,,4.0,,,,13.0
+863,864,c7cb32f712bd28d7bf874f56f3ecf938,Data Source Error,6300,,4.0,,,,13.0
+283,284,c8499f7e9da7d144850770d6d6d681ad,View Dashboard,1920,Light,1.0,,,,8.0
+308,309,cdf4bb66fd746c576b981d82b0348433,View Dashboard,2100,Light,100.0,,,,0.0
+309,310,cdf4bb66fd746c576b981d82b0348433,Orientation Switch,2100,,100.0,,,,0.0
+312,313,cdf4bb66fd746c576b981d82b0348433,Orientation Switch,2160,,100.0,,,,0.0
+522,523,cdf4bb66fd746c576b981d82b0348433,View Dashboard,3480,Light,100.0,,,,0.0
+524,525,cdf4bb66fd746c576b981d82b0348433,Orientation Switch,3480,,100.0,,,,0.0
+529,530,cdf4bb66fd746c576b981d82b0348433,View Dashboard,3540,Light,100.0,,,,0.0
+530,531,cdf4bb66fd746c576b981d82b0348433,Orientation Switch,3540,,100.0,,,,0.0
+531,532,cdf4bb66fd746c576b981d82b0348433,Orientation Switch,3540,,100.0,,,,0.0
+532,533,cdf4bb66fd746c576b981d82b0348433,View Dashboard,3540,Light,100.0,,,,0.0
+533,534,cdf4bb66fd746c576b981d82b0348433,Orientation Switch,3600,,100.0,,,,0.0
+534,535,cdf4bb66fd746c576b981d82b0348433,View Dashboard,3600,Light,100.0,,,,0.0
+535,536,cdf4bb66fd746c576b981d82b0348433,Orientation Switch,3600,,100.0,,,,0.0
+537,538,cdf4bb66fd746c576b981d82b0348433,Orientation Switch,3660,,100.0,,,,0.0
+542,543,cdf4bb66fd746c576b981d82b0348433,View Dashboard,3660,Light,100.0,,,,0.0
+543,544,cdf4bb66fd746c576b981d82b0348433,Orientation Switch,3720,,100.0,,,,0.0
+544,545,cdf4bb66fd746c576b981d82b0348433,Orientation Switch,3720,,100.0,,,,0.0
+67,68,d3a3f99b312aecb7ea7fdb88817ddbc4,View Dashboard,420,Light,118.0,,,,0.0
+70,71,d3a3f99b312aecb7ea7fdb88817ddbc4,Add Existing Tab,480,,118.0,,,,0.0
+76,77,d3a3f99b312aecb7ea7fdb88817ddbc4,Show More Graphs,480,,118.0,,,8.0,0.0
+79,80,d3a3f99b312aecb7ea7fdb88817ddbc4,Orientation Switch,540,,118.0,,,,0.0
+113,114,d3a3f99b312aecb7ea7fdb88817ddbc4,Orientation Switch,660,,118.0,,,,0.0
+330,331,d3a3f99b312aecb7ea7fdb88817ddbc4,View Dashboard,2280,Light,118.0,,,,0.0
+338,339,d3a3f99b312aecb7ea7fdb88817ddbc4,Show More Graphs,2340,,118.0,,,8.0,0.0
+701,702,d3a3f99b312aecb7ea7fdb88817ddbc4,View Dashboard,4380,Light,118.0,,,,0.0
+703,704,d3a3f99b312aecb7ea7fdb88817ddbc4,Orientation Switch,4380,,118.0,,,,0.0
+709,710,d3a3f99b312aecb7ea7fdb88817ddbc4,Orientation Switch,4380,,118.0,,,,0.0
+810,811,d3a3f99b312aecb7ea7fdb88817ddbc4,View Dashboard,5100,Light,118.0,,,,0.0
+815,816,d3a3f99b312aecb7ea7fdb88817ddbc4,View Dashboard,5280,Light,118.0,,,,0.0
+816,817,d3a3f99b312aecb7ea7fdb88817ddbc4,Orientation Switch,5280,,118.0,,,,0.0
+818,819,d3a3f99b312aecb7ea7fdb88817ddbc4,Orientation Switch,5280,,118.0,,,,0.0
+846,847,d3a3f99b312aecb7ea7fdb88817ddbc4,View Dashboard,5820,Light,118.0,,,,0.0
+847,848,d3a3f99b312aecb7ea7fdb88817ddbc4,Orientation Switch,5820,,118.0,,,,0.0
+848,849,d3a3f99b312aecb7ea7fdb88817ddbc4,Orientation Switch,5820,,118.0,,,,0.0
+125,126,d8baa6bcc102652f12221fe18eec4705,View Dashboard,840,Light,19.0,,,,0.0
+65,66,d96cf694dc904841288eb48c58d05d72,View Dashboard,420,Light,3.0,,,,29.0
+462,463,d96cf694dc904841288eb48c58d05d72,Orientation Switch,3240,,3.0,,,,29.0
+463,464,d96cf694dc904841288eb48c58d05d72,View Dashboard,3240,Light,3.0,,,,29.0
+596,597,d96cf694dc904841288eb48c58d05d72,View Dashboard,3960,Light,3.0,,,,29.0
+118,119,d9e907d966a6cdbba901bb5e753459ba,View Dashboard,780,Light,50.0,,,,0.0
+169,170,de1712b15e53d2017cf1be927de6b010,View Dashboard,1080,Light,1.0,,,,8.0
+176,177,de1712b15e53d2017cf1be927de6b010,Trial Sign Up Completed,1140,,1.0,,,,8.0
+254,255,e3b55cc4dbf2c5bd84af7f04eee4064e,View Dashboard,1620,Light,49.0,,,,0.0
+255,256,e3b55cc4dbf2c5bd84af7f04eee4064e,Tab Switched,1620,,49.0,,,,0.0
+257,258,e3b55cc4dbf2c5bd84af7f04eee4064e,Tab Switched,1620,,49.0,,,,0.0
+285,286,e3b55cc4dbf2c5bd84af7f04eee4064e,View Dashboard,1920,Light,49.0,,,,0.0
+288,289,e3b55cc4dbf2c5bd84af7f04eee4064e,Tab Switched,1920,,49.0,,,,0.0
+297,298,e3b55cc4dbf2c5bd84af7f04eee4064e,View Dashboard,2040,Light,49.0,,,,0.0
+765,766,e3b55cc4dbf2c5bd84af7f04eee4064e,View Dashboard,4740,Light,49.0,,,,0.0
+768,769,e3b55cc4dbf2c5bd84af7f04eee4064e,Orientation Switch,4800,,49.0,,,,0.0
+771,772,e3b55cc4dbf2c5bd84af7f04eee4064e,Orientation Switch,4800,,49.0,,,,0.0
+772,773,e3b55cc4dbf2c5bd84af7f04eee4064e,View Dashboard,4800,Light,49.0,,,,0.0
+232,233,e421d69ced85ac1f4f1f89d41aa09c36,View Dashboard,1440,Light,1.0,,,,51.0
+287,288,e421d69ced85ac1f4f1f89d41aa09c36,View Dashboard,1920,Light,1.0,,,,51.0
+664,665,e45fcc59771da384ec4f6252ef130fa9,View Dashboard,4200,Light,3.0,,,,0.0
+666,667,e45fcc59771da384ec4f6252ef130fa9,Show More Graphs,4200,,3.0,,,15.0,0.0
+670,671,e45fcc59771da384ec4f6252ef130fa9,Show More Graphs,4200,,3.0,,,15.0,0.0
+200,201,e7f92edd633a8500a3c6408ff98b1b1a,View Dashboard,1260,Light,1.0,,,,8.0
+212,213,e7f92edd633a8500a3c6408ff98b1b1a,Trial Sign Up Completed,1320,,1.0,,,,8.0
+216,217,e7f92edd633a8500a3c6408ff98b1b1a,View Dashboard,1320,Light,1.0,,,,8.0
+247,248,e7f92edd633a8500a3c6408ff98b1b1a,View Dashboard,1500,Light,1.0,,,,8.0
+328,329,e8b0f503c5720f3c305f37871c4fef40,Graph Editor,2280,,1.0,,Custom,,1.0
+334,335,e8b0f503c5720f3c305f37871c4fef40,Graph Saved in Editor,2340,,1.0,,Custom,,6.0
+335,336,e8b0f503c5720f3c305f37871c4fef40,View Dashboard,2340,Dark,1.0,,,,1.0
+336,337,e8b0f503c5720f3c305f37871c4fef40,Edit Graph from Dashboard,2340,,1.0,,Custom,,1.0
+337,338,e8b0f503c5720f3c305f37871c4fef40,Graph Editor,2340,,1.0,,Custom,,1.0
+339,340,e8b0f503c5720f3c305f37871c4fef40,Graph Saved in Editor,2400,,1.0,,Custom,,6.0
+340,341,e8b0f503c5720f3c305f37871c4fef40,View Dashboard,2400,Dark,1.0,,,,1.0
+346,347,e8b0f503c5720f3c305f37871c4fef40,Graph Editor,2460,,1.0,,Custom,,1.0
+347,348,e8b0f503c5720f3c305f37871c4fef40,Graph Saved in Editor,2460,,1.0,,Custom,,6.0
+348,349,e8b0f503c5720f3c305f37871c4fef40,View Dashboard,2460,Dark,1.0,,,,1.0
+353,354,e8b0f503c5720f3c305f37871c4fef40,Edit Graph from Dashboard,2520,,1.0,,Custom,,1.0
+354,355,e8b0f503c5720f3c305f37871c4fef40,Graph Editor,2520,,1.0,,Custom,,1.0
+374,375,e8b0f503c5720f3c305f37871c4fef40,Graph Saved in Editor,2640,,1.0,,Custom,,6.0
+377,378,e8b0f503c5720f3c305f37871c4fef40,View Dashboard,2700,Dark,1.0,,,,1.0
+402,403,e8b0f503c5720f3c305f37871c4fef40,Edit Graph from Dashboard,2820,,1.0,,Custom,,1.0
+404,405,e8b0f503c5720f3c305f37871c4fef40,Graph Editor,2820,,1.0,,Custom,,1.0
+431,432,e8b0f503c5720f3c305f37871c4fef40,Graph Saved in Editor,3000,,1.0,,Custom,,6.0
+432,433,e8b0f503c5720f3c305f37871c4fef40,View Dashboard,3000,Dark,1.0,,,,1.0
+434,435,e8b0f503c5720f3c305f37871c4fef40,Edit Graph from Dashboard,3000,,1.0,,Custom,,1.0
+435,436,e8b0f503c5720f3c305f37871c4fef40,Graph Editor,3000,,1.0,,Custom,,1.0
+441,442,e8b0f503c5720f3c305f37871c4fef40,Graph Saved in Editor,3060,,1.0,,Custom,,6.0
+442,443,e8b0f503c5720f3c305f37871c4fef40,View Dashboard,3060,Dark,1.0,,,,1.0
+443,444,e8b0f503c5720f3c305f37871c4fef40,Edit Graph from Dashboard,3060,,1.0,,Custom,,1.0
+444,445,e8b0f503c5720f3c305f37871c4fef40,Graph Editor,3060,,1.0,,Custom,,1.0
+445,446,e8b0f503c5720f3c305f37871c4fef40,Graph Saved in Editor,3120,,1.0,,Custom,,6.0
+446,447,e8b0f503c5720f3c305f37871c4fef40,View Dashboard,3120,Dark,1.0,,,,1.0
+496,497,e8b0f503c5720f3c305f37871c4fef40,Graph Editor,3420,,1.0,,Custom,,1.0
+498,499,e8b0f503c5720f3c305f37871c4fef40,Graph Saved in Editor,3420,,1.0,,Custom,,6.0
+499,500,e8b0f503c5720f3c305f37871c4fef40,View Dashboard,3420,Dark,1.0,,,,1.0
+500,501,e8b0f503c5720f3c305f37871c4fef40,Edit Graph from Dashboard,3420,,1.0,,Custom,,1.0
+501,502,e8b0f503c5720f3c305f37871c4fef40,Graph Editor,3420,,1.0,,Custom,,1.0
+504,505,e8b0f503c5720f3c305f37871c4fef40,Graph Saved in Editor,3420,,1.0,,Custom,,6.0
+505,506,e8b0f503c5720f3c305f37871c4fef40,View Dashboard,3420,Dark,1.0,,,,1.0
+508,509,e8b0f503c5720f3c305f37871c4fef40,Edit Graph from Dashboard,3480,,1.0,,Custom,,1.0
+509,510,e8b0f503c5720f3c305f37871c4fef40,Graph Editor,3480,,1.0,,Custom,,1.0
+510,511,e8b0f503c5720f3c305f37871c4fef40,Graph Saved in Editor,3480,,1.0,,Custom,,6.0
+511,512,e8b0f503c5720f3c305f37871c4fef40,View Dashboard,3480,Dark,1.0,,,,1.0
+515,516,e8b0f503c5720f3c305f37871c4fef40,Edit Graph from Dashboard,3480,,1.0,,Custom,,1.0
+516,517,e8b0f503c5720f3c305f37871c4fef40,Graph Editor,3480,,1.0,,Custom,,1.0
+517,518,e8b0f503c5720f3c305f37871c4fef40,Graph Saved in Editor,3480,,1.0,,Custom,,6.0
+518,519,e8b0f503c5720f3c305f37871c4fef40,View Dashboard,3480,Dark,1.0,,,,1.0
+536,537,e8b0f503c5720f3c305f37871c4fef40,View Dashboard,3600,Dark,1.0,,,,1.0
+538,539,e8b0f503c5720f3c305f37871c4fef40,Edit Graph from Dashboard,3660,,1.0,,Custom,,1.0
+539,540,e8b0f503c5720f3c305f37871c4fef40,Graph Editor,3660,,1.0,,Custom,,1.0
+540,541,e8b0f503c5720f3c305f37871c4fef40,Graph Saved in Editor,3660,,1.0,,Custom,,6.0
+541,542,e8b0f503c5720f3c305f37871c4fef40,View Dashboard,3660,Dark,1.0,,,,1.0
+547,548,e8b0f503c5720f3c305f37871c4fef40,Build Graph from Library,3780,,1.0,,,,6.0
+548,549,e8b0f503c5720f3c305f37871c4fef40,Graph Editor,3780,,1.0,,Custom,,1.0
+616,617,e8b0f503c5720f3c305f37871c4fef40,Graph Saved in Editor,4080,,1.0,,Custom,,6.0
+643,644,e8b0f503c5720f3c305f37871c4fef40,View Dashboard,4140,Dark,1.0,,,,1.0
+652,653,e8b0f503c5720f3c305f37871c4fef40,Edit Graph from Dashboard,4200,,1.0,,Custom,,1.0
+653,654,e8b0f503c5720f3c305f37871c4fef40,Graph Editor,4200,,1.0,,Custom,,1.0
+656,657,e8b0f503c5720f3c305f37871c4fef40,Graph Saved in Editor,4200,,1.0,,Custom,,7.0
+657,658,e8b0f503c5720f3c305f37871c4fef40,View Dashboard,4200,Dark,1.0,,,,1.0
+674,675,e8b0f503c5720f3c305f37871c4fef40,Edit Graph from Dashboard,4260,,1.0,,Custom,,1.0
+676,677,e8b0f503c5720f3c305f37871c4fef40,Graph Editor,4260,,1.0,,Custom,,1.0
+684,685,e8b0f503c5720f3c305f37871c4fef40,Graph Saved in Editor,4260,,1.0,,Custom,,7.0
+685,686,e8b0f503c5720f3c305f37871c4fef40,View Dashboard,4260,Dark,1.0,,,,1.0
+699,700,e8b0f503c5720f3c305f37871c4fef40,Sidebar Help,4380,,1.0,,,,1.0
+702,703,e8b0f503c5720f3c305f37871c4fef40,Help Resource,4380,,1.0,,,,1.0
+707,708,e8b0f503c5720f3c305f37871c4fef40,View Dashboard,4380,Dark,1.0,,,,1.0
+710,711,e8b0f503c5720f3c305f37871c4fef40,Add Blank Tab,4440,,1.0,,,,1.0
+716,717,e8b0f503c5720f3c305f37871c4fef40,Add Button,4440,,1.0,,,,1.0
+719,720,e8b0f503c5720f3c305f37871c4fef40,Build a New Graph Button,4440,,1.0,,,,1.0
+721,722,e8b0f503c5720f3c305f37871c4fef40,Graph Editor,4500,,1.0,,Custom,,1.0
+722,723,e8b0f503c5720f3c305f37871c4fef40,Graph Editor,4500,,1.0,,Custom,,1.0
+723,724,e8b0f503c5720f3c305f37871c4fef40,View Dashboard,4500,Dark,1.0,,,,1.0
+731,732,e8b0f503c5720f3c305f37871c4fef40,View Dashboard,4560,Dark,1.0,,,,1.0
+739,740,e8b0f503c5720f3c305f37871c4fef40,Edit Graph from Dashboard,4560,,1.0,,Custom,,1.0
+742,743,e8b0f503c5720f3c305f37871c4fef40,Graph Editor,4560,,1.0,,Custom,,1.0
+750,751,e8b0f503c5720f3c305f37871c4fef40,Graph Saved in Editor,4560,,1.0,,Custom,,7.0
+751,752,e8b0f503c5720f3c305f37871c4fef40,View Dashboard,4560,Dark,1.0,,,,1.0
+753,754,e8b0f503c5720f3c305f37871c4fef40,Logo Change Started,4620,,1.0,,,,1.0
+754,755,e8b0f503c5720f3c305f37871c4fef40,View Dashboard,4680,Dark,1.0,,,,1.0
+758,759,e8b0f503c5720f3c305f37871c4fef40,Logo Change Started,4680,,1.0,,,,1.0
+759,760,e8b0f503c5720f3c305f37871c4fef40,View Dashboard,4680,Dark,1.0,,,,1.0
+773,774,e8b0f503c5720f3c305f37871c4fef40,Sidebar Help,4800,,1.0,,,,1.0
+783,784,e8b0f503c5720f3c305f37871c4fef40,Sidebar Help,4860,,1.0,,,,7.0
+789,790,e8b0f503c5720f3c305f37871c4fef40,View Plans,4860,,1.0,,,,7.0
+790,791,e8b0f503c5720f3c305f37871c4fef40,Guide Start,4860,,1.0,,,,7.0
+796,797,e8b0f503c5720f3c305f37871c4fef40,Purchase Company Details,4980,,1.0,,,,7.0
+801,802,e8b0f503c5720f3c305f37871c4fef40,Purchase Billing Details,4980,,1.0,,,,7.0
+803,804,e8b0f503c5720f3c305f37871c4fef40,Purchase Confirm Details,5040,,1.0,,,,7.0
+29,30,ea0a1aa5119972fc3c8b79db33fcc37b,View Dashboard,120,Light,2.0,,,,60.0
+219,220,ea0a1aa5119972fc3c8b79db33fcc37b,View Dashboard,1380,Light,2.0,,,,60.0
+331,332,ea0a1aa5119972fc3c8b79db33fcc37b,View Dashboard,2280,Light,2.0,,,,60.0
+488,489,ea0a1aa5119972fc3c8b79db33fcc37b,View Dashboard,3360,Light,2.0,,,,60.0
+519,520,ea0a1aa5119972fc3c8b79db33fcc37b,View Dashboard,3480,Light,2.0,,,,60.0
+819,820,ea0a1aa5119972fc3c8b79db33fcc37b,View Dashboard,5340,Light,2.0,,,,60.0
+827,828,ea0a1aa5119972fc3c8b79db33fcc37b,View Dashboard,5460,Light,2.0,,,,60.0
+835,836,ea0a1aa5119972fc3c8b79db33fcc37b,View Dashboard,5520,Light,2.0,,,,60.0
+566,567,ec6d36c64937ed51f7af24b197b54a44,View Dashboard,3900,Light,1.0,,,,8.0
+580,581,ec6d36c64937ed51f7af24b197b54a44,Trial Sign Up Completed,3900,,1.0,,,,8.0
+583,584,ec6d36c64937ed51f7af24b197b54a44,Guide Start,3900,,1.0,,,,8.0
+584,585,ec6d36c64937ed51f7af24b197b54a44,View Dashboard,3900,Light,1.0,,,,8.0
+585,586,ec6d36c64937ed51f7af24b197b54a44,Guide Start,3900,,1.0,,,,8.0
+586,587,ec6d36c64937ed51f7af24b197b54a44,Guide Exit,3900,,1.0,,,,8.0
+587,588,ec6d36c64937ed51f7af24b197b54a44,Guide Start,3900,,1.0,,,,8.0
+592,593,ec6d36c64937ed51f7af24b197b54a44,Create Data Source,3960,,1.0,,,,8.0
+601,602,ec6d36c64937ed51f7af24b197b54a44,Data Source Connector,3960,,1.0,,,,8.0
+612,613,ec6d36c64937ed51f7af24b197b54a44,Data Source Created,4080,,1.0,,,,8.0
+619,620,ec6d36c64937ed51f7af24b197b54a44,View Dashboard,4080,Light,1.0,,,,8.0
+623,624,ec6d36c64937ed51f7af24b197b54a44,View Dashboard,4080,Light,1.0,,,,8.0
+624,625,ec6d36c64937ed51f7af24b197b54a44,Guide Start,4080,,1.0,,,,8.0
+625,626,ec6d36c64937ed51f7af24b197b54a44,Guide Exit,4080,,1.0,,,,8.0
+627,628,ec6d36c64937ed51f7af24b197b54a44,Add Blank Tab,4080,,1.0,,,,8.0
+628,629,ec6d36c64937ed51f7af24b197b54a44,Guide Start,4080,,1.0,,,,8.0
+629,630,ec6d36c64937ed51f7af24b197b54a44,Add Button,4140,,1.0,,,,8.0
+630,631,ec6d36c64937ed51f7af24b197b54a44,Guide Exit,4140,,1.0,,,,8.0
+631,632,ec6d36c64937ed51f7af24b197b54a44,Guide Start,4140,,1.0,,,,8.0
+638,639,ec6d36c64937ed51f7af24b197b54a44,Graph Gallery,4140,,1.0,,,,8.0
+644,645,ec6d36c64937ed51f7af24b197b54a44,Add Button,4140,,1.0,,,,8.0
+645,646,ec6d36c64937ed51f7af24b197b54a44,Guide Exit,4140,,1.0,,,,8.0
+646,647,ec6d36c64937ed51f7af24b197b54a44,Graph Gallery,4140,,1.0,,,,8.0
+647,648,ec6d36c64937ed51f7af24b197b54a44,Build a New Graph Button,4140,,1.0,,,,8.0
+648,649,ec6d36c64937ed51f7af24b197b54a44,Guide Exit,4140,,1.0,,,,8.0
+649,650,ec6d36c64937ed51f7af24b197b54a44,Graph Editor,4140,,1.0,,Custom,,8.0
+713,714,ecc5f4de6cf76814312b3f8b842256de,View Dashboard,4440,Light,1.0,,,,28.0
+845,846,ee647f4e3514e2f71f4ede8d054fcc60,View Dashboard,5700,Light,1.0,,,,8.0
+269,270,f217c8a4e6e2c34f758f0dfe4ebb996d,View Dashboard,1740,Light,68.0,,,,0.0
+461,462,f217c8a4e6e2c34f758f0dfe4ebb996d,View Dashboard,3240,Light,68.0,,,,0.0
+310,311,f58458f96ff402c5c463c306532ecd1b,View Dashboard,2160,Light,5.0,,,,43.0
+317,318,f58458f96ff402c5c463c306532ecd1b,Tab Switched,2220,,5.0,,,,43.0
+378,379,f58458f96ff402c5c463c306532ecd1b,View Dashboard,2700,Light,5.0,,,,43.0
+10,11,f9375b795735486891aae3367d0adc7b,View Dashboard,0,Light,11.0,,,,0.0
+11,12,f9375b795735486891aae3367d0adc7b,Tab Switched,0,,11.0,,,,0.0
+248,249,f9375b795735486891aae3367d0adc7b,View Dashboard,1500,Light,11.0,,,,0.0
+364,365,f9375b795735486891aae3367d0adc7b,View Dashboard,2640,Light,11.0,,,,0.0
+367,368,f9375b795735486891aae3367d0adc7b,Tab Switched,2640,,11.0,,,,0.0
+389,390,f9375b795735486891aae3367d0adc7b,Tab Switched,2760,,11.0,,,,0.0
+401,402,f9375b795735486891aae3367d0adc7b,Orientation Switch,2760,,11.0,,,,0.0
+407,408,f9375b795735486891aae3367d0adc7b,Orientation Switch,2820,,11.0,,,,0.0
+409,410,f9375b795735486891aae3367d0adc7b,View Dashboard,2820,Light,11.0,,,,0.0
+410,411,f9375b795735486891aae3367d0adc7b,Orientation Switch,2820,,11.0,,,,0.0
+512,513,f9375b795735486891aae3367d0adc7b,Orientation Switch,3480,,11.0,,,,0.0
+513,514,f9375b795735486891aae3367d0adc7b,View Dashboard,3480,Light,11.0,,,,0.0
+514,515,f9375b795735486891aae3367d0adc7b,Orientation Switch,3480,,11.0,,,,0.0
+852,853,f9b184929e3c74c212e173fe58b65b34,View Dashboard,6180,Light,18.0,,,,0.0
