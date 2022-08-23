@@ -13,3 +13,8 @@ Unfortunately, event logs from Information Systems are usually not handled direc
 - A new Python API for log filtering. This will be implemented by selecting existing libraries to support these functions, as well as developing the missing ones.
 - Checking the performance of that library compared to the R-based one
 - Integrating this to a popular open-source Process Mining tool written in Python (PM4PY)
+
+## Usage
+1. pip/pip3 install notebook
+2. git clone https://github.com/Dwightu/Log_fliting_API.git
+3. Open jupyternotebook and Run SampleScript2.r file. (SampleScript2 includes the code to run DataPreprocessing.r)
