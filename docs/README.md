@@ -1,4 +1,4 @@
-### Chapter Introduction
+### Document Introduction
 In a recent thesis on using PM to understand user behavior in SaaS applications, Najah produced a R-based API with supporting functions that enable people to create useful and simple scrips that automating event log filtering for Process Mining. This project aimed to reproduce the API, but for Python language using Pandas, and compared the speed of Python based API with the R based API. This page provides the introduction to PM, describes the project objectives, and research questions. The tool and package selected for this project is also mentioned. At the end, we also presented my project ‘s contributions. The conclusion of this chapter lists the outline of this project.
 
 ### Project Introduction
