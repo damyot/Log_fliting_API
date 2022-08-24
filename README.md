@@ -22,7 +22,5 @@ Table 1: Overview of Python based APIs
 - Checking the performance of that library compared to the R-based one
 - Integrating this to a popular open-source Process Mining tool written in Python (PM4PY)
 
-## Usage
-1. pip/pip3 install notebook
-2. git clone https://github.com/Dwightu/Log_fliting_API.git
-3. Open jupyternotebook and Run SampleScript2.r file. (SampleScript2 includes the code to run DataPreprocessing.r)
+## Online documentation
+<a href="https://dwightu.github.io/Log_fliting_API/">Documentation for Python log filtering APIs</a>
