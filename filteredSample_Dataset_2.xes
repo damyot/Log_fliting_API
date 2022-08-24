@@ -1,0 +1,1932 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<log xes.version="1849-2016" xes.features="nested-attributes" xmlns="http://www.xes-standard.org/">
+	<extension name="Concept" prefix="concept" uri="http://www.xes-standard.org/concept.xesext" />
+	<extension name="Time" prefix="time" uri="http://www.xes-standard.org/time.xesext" />
+	<string key="origin" value="csv" />
+	<trace>
+		<string key="concept:name" value="6ffafc313e94655e00e3d1127ef3f24b" />
+		<event>
+			<int key="Unnamed: 0" value="24819" />
+			<string key="company_id" value="6ffafc313e94655e00e3d1127ef3f24b" />
+			<string key="event" value="Trial Sign Up Completed" />
+			<date key="time" value="2018-02-08T08:25:00+00:00" />
+			<float key="client" value="nan" />
+			<float key="template" value="nan" />
+			<float key="guide_name" value="nan" />
+			<float key="guide_type" value="nan" />
+			<float key="number_of_graphs" value="8.0" />
+			<float key="number_of_graphs_on_dashboard" value="nan" />
+			<float key="graph_origin" value="nan" />
+			<float key="source" value="2.0" />
+			<float key="kpi_count" value="nan" />
+			<string key="account_type" value="Direct" />
+			<float key="graphs_owned" value="nan" />
+			<float key="data_format" value="nan" />
+			<float key="dashboard_template_name" value="nan" />
+			<string key="x_city" value="Fort Lauderdale" />
+			<string key="weekday" value="Thursday" />
+			<string key="concept:name" value="Trial Sign Up Completed" />
+			<date key="time:timestamp" value="2018-02-08T08:25:00+00:00" />
+			<int key="@@index" value="0" />
+		</event>
+		<event>
+			<int key="Unnamed: 0" value="24820" />
+			<string key="company_id" value="6ffafc313e94655e00e3d1127ef3f24b" />
+			<string key="event" value="Guide Start" />
+			<date key="time" value="2018-02-08T08:25:00+00:00" />
+			<float key="client" value="nan" />
+			<float key="template" value="nan" />
+			<string key="guide_name" value="NavBar Intro Tour - Automatic" />
+			<string key="guide_type" value="walkthrough" />
+			<float key="number_of_graphs" value="8.0" />
+			<float key="number_of_graphs_on_dashboard" value="nan" />
+			<float key="graph_origin" value="nan" />
+			<float key="source" value="2.0" />
+			<float key="kpi_count" value="nan" />
+			<string key="account_type" value="Direct" />
+			<float key="graphs_owned" value="nan" />
+			<float key="data_format" value="nan" />
+			<float key="dashboard_template_name" value="nan" />
+			<string key="x_city" value="Fort Lauderdale" />
+			<string key="weekday" value="Thursday" />
+			<string key="concept:name" value="Guide Start" />
+			<date key="time:timestamp" value="2018-02-08T08:25:00+00:00" />
+			<int key="@@index" value="1" />
+		</event>
+		<event>
+			<int key="Unnamed: 0" value="24822" />
+			<string key="company_id" value="6ffafc313e94655e00e3d1127ef3f24b" />
+			<string key="event" value="Guide Exit" />
+			<date key="time" value="2018-02-08T08:25:00+00:00" />
+			<float key="client" value="nan" />
+			<float key="template" value="nan" />
+			<string key="guide_name" value="NavBar Intro Tour - Automatic" />
+			<string key="guide_type" value="walkthrough" />
+			<float key="number_of_graphs" value="8.0" />
+			<float key="number_of_graphs_on_dashboard" value="nan" />
+			<float key="graph_origin" value="nan" />
+			<float key="source" value="2.0" />
+			<float key="kpi_count" value="nan" />
+			<string key="account_type" value="Direct" />
+			<float key="graphs_owned" value="nan" />
+			<float key="data_format" value="nan" />
+			<float key="dashboard_template_name" value="nan" />
+			<string key="x_city" value="Fort Lauderdale" />
+			<string key="weekday" value="Thursday" />
+			<string key="concept:name" value="Guide Exit" />
+			<date key="time:timestamp" value="2018-02-08T08:25:00+00:00" />
+			<int key="@@index" value="2" />
+		</event>
+		<event>
+			<int key="Unnamed: 0" value="24823" />
+			<string key="company_id" value="6ffafc313e94655e00e3d1127ef3f24b" />
+			<string key="event" value="Guide Start" />
+			<date key="time" value="2018-02-08T08:25:00+00:00" />
+			<float key="client" value="nan" />
+			<float key="template" value="nan" />
+			<string key="guide_name" value="NavBar Intro Tour - Automatic" />
+			<string key="guide_type" value="walkthrough" />
+			<float key="number_of_graphs" value="8.0" />
+			<float key="number_of_graphs_on_dashboard" value="nan" />
+			<float key="graph_origin" value="nan" />
+			<float key="source" value="2.0" />
+			<float key="kpi_count" value="nan" />
+			<string key="account_type" value="Direct" />
+			<float key="graphs_owned" value="nan" />
+			<float key="data_format" value="nan" />
+			<float key="dashboard_template_name" value="nan" />
+			<string key="x_city" value="Fort Lauderdale" />
+			<string key="weekday" value="Thursday" />
+			<string key="concept:name" value="Guide Start" />
+			<date key="time:timestamp" value="2018-02-08T08:25:00+00:00" />
+			<int key="@@index" value="3" />
+		</event>
+		<event>
+			<int key="Unnamed: 0" value="24824" />
+			<string key="company_id" value="6ffafc313e94655e00e3d1127ef3f24b" />
+			<string key="event" value="Guide Exit" />
+			<date key="time" value="2018-02-08T08:25:00+00:00" />
+			<float key="client" value="nan" />
+			<float key="template" value="nan" />
+			<string key="guide_name" value="NavBar Intro Tour - Automatic" />
+			<string key="guide_type" value="walkthrough" />
+			<float key="number_of_graphs" value="8.0" />
+			<float key="number_of_graphs_on_dashboard" value="nan" />
+			<float key="graph_origin" value="nan" />
+			<float key="source" value="2.0" />
+			<float key="kpi_count" value="nan" />
+			<string key="account_type" value="Direct" />
+			<float key="graphs_owned" value="nan" />
+			<float key="data_format" value="nan" />
+			<float key="dashboard_template_name" value="nan" />
+			<string key="x_city" value="Fort Lauderdale" />
+			<string key="weekday" value="Thursday" />
+			<string key="concept:name" value="Guide Exit" />
+			<date key="time:timestamp" value="2018-02-08T08:25:00+00:00" />
+			<int key="@@index" value="4" />
+		</event>
+		<event>
+			<int key="Unnamed: 0" value="24826" />
+			<string key="company_id" value="6ffafc313e94655e00e3d1127ef3f24b" />
+			<string key="event" value="Add Blank Tab" />
+			<date key="time" value="2018-02-08T08:25:00+00:00" />
+			<float key="client" value="nan" />
+			<float key="template" value="nan" />
+			<float key="guide_name" value="nan" />
+			<float key="guide_type" value="nan" />
+			<float key="number_of_graphs" value="8.0" />
+			<float key="number_of_graphs_on_dashboard" value="nan" />
+			<float key="graph_origin" value="nan" />
+			<float key="source" value="2.0" />
+			<float key="kpi_count" value="nan" />
+			<string key="account_type" value="Direct" />
+			<float key="graphs_owned" value="nan" />
+			<float key="data_format" value="nan" />
+			<float key="dashboard_template_name" value="nan" />
+			<string key="x_city" value="Fort Lauderdale" />
+			<string key="weekday" value="Thursday" />
+			<string key="concept:name" value="Add Blank Tab" />
+			<date key="time:timestamp" value="2018-02-08T08:25:00+00:00" />
+			<int key="@@index" value="5" />
+		</event>
+		<event>
+			<int key="Unnamed: 0" value="24827" />
+			<string key="company_id" value="6ffafc313e94655e00e3d1127ef3f24b" />
+			<string key="event" value="Guide Start" />
+			<date key="time" value="2018-02-08T08:25:00+00:00" />
+			<float key="client" value="nan" />
+			<float key="template" value="nan" />
+			<string key="guide_name" value="NavBar Intro Tour - Automatic" />
+			<string key="guide_type" value="walkthrough" />
+			<float key="number_of_graphs" value="8.0" />
+			<float key="number_of_graphs_on_dashboard" value="nan" />
+			<float key="graph_origin" value="nan" />
+			<float key="source" value="2.0" />
+			<float key="kpi_count" value="nan" />
+			<string key="account_type" value="Direct" />
+			<float key="graphs_owned" value="nan" />
+			<float key="data_format" value="nan" />
+			<float key="dashboard_template_name" value="nan" />
+			<string key="x_city" value="Fort Lauderdale" />
+			<string key="weekday" value="Thursday" />
+			<string key="concept:name" value="Guide Start" />
+			<date key="time:timestamp" value="2018-02-08T08:25:00+00:00" />
+			<int key="@@index" value="6" />
+		</event>
+		<event>
+			<int key="Unnamed: 0" value="24829" />
+			<string key="company_id" value="6ffafc313e94655e00e3d1127ef3f24b" />
+			<string key="event" value="Guide Exit" />
+			<date key="time" value="2018-02-08T08:25:00+00:00" />
+			<float key="client" value="nan" />
+			<float key="template" value="nan" />
+			<string key="guide_name" value="NavBar Intro Tour - Automatic" />
+			<string key="guide_type" value="walkthrough" />
+			<float key="number_of_graphs" value="8.0" />
+			<float key="number_of_graphs_on_dashboard" value="nan" />
+			<float key="graph_origin" value="nan" />
+			<float key="source" value="2.0" />
+			<float key="kpi_count" value="nan" />
+			<string key="account_type" value="Direct" />
+			<float key="graphs_owned" value="nan" />
+			<float key="data_format" value="nan" />
+			<float key="dashboard_template_name" value="nan" />
+			<string key="x_city" value="Fort Lauderdale" />
+			<string key="weekday" value="Thursday" />
+			<string key="concept:name" value="Guide Exit" />
+			<date key="time:timestamp" value="2018-02-08T08:25:00+00:00" />
+			<int key="@@index" value="7" />
+		</event>
+		<event>
+			<int key="Unnamed: 0" value="24830" />
+			<string key="company_id" value="6ffafc313e94655e00e3d1127ef3f24b" />
+			<string key="event" value="Guide Start" />
+			<date key="time" value="2018-02-08T08:25:00+00:00" />
+			<float key="client" value="nan" />
+			<float key="template" value="nan" />
+			<string key="guide_name" value="NavBar Intro Tour - Automatic" />
+			<string key="guide_type" value="walkthrough" />
+			<float key="number_of_graphs" value="8.0" />
+			<float key="number_of_graphs_on_dashboard" value="nan" />
+			<float key="graph_origin" value="nan" />
+			<float key="source" value="2.0" />
+			<float key="kpi_count" value="nan" />
+			<string key="account_type" value="Direct" />
+			<float key="graphs_owned" value="nan" />
+			<float key="data_format" value="nan" />
+			<float key="dashboard_template_name" value="nan" />
+			<string key="x_city" value="Fort Lauderdale" />
+			<string key="weekday" value="Thursday" />
+			<string key="concept:name" value="Guide Start" />
+			<date key="time:timestamp" value="2018-02-08T08:25:00+00:00" />
+			<int key="@@index" value="8" />
+		</event>
+		<event>
+			<int key="Unnamed: 0" value="24831" />
+			<string key="company_id" value="6ffafc313e94655e00e3d1127ef3f24b" />
+			<string key="event" value="Add New Button" />
+			<date key="time" value="2018-02-08T08:25:00+00:00" />
+			<float key="client" value="nan" />
+			<float key="template" value="nan" />
+			<float key="guide_name" value="nan" />
+			<float key="guide_type" value="nan" />
+			<float key="number_of_graphs" value="8.0" />
+			<float key="number_of_graphs_on_dashboard" value="nan" />
+			<float key="graph_origin" value="nan" />
+			<float key="source" value="2.0" />
+			<float key="kpi_count" value="nan" />
+			<string key="account_type" value="Direct" />
+			<float key="graphs_owned" value="nan" />
+			<float key="data_format" value="nan" />
+			<float key="dashboard_template_name" value="nan" />
+			<string key="x_city" value="Fort Lauderdale" />
+			<string key="weekday" value="Thursday" />
+			<string key="concept:name" value="Add New Button" />
+			<date key="time:timestamp" value="2018-02-08T08:25:00+00:00" />
+			<int key="@@index" value="9" />
+		</event>
+		<event>
+			<int key="Unnamed: 0" value="24832" />
+			<string key="company_id" value="6ffafc313e94655e00e3d1127ef3f24b" />
+			<string key="event" value="Guide Exit" />
+			<date key="time" value="2018-02-08T08:25:00+00:00" />
+			<float key="client" value="nan" />
+			<float key="template" value="nan" />
+			<string key="guide_name" value="NavBar Intro Tour - Automatic" />
+			<string key="guide_type" value="walkthrough" />
+			<float key="number_of_graphs" value="8.0" />
+			<float key="number_of_graphs_on_dashboard" value="nan" />
+			<float key="graph_origin" value="nan" />
+			<float key="source" value="2.0" />
+			<float key="kpi_count" value="nan" />
+			<string key="account_type" value="Direct" />
+			<float key="graphs_owned" value="nan" />
+			<float key="data_format" value="nan" />
+			<float key="dashboard_template_name" value="nan" />
+			<string key="x_city" value="Fort Lauderdale" />
+			<string key="weekday" value="Thursday" />
+			<string key="concept:name" value="Guide Exit" />
+			<date key="time:timestamp" value="2018-02-08T08:25:00+00:00" />
+			<int key="@@index" value="10" />
+		</event>
+		<event>
+			<int key="Unnamed: 0" value="24833" />
+			<string key="company_id" value="6ffafc313e94655e00e3d1127ef3f24b" />
+			<string key="event" value="Create New Graph" />
+			<date key="time" value="2018-02-08T08:25:00+00:00" />
+			<float key="client" value="nan" />
+			<float key="template" value="nan" />
+			<float key="guide_name" value="nan" />
+			<float key="guide_type" value="nan" />
+			<float key="number_of_graphs" value="8.0" />
+			<float key="number_of_graphs_on_dashboard" value="nan" />
+			<float key="graph_origin" value="nan" />
+			<float key="source" value="2.0" />
+			<float key="kpi_count" value="nan" />
+			<string key="account_type" value="Direct" />
+			<float key="graphs_owned" value="nan" />
+			<float key="data_format" value="nan" />
+			<float key="dashboard_template_name" value="nan" />
+			<string key="x_city" value="Fort Lauderdale" />
+			<string key="weekday" value="Thursday" />
+			<string key="concept:name" value="Create New Graph" />
+			<date key="time:timestamp" value="2018-02-08T08:25:00+00:00" />
+			<int key="@@index" value="11" />
+		</event>
+		<event>
+			<int key="Unnamed: 0" value="24835" />
+			<string key="company_id" value="6ffafc313e94655e00e3d1127ef3f24b" />
+			<string key="event" value="Edit Graphs" />
+			<date key="time" value="2018-02-08T08:25:00+00:00" />
+			<float key="client" value="nan" />
+			<float key="template" value="nan" />
+			<float key="guide_name" value="nan" />
+			<float key="guide_type" value="nan" />
+			<float key="number_of_graphs" value="8.0" />
+			<float key="number_of_graphs_on_dashboard" value="nan" />
+			<string key="graph_origin" value="Custom" />
+			<float key="source" value="2.0" />
+			<float key="kpi_count" value="nan" />
+			<string key="account_type" value="Direct" />
+			<float key="graphs_owned" value="nan" />
+			<float key="data_format" value="nan" />
+			<float key="dashboard_template_name" value="nan" />
+			<string key="x_city" value="Fort Lauderdale" />
+			<string key="weekday" value="Thursday" />
+			<string key="concept:name" value="Edit Graphs" />
+			<date key="time:timestamp" value="2018-02-08T08:25:00+00:00" />
+			<int key="@@index" value="12" />
+		</event>
+		<event>
+			<int key="Unnamed: 0" value="24838" />
+			<string key="company_id" value="6ffafc313e94655e00e3d1127ef3f24b" />
+			<string key="event" value="Guide Start" />
+			<date key="time" value="2018-02-08T08:25:00+00:00" />
+			<float key="client" value="nan" />
+			<float key="template" value="nan" />
+			<string key="guide_name" value="Editor - Automatic for First Time in Editor" />
+			<string key="guide_type" value="walkthrough" />
+			<float key="number_of_graphs" value="8.0" />
+			<float key="number_of_graphs_on_dashboard" value="nan" />
+			<float key="graph_origin" value="nan" />
+			<float key="source" value="2.0" />
+			<float key="kpi_count" value="nan" />
+			<string key="account_type" value="Direct" />
+			<float key="graphs_owned" value="nan" />
+			<float key="data_format" value="nan" />
+			<float key="dashboard_template_name" value="nan" />
+			<string key="x_city" value="Fort Lauderdale" />
+			<string key="weekday" value="Thursday" />
+			<string key="concept:name" value="Guide Start" />
+			<date key="time:timestamp" value="2018-02-08T08:25:00+00:00" />
+			<int key="@@index" value="13" />
+		</event>
+		<event>
+			<int key="Unnamed: 0" value="24855" />
+			<string key="company_id" value="6ffafc313e94655e00e3d1127ef3f24b" />
+			<string key="event" value="Create Data Source" />
+			<date key="time" value="2018-02-08T08:26:00+00:00" />
+			<float key="client" value="nan" />
+			<float key="template" value="nan" />
+			<float key="guide_name" value="nan" />
+			<float key="guide_type" value="nan" />
+			<float key="number_of_graphs" value="8.0" />
+			<float key="number_of_graphs_on_dashboard" value="nan" />
+			<float key="graph_origin" value="nan" />
+			<float key="source" value="2.0" />
+			<float key="kpi_count" value="nan" />
+			<string key="account_type" value="Direct" />
+			<float key="graphs_owned" value="nan" />
+			<float key="data_format" value="nan" />
+			<float key="dashboard_template_name" value="nan" />
+			<string key="x_city" value="Fort Lauderdale" />
+			<string key="weekday" value="Thursday" />
+			<string key="concept:name" value="Create Data Source" />
+			<date key="time:timestamp" value="2018-02-08T08:26:00+00:00" />
+			<int key="@@index" value="14" />
+		</event>
+		<event>
+			<int key="Unnamed: 0" value="24861" />
+			<string key="company_id" value="6ffafc313e94655e00e3d1127ef3f24b" />
+			<string key="event" value="Data Source Connector" />
+			<date key="time" value="2018-02-08T08:27:00+00:00" />
+			<float key="client" value="nan" />
+			<float key="template" value="nan" />
+			<float key="guide_name" value="nan" />
+			<float key="guide_type" value="nan" />
+			<float key="number_of_graphs" value="8.0" />
+			<float key="number_of_graphs_on_dashboard" value="nan" />
+			<float key="graph_origin" value="nan" />
+			<float key="source" value="2.0" />
+			<float key="kpi_count" value="nan" />
+			<string key="account_type" value="Direct" />
+			<float key="graphs_owned" value="nan" />
+			<float key="data_format" value="nan" />
+			<float key="dashboard_template_name" value="nan" />
+			<string key="x_city" value="Fort Lauderdale" />
+			<string key="weekday" value="Thursday" />
+			<string key="concept:name" value="Data Source Connector" />
+			<date key="time:timestamp" value="2018-02-08T08:27:00+00:00" />
+			<int key="@@index" value="15" />
+		</event>
+		<event>
+			<int key="Unnamed: 0" value="24865" />
+			<string key="company_id" value="6ffafc313e94655e00e3d1127ef3f24b" />
+			<string key="event" value="Create Data Source" />
+			<date key="time" value="2018-02-08T08:27:00+00:00" />
+			<float key="client" value="nan" />
+			<float key="template" value="nan" />
+			<float key="guide_name" value="nan" />
+			<float key="guide_type" value="nan" />
+			<float key="number_of_graphs" value="8.0" />
+			<float key="number_of_graphs_on_dashboard" value="nan" />
+			<float key="graph_origin" value="nan" />
+			<float key="source" value="2.0" />
+			<float key="kpi_count" value="nan" />
+			<string key="account_type" value="Direct" />
+			<float key="graphs_owned" value="nan" />
+			<float key="data_format" value="nan" />
+			<float key="dashboard_template_name" value="nan" />
+			<string key="x_city" value="Fort Lauderdale" />
+			<string key="weekday" value="Thursday" />
+			<string key="concept:name" value="Create Data Source" />
+			<date key="time:timestamp" value="2018-02-08T08:27:00+00:00" />
+			<int key="@@index" value="16" />
+		</event>
+		<event>
+			<int key="Unnamed: 0" value="24868" />
+			<string key="company_id" value="6ffafc313e94655e00e3d1127ef3f24b" />
+			<string key="event" value="Data Source Connector" />
+			<date key="time" value="2018-02-08T08:27:00+00:00" />
+			<float key="client" value="nan" />
+			<float key="template" value="nan" />
+			<float key="guide_name" value="nan" />
+			<float key="guide_type" value="nan" />
+			<float key="number_of_graphs" value="8.0" />
+			<float key="number_of_graphs_on_dashboard" value="nan" />
+			<float key="graph_origin" value="nan" />
+			<float key="source" value="2.0" />
+			<float key="kpi_count" value="nan" />
+			<string key="account_type" value="Direct" />
+			<float key="graphs_owned" value="nan" />
+			<float key="data_format" value="nan" />
+			<float key="dashboard_template_name" value="nan" />
+			<string key="x_city" value="Fort Lauderdale" />
+			<string key="weekday" value="Thursday" />
+			<string key="concept:name" value="Data Source Connector" />
+			<date key="time:timestamp" value="2018-02-08T08:27:00+00:00" />
+			<int key="@@index" value="17" />
+		</event>
+		<event>
+			<int key="Unnamed: 0" value="24871" />
+			<string key="company_id" value="6ffafc313e94655e00e3d1127ef3f24b" />
+			<string key="event" value="DS Template Selected" />
+			<date key="time" value="2018-02-08T08:27:00+00:00" />
+			<float key="client" value="nan" />
+			<float key="template" value="nan" />
+			<float key="guide_name" value="nan" />
+			<float key="guide_type" value="nan" />
+			<float key="number_of_graphs" value="8.0" />
+			<float key="number_of_graphs_on_dashboard" value="nan" />
+			<float key="graph_origin" value="nan" />
+			<float key="source" value="2.0" />
+			<float key="kpi_count" value="nan" />
+			<string key="account_type" value="Direct" />
+			<float key="graphs_owned" value="nan" />
+			<float key="data_format" value="nan" />
+			<string key="dashboard_template_name" value="Engagement (Last 30 Days)" />
+			<string key="x_city" value="Fort Lauderdale" />
+			<string key="weekday" value="Thursday" />
+			<string key="concept:name" value="DS Template Selected" />
+			<date key="time:timestamp" value="2018-02-08T08:27:00+00:00" />
+			<int key="@@index" value="18" />
+		</event>
+		<event>
+			<int key="Unnamed: 0" value="24887" />
+			<string key="company_id" value="6ffafc313e94655e00e3d1127ef3f24b" />
+			<string key="event" value="Data Source Created" />
+			<date key="time" value="2018-02-08T08:29:00+00:00" />
+			<float key="client" value="nan" />
+			<float key="template" value="nan" />
+			<float key="guide_name" value="nan" />
+			<float key="guide_type" value="nan" />
+			<float key="number_of_graphs" value="8.0" />
+			<float key="number_of_graphs_on_dashboard" value="nan" />
+			<float key="graph_origin" value="nan" />
+			<float key="source" value="3.0" />
+			<float key="kpi_count" value="nan" />
+			<string key="account_type" value="Direct" />
+			<float key="graphs_owned" value="nan" />
+			<string key="data_format" value="json" />
+			<string key="dashboard_template_name" value="Engagement (Last 30 Days)" />
+			<float key="x_city" value="nan" />
+			<string key="weekday" value="Thursday" />
+			<string key="concept:name" value="Data Source Created" />
+			<date key="time:timestamp" value="2018-02-08T08:29:00+00:00" />
+			<int key="@@index" value="19" />
+		</event>
+		<event>
+			<int key="Unnamed: 0" value="24904" />
+			<string key="company_id" value="6ffafc313e94655e00e3d1127ef3f24b" />
+			<string key="event" value="Help" />
+			<date key="time" value="2018-02-08T08:31:00+00:00" />
+			<float key="client" value="nan" />
+			<float key="template" value="nan" />
+			<float key="guide_name" value="nan" />
+			<float key="guide_type" value="nan" />
+			<float key="number_of_graphs" value="8.0" />
+			<float key="number_of_graphs_on_dashboard" value="nan" />
+			<float key="graph_origin" value="nan" />
+			<float key="source" value="2.0" />
+			<float key="kpi_count" value="nan" />
+			<string key="account_type" value="Direct" />
+			<float key="graphs_owned" value="nan" />
+			<float key="data_format" value="nan" />
+			<float key="dashboard_template_name" value="nan" />
+			<string key="x_city" value="Fort Lauderdale" />
+			<string key="weekday" value="Thursday" />
+			<string key="concept:name" value="Help" />
+			<date key="time:timestamp" value="2018-02-08T08:31:00+00:00" />
+			<int key="@@index" value="20" />
+		</event>
+		<event>
+			<int key="Unnamed: 0" value="24909" />
+			<string key="company_id" value="6ffafc313e94655e00e3d1127ef3f24b" />
+			<string key="event" value="Edit Graphs" />
+			<date key="time" value="2018-02-08T08:31:00+00:00" />
+			<float key="client" value="nan" />
+			<float key="template" value="nan" />
+			<float key="guide_name" value="nan" />
+			<float key="guide_type" value="nan" />
+			<float key="number_of_graphs" value="8.0" />
+			<float key="number_of_graphs_on_dashboard" value="nan" />
+			<string key="graph_origin" value="Custom" />
+			<float key="source" value="2.0" />
+			<float key="kpi_count" value="nan" />
+			<string key="account_type" value="Direct" />
+			<float key="graphs_owned" value="nan" />
+			<float key="data_format" value="nan" />
+			<float key="dashboard_template_name" value="nan" />
+			<string key="x_city" value="Fort Lauderdale" />
+			<string key="weekday" value="Thursday" />
+			<string key="concept:name" value="Edit Graphs" />
+			<date key="time:timestamp" value="2018-02-08T08:31:00+00:00" />
+			<int key="@@index" value="21" />
+		</event>
+		<event>
+			<int key="Unnamed: 0" value="24915" />
+			<string key="company_id" value="6ffafc313e94655e00e3d1127ef3f24b" />
+			<string key="event" value="Create Data Source" />
+			<date key="time" value="2018-02-08T08:32:00+00:00" />
+			<float key="client" value="nan" />
+			<float key="template" value="nan" />
+			<float key="guide_name" value="nan" />
+			<float key="guide_type" value="nan" />
+			<float key="number_of_graphs" value="8.0" />
+			<float key="number_of_graphs_on_dashboard" value="nan" />
+			<float key="graph_origin" value="nan" />
+			<float key="source" value="2.0" />
+			<float key="kpi_count" value="nan" />
+			<string key="account_type" value="Direct" />
+			<float key="graphs_owned" value="nan" />
+			<float key="data_format" value="nan" />
+			<float key="dashboard_template_name" value="nan" />
+			<string key="x_city" value="Fort Lauderdale" />
+			<string key="weekday" value="Thursday" />
+			<string key="concept:name" value="Create Data Source" />
+			<date key="time:timestamp" value="2018-02-08T08:32:00+00:00" />
+			<int key="@@index" value="22" />
+		</event>
+		<event>
+			<int key="Unnamed: 0" value="24918" />
+			<string key="company_id" value="6ffafc313e94655e00e3d1127ef3f24b" />
+			<string key="event" value="Data Source Connector" />
+			<date key="time" value="2018-02-08T08:32:00+00:00" />
+			<float key="client" value="nan" />
+			<float key="template" value="nan" />
+			<float key="guide_name" value="nan" />
+			<float key="guide_type" value="nan" />
+			<float key="number_of_graphs" value="8.0" />
+			<float key="number_of_graphs_on_dashboard" value="nan" />
+			<float key="graph_origin" value="nan" />
+			<float key="source" value="2.0" />
+			<float key="kpi_count" value="nan" />
+			<string key="account_type" value="Direct" />
+			<float key="graphs_owned" value="nan" />
+			<float key="data_format" value="nan" />
+			<float key="dashboard_template_name" value="nan" />
+			<string key="x_city" value="Fort Lauderdale" />
+			<string key="weekday" value="Thursday" />
+			<string key="concept:name" value="Data Source Connector" />
+			<date key="time:timestamp" value="2018-02-08T08:32:00+00:00" />
+			<int key="@@index" value="23" />
+		</event>
+		<event>
+			<int key="Unnamed: 0" value="24919" />
+			<string key="company_id" value="6ffafc313e94655e00e3d1127ef3f24b" />
+			<string key="event" value="DS Template Selected" />
+			<date key="time" value="2018-02-08T08:32:00+00:00" />
+			<float key="client" value="nan" />
+			<float key="template" value="nan" />
+			<float key="guide_name" value="nan" />
+			<float key="guide_type" value="nan" />
+			<float key="number_of_graphs" value="8.0" />
+			<float key="number_of_graphs_on_dashboard" value="nan" />
+			<float key="graph_origin" value="nan" />
+			<float key="source" value="2.0" />
+			<float key="kpi_count" value="nan" />
+			<string key="account_type" value="Direct" />
+			<float key="graphs_owned" value="nan" />
+			<float key="data_format" value="nan" />
+			<string key="dashboard_template_name" value="Create a custom graph" />
+			<string key="x_city" value="Fort Lauderdale" />
+			<string key="weekday" value="Thursday" />
+			<string key="concept:name" value="DS Template Selected" />
+			<date key="time:timestamp" value="2018-02-08T08:32:00+00:00" />
+			<int key="@@index" value="24" />
+		</event>
+		<event>
+			<int key="Unnamed: 0" value="24930" />
+			<string key="company_id" value="6ffafc313e94655e00e3d1127ef3f24b" />
+			<string key="event" value="Data Source Created" />
+			<date key="time" value="2018-02-08T08:33:00+00:00" />
+			<float key="client" value="nan" />
+			<float key="template" value="nan" />
+			<float key="guide_name" value="nan" />
+			<float key="guide_type" value="nan" />
+			<float key="number_of_graphs" value="8.0" />
+			<float key="number_of_graphs_on_dashboard" value="nan" />
+			<float key="graph_origin" value="nan" />
+			<float key="source" value="4.0" />
+			<float key="kpi_count" value="nan" />
+			<string key="account_type" value="Direct" />
+			<float key="graphs_owned" value="nan" />
+			<string key="data_format" value="xls" />
+			<string key="dashboard_template_name" value="Create a custom graph" />
+			<float key="x_city" value="nan" />
+			<string key="weekday" value="Thursday" />
+			<string key="concept:name" value="Data Source Created" />
+			<date key="time:timestamp" value="2018-02-08T08:33:00+00:00" />
+			<int key="@@index" value="25" />
+		</event>
+		<event>
+			<int key="Unnamed: 0" value="24990" />
+			<string key="company_id" value="6ffafc313e94655e00e3d1127ef3f24b" />
+			<string key="event" value="Graph Saved" />
+			<date key="time" value="2018-02-08T08:38:00+00:00" />
+			<float key="client" value="nan" />
+			<float key="template" value="nan" />
+			<float key="guide_name" value="nan" />
+			<float key="guide_type" value="nan" />
+			<float key="number_of_graphs" value="8.0" />
+			<float key="number_of_graphs_on_dashboard" value="nan" />
+			<string key="graph_origin" value="Custom" />
+			<float key="source" value="4.0" />
+			<float key="kpi_count" value="nan" />
+			<string key="account_type" value="Direct" />
+			<float key="graphs_owned" value="nan" />
+			<float key="data_format" value="nan" />
+			<float key="dashboard_template_name" value="nan" />
+			<float key="x_city" value="nan" />
+			<string key="weekday" value="Thursday" />
+			<string key="concept:name" value="Graph Saved" />
+			<date key="time:timestamp" value="2018-02-08T08:38:00+00:00" />
+			<int key="@@index" value="26" />
+		</event>
+		<event>
+			<int key="Unnamed: 0" value="24991" />
+			<string key="company_id" value="6ffafc313e94655e00e3d1127ef3f24b" />
+			<string key="event" value="Survey" />
+			<date key="time" value="2018-02-08T08:38:00+00:00" />
+			<float key="client" value="nan" />
+			<float key="template" value="nan" />
+			<float key="guide_name" value="nan" />
+			<float key="guide_type" value="nan" />
+			<float key="number_of_graphs" value="8.0" />
+			<float key="number_of_graphs_on_dashboard" value="nan" />
+			<float key="graph_origin" value="nan" />
+			<float key="source" value="2.0" />
+			<float key="kpi_count" value="nan" />
+			<string key="account_type" value="Direct" />
+			<float key="graphs_owned" value="nan" />
+			<float key="data_format" value="nan" />
+			<float key="dashboard_template_name" value="nan" />
+			<string key="x_city" value="Fort Lauderdale" />
+			<string key="weekday" value="Thursday" />
+			<string key="concept:name" value="Survey" />
+			<date key="time:timestamp" value="2018-02-08T08:38:00+00:00" />
+			<int key="@@index" value="27" />
+		</event>
+		<event>
+			<int key="Unnamed: 0" value="24997" />
+			<string key="company_id" value="6ffafc313e94655e00e3d1127ef3f24b" />
+			<string key="event" value="Add New Button" />
+			<date key="time" value="2018-02-08T08:38:00+00:00" />
+			<float key="client" value="nan" />
+			<float key="template" value="nan" />
+			<float key="guide_name" value="nan" />
+			<float key="guide_type" value="nan" />
+			<float key="number_of_graphs" value="8.0" />
+			<float key="number_of_graphs_on_dashboard" value="nan" />
+			<float key="graph_origin" value="nan" />
+			<float key="source" value="2.0" />
+			<float key="kpi_count" value="nan" />
+			<string key="account_type" value="Direct" />
+			<float key="graphs_owned" value="nan" />
+			<float key="data_format" value="nan" />
+			<float key="dashboard_template_name" value="nan" />
+			<string key="x_city" value="Fort Lauderdale" />
+			<string key="weekday" value="Thursday" />
+			<string key="concept:name" value="Add New Button" />
+			<date key="time:timestamp" value="2018-02-08T08:38:00+00:00" />
+			<int key="@@index" value="28" />
+		</event>
+		<event>
+			<int key="Unnamed: 0" value="25002" />
+			<string key="company_id" value="6ffafc313e94655e00e3d1127ef3f24b" />
+			<string key="event" value="Graph Gallery" />
+			<date key="time" value="2018-02-08T08:38:00+00:00" />
+			<float key="client" value="nan" />
+			<float key="template" value="nan" />
+			<float key="guide_name" value="nan" />
+			<float key="guide_type" value="nan" />
+			<float key="number_of_graphs" value="8.0" />
+			<float key="number_of_graphs_on_dashboard" value="nan" />
+			<float key="graph_origin" value="nan" />
+			<float key="source" value="2.0" />
+			<float key="kpi_count" value="nan" />
+			<string key="account_type" value="Direct" />
+			<float key="graphs_owned" value="nan" />
+			<float key="data_format" value="nan" />
+			<float key="dashboard_template_name" value="nan" />
+			<string key="x_city" value="Fort Lauderdale" />
+			<string key="weekday" value="Thursday" />
+			<string key="concept:name" value="Graph Gallery" />
+			<date key="time:timestamp" value="2018-02-08T08:38:00+00:00" />
+			<int key="@@index" value="29" />
+		</event>
+		<event>
+			<int key="Unnamed: 0" value="25003" />
+			<string key="company_id" value="6ffafc313e94655e00e3d1127ef3f24b" />
+			<string key="event" value="Add Graph from Library" />
+			<date key="time" value="2018-02-08T08:38:00+00:00" />
+			<float key="client" value="nan" />
+			<float key="template" value="nan" />
+			<float key="guide_name" value="nan" />
+			<float key="guide_type" value="nan" />
+			<float key="number_of_graphs" value="8.0" />
+			<float key="number_of_graphs_on_dashboard" value="nan" />
+			<float key="graph_origin" value="nan" />
+			<float key="source" value="2.0" />
+			<float key="kpi_count" value="nan" />
+			<string key="account_type" value="Direct" />
+			<float key="graphs_owned" value="nan" />
+			<float key="data_format" value="nan" />
+			<float key="dashboard_template_name" value="nan" />
+			<string key="x_city" value="Fort Lauderdale" />
+			<string key="weekday" value="Thursday" />
+			<string key="concept:name" value="Add Graph from Library" />
+			<date key="time:timestamp" value="2018-02-08T08:38:00+00:00" />
+			<int key="@@index" value="30" />
+		</event>
+		<event>
+			<int key="Unnamed: 0" value="25004" />
+			<string key="company_id" value="6ffafc313e94655e00e3d1127ef3f24b" />
+			<string key="event" value="Select Graph" />
+			<date key="time" value="2018-02-08T08:38:00+00:00" />
+			<float key="client" value="nan" />
+			<float key="template" value="nan" />
+			<float key="guide_name" value="nan" />
+			<float key="guide_type" value="nan" />
+			<float key="number_of_graphs" value="8.0" />
+			<float key="number_of_graphs_on_dashboard" value="nan" />
+			<float key="graph_origin" value="nan" />
+			<float key="source" value="2.0" />
+			<float key="kpi_count" value="nan" />
+			<string key="account_type" value="Direct" />
+			<float key="graphs_owned" value="nan" />
+			<float key="data_format" value="nan" />
+			<float key="dashboard_template_name" value="nan" />
+			<string key="x_city" value="Fort Lauderdale" />
+			<string key="weekday" value="Thursday" />
+			<string key="concept:name" value="Select Graph" />
+			<date key="time:timestamp" value="2018-02-08T08:38:00+00:00" />
+			<int key="@@index" value="31" />
+		</event>
+		<event>
+			<int key="Unnamed: 0" value="25008" />
+			<string key="company_id" value="6ffafc313e94655e00e3d1127ef3f24b" />
+			<string key="event" value="Edit Graph from Dashboard" />
+			<date key="time" value="2018-02-08T08:39:00+00:00" />
+			<float key="client" value="nan" />
+			<float key="template" value="nan" />
+			<float key="guide_name" value="nan" />
+			<float key="guide_type" value="nan" />
+			<float key="number_of_graphs" value="8.0" />
+			<float key="number_of_graphs_on_dashboard" value="nan" />
+			<string key="graph_origin" value="Template" />
+			<float key="source" value="2.0" />
+			<float key="kpi_count" value="nan" />
+			<string key="account_type" value="Direct" />
+			<float key="graphs_owned" value="nan" />
+			<float key="data_format" value="nan" />
+			<float key="dashboard_template_name" value="nan" />
+			<string key="x_city" value="Fort Lauderdale" />
+			<string key="weekday" value="Thursday" />
+			<string key="concept:name" value="Edit Graph from Dashboard" />
+			<date key="time:timestamp" value="2018-02-08T08:39:00+00:00" />
+			<int key="@@index" value="32" />
+		</event>
+		<event>
+			<int key="Unnamed: 0" value="25009" />
+			<string key="company_id" value="6ffafc313e94655e00e3d1127ef3f24b" />
+			<string key="event" value="Edit Graphs" />
+			<date key="time" value="2018-02-08T08:39:00+00:00" />
+			<float key="client" value="nan" />
+			<float key="template" value="nan" />
+			<float key="guide_name" value="nan" />
+			<float key="guide_type" value="nan" />
+			<float key="number_of_graphs" value="8.0" />
+			<float key="number_of_graphs_on_dashboard" value="nan" />
+			<string key="graph_origin" value="Template" />
+			<float key="source" value="2.0" />
+			<float key="kpi_count" value="nan" />
+			<string key="account_type" value="Direct" />
+			<float key="graphs_owned" value="nan" />
+			<float key="data_format" value="nan" />
+			<float key="dashboard_template_name" value="nan" />
+			<string key="x_city" value="Fort Lauderdale" />
+			<string key="weekday" value="Thursday" />
+			<string key="concept:name" value="Edit Graphs" />
+			<date key="time:timestamp" value="2018-02-08T08:39:00+00:00" />
+			<int key="@@index" value="33" />
+		</event>
+		<event>
+			<int key="Unnamed: 0" value="25011" />
+			<string key="company_id" value="6ffafc313e94655e00e3d1127ef3f24b" />
+			<string key="event" value="Create Data Source" />
+			<date key="time" value="2018-02-08T08:39:00+00:00" />
+			<float key="client" value="nan" />
+			<float key="template" value="nan" />
+			<float key="guide_name" value="nan" />
+			<float key="guide_type" value="nan" />
+			<float key="number_of_graphs" value="8.0" />
+			<float key="number_of_graphs_on_dashboard" value="nan" />
+			<float key="graph_origin" value="nan" />
+			<float key="source" value="2.0" />
+			<float key="kpi_count" value="nan" />
+			<string key="account_type" value="Direct" />
+			<float key="graphs_owned" value="nan" />
+			<float key="data_format" value="nan" />
+			<float key="dashboard_template_name" value="nan" />
+			<string key="x_city" value="Fort Lauderdale" />
+			<string key="weekday" value="Thursday" />
+			<string key="concept:name" value="Create Data Source" />
+			<date key="time:timestamp" value="2018-02-08T08:39:00+00:00" />
+			<int key="@@index" value="34" />
+		</event>
+		<event>
+			<int key="Unnamed: 0" value="25014" />
+			<string key="company_id" value="6ffafc313e94655e00e3d1127ef3f24b" />
+			<string key="event" value="Data Source Connector" />
+			<date key="time" value="2018-02-08T08:39:00+00:00" />
+			<float key="client" value="nan" />
+			<float key="template" value="nan" />
+			<float key="guide_name" value="nan" />
+			<float key="guide_type" value="nan" />
+			<float key="number_of_graphs" value="8.0" />
+			<float key="number_of_graphs_on_dashboard" value="nan" />
+			<float key="graph_origin" value="nan" />
+			<float key="source" value="2.0" />
+			<float key="kpi_count" value="nan" />
+			<string key="account_type" value="Direct" />
+			<float key="graphs_owned" value="nan" />
+			<float key="data_format" value="nan" />
+			<float key="dashboard_template_name" value="nan" />
+			<string key="x_city" value="Fort Lauderdale" />
+			<string key="weekday" value="Thursday" />
+			<string key="concept:name" value="Data Source Connector" />
+			<date key="time:timestamp" value="2018-02-08T08:39:00+00:00" />
+			<int key="@@index" value="35" />
+		</event>
+		<event>
+			<int key="Unnamed: 0" value="25018" />
+			<string key="company_id" value="6ffafc313e94655e00e3d1127ef3f24b" />
+			<string key="event" value="DS Template Selected" />
+			<date key="time" value="2018-02-08T08:39:00+00:00" />
+			<float key="client" value="nan" />
+			<float key="template" value="nan" />
+			<float key="guide_name" value="nan" />
+			<float key="guide_type" value="nan" />
+			<float key="number_of_graphs" value="8.0" />
+			<float key="number_of_graphs_on_dashboard" value="nan" />
+			<float key="graph_origin" value="nan" />
+			<float key="source" value="2.0" />
+			<float key="kpi_count" value="nan" />
+			<string key="account_type" value="Direct" />
+			<float key="graphs_owned" value="nan" />
+			<float key="data_format" value="nan" />
+			<string key="dashboard_template_name" value="Create a custom graph" />
+			<string key="x_city" value="Fort Lauderdale" />
+			<string key="weekday" value="Thursday" />
+			<string key="concept:name" value="DS Template Selected" />
+			<date key="time:timestamp" value="2018-02-08T08:39:00+00:00" />
+			<int key="@@index" value="36" />
+		</event>
+		<event>
+			<int key="Unnamed: 0" value="25025" />
+			<string key="company_id" value="6ffafc313e94655e00e3d1127ef3f24b" />
+			<string key="event" value="Data Source Error" />
+			<date key="time" value="2018-02-08T08:40:00+00:00" />
+			<float key="client" value="nan" />
+			<float key="template" value="nan" />
+			<float key="guide_name" value="nan" />
+			<float key="guide_type" value="nan" />
+			<float key="number_of_graphs" value="8.0" />
+			<float key="number_of_graphs_on_dashboard" value="nan" />
+			<float key="graph_origin" value="nan" />
+			<float key="source" value="2.0" />
+			<float key="kpi_count" value="nan" />
+			<string key="account_type" value="Direct" />
+			<float key="graphs_owned" value="nan" />
+			<string key="data_format" value="xls" />
+			<string key="dashboard_template_name" value="Create a custom graph" />
+			<string key="x_city" value="Fort Lauderdale" />
+			<string key="weekday" value="Thursday" />
+			<string key="concept:name" value="Data Source Error" />
+			<date key="time:timestamp" value="2018-02-08T08:40:00+00:00" />
+			<int key="@@index" value="37" />
+		</event>
+		<event>
+			<int key="Unnamed: 0" value="25048" />
+			<string key="company_id" value="6ffafc313e94655e00e3d1127ef3f24b" />
+			<string key="event" value="Data Source Created" />
+			<date key="time" value="2018-02-08T08:41:00+00:00" />
+			<float key="client" value="nan" />
+			<float key="template" value="nan" />
+			<float key="guide_name" value="nan" />
+			<float key="guide_type" value="nan" />
+			<float key="number_of_graphs" value="10.0" />
+			<float key="number_of_graphs_on_dashboard" value="nan" />
+			<float key="graph_origin" value="nan" />
+			<float key="source" value="5.0" />
+			<float key="kpi_count" value="nan" />
+			<string key="account_type" value="Direct" />
+			<float key="graphs_owned" value="nan" />
+			<string key="data_format" value="json" />
+			<string key="dashboard_template_name" value="Create a data source" />
+			<float key="x_city" value="nan" />
+			<string key="weekday" value="Thursday" />
+			<string key="concept:name" value="Data Source Created" />
+			<date key="time:timestamp" value="2018-02-08T08:41:00+00:00" />
+			<int key="@@index" value="38" />
+		</event>
+		<event>
+			<int key="Unnamed: 0" value="25053" />
+			<string key="company_id" value="6ffafc313e94655e00e3d1127ef3f24b" />
+			<string key="event" value="Edit Graphs" />
+			<date key="time" value="2018-02-08T08:42:00+00:00" />
+			<float key="client" value="nan" />
+			<float key="template" value="nan" />
+			<float key="guide_name" value="nan" />
+			<float key="guide_type" value="nan" />
+			<float key="number_of_graphs" value="8.0" />
+			<float key="number_of_graphs_on_dashboard" value="nan" />
+			<string key="graph_origin" value="Template" />
+			<float key="source" value="2.0" />
+			<float key="kpi_count" value="nan" />
+			<string key="account_type" value="Direct" />
+			<float key="graphs_owned" value="nan" />
+			<float key="data_format" value="nan" />
+			<float key="dashboard_template_name" value="nan" />
+			<string key="x_city" value="Fort Lauderdale" />
+			<string key="weekday" value="Thursday" />
+			<string key="concept:name" value="Edit Graphs" />
+			<date key="time:timestamp" value="2018-02-08T08:42:00+00:00" />
+			<int key="@@index" value="39" />
+		</event>
+		<event>
+			<int key="Unnamed: 0" value="25055" />
+			<string key="company_id" value="6ffafc313e94655e00e3d1127ef3f24b" />
+			<string key="event" value="Edit Graph from Dashboard" />
+			<date key="time" value="2018-02-08T08:42:00+00:00" />
+			<float key="client" value="nan" />
+			<float key="template" value="nan" />
+			<float key="guide_name" value="nan" />
+			<float key="guide_type" value="nan" />
+			<float key="number_of_graphs" value="8.0" />
+			<float key="number_of_graphs_on_dashboard" value="nan" />
+			<string key="graph_origin" value="Template" />
+			<float key="source" value="2.0" />
+			<float key="kpi_count" value="nan" />
+			<string key="account_type" value="Direct" />
+			<float key="graphs_owned" value="nan" />
+			<float key="data_format" value="nan" />
+			<float key="dashboard_template_name" value="nan" />
+			<string key="x_city" value="Fort Lauderdale" />
+			<string key="weekday" value="Thursday" />
+			<string key="concept:name" value="Edit Graph from Dashboard" />
+			<date key="time:timestamp" value="2018-02-08T08:42:00+00:00" />
+			<int key="@@index" value="40" />
+		</event>
+		<event>
+			<int key="Unnamed: 0" value="25056" />
+			<string key="company_id" value="6ffafc313e94655e00e3d1127ef3f24b" />
+			<string key="event" value="Edit Graphs" />
+			<date key="time" value="2018-02-08T08:42:00+00:00" />
+			<float key="client" value="nan" />
+			<float key="template" value="nan" />
+			<float key="guide_name" value="nan" />
+			<float key="guide_type" value="nan" />
+			<float key="number_of_graphs" value="8.0" />
+			<float key="number_of_graphs_on_dashboard" value="nan" />
+			<string key="graph_origin" value="Template" />
+			<float key="source" value="2.0" />
+			<float key="kpi_count" value="nan" />
+			<string key="account_type" value="Direct" />
+			<float key="graphs_owned" value="nan" />
+			<float key="data_format" value="nan" />
+			<float key="dashboard_template_name" value="nan" />
+			<string key="x_city" value="Fort Lauderdale" />
+			<string key="weekday" value="Thursday" />
+			<string key="concept:name" value="Edit Graphs" />
+			<date key="time:timestamp" value="2018-02-08T08:42:00+00:00" />
+			<int key="@@index" value="41" />
+		</event>
+		<event>
+			<int key="Unnamed: 0" value="25068" />
+			<string key="company_id" value="6ffafc313e94655e00e3d1127ef3f24b" />
+			<string key="event" value="Edit Graphs" />
+			<date key="time" value="2018-02-08T08:43:00+00:00" />
+			<float key="client" value="nan" />
+			<float key="template" value="nan" />
+			<float key="guide_name" value="nan" />
+			<float key="guide_type" value="nan" />
+			<float key="number_of_graphs" value="8.0" />
+			<float key="number_of_graphs_on_dashboard" value="nan" />
+			<string key="graph_origin" value="Template" />
+			<float key="source" value="2.0" />
+			<float key="kpi_count" value="nan" />
+			<string key="account_type" value="Direct" />
+			<float key="graphs_owned" value="nan" />
+			<float key="data_format" value="nan" />
+			<float key="dashboard_template_name" value="nan" />
+			<string key="x_city" value="Fort Lauderdale" />
+			<string key="weekday" value="Thursday" />
+			<string key="concept:name" value="Edit Graphs" />
+			<date key="time:timestamp" value="2018-02-08T08:43:00+00:00" />
+			<int key="@@index" value="42" />
+		</event>
+		<event>
+			<int key="Unnamed: 0" value="25075" />
+			<string key="company_id" value="6ffafc313e94655e00e3d1127ef3f24b" />
+			<string key="event" value="Add New Button" />
+			<date key="time" value="2018-02-08T08:43:00+00:00" />
+			<float key="client" value="nan" />
+			<float key="template" value="nan" />
+			<float key="guide_name" value="nan" />
+			<float key="guide_type" value="nan" />
+			<float key="number_of_graphs" value="8.0" />
+			<float key="number_of_graphs_on_dashboard" value="nan" />
+			<float key="graph_origin" value="nan" />
+			<float key="source" value="2.0" />
+			<float key="kpi_count" value="nan" />
+			<string key="account_type" value="Direct" />
+			<float key="graphs_owned" value="nan" />
+			<float key="data_format" value="nan" />
+			<float key="dashboard_template_name" value="nan" />
+			<string key="x_city" value="Fort Lauderdale" />
+			<string key="weekday" value="Thursday" />
+			<string key="concept:name" value="Add New Button" />
+			<date key="time:timestamp" value="2018-02-08T08:43:00+00:00" />
+			<int key="@@index" value="43" />
+		</event>
+		<event>
+			<int key="Unnamed: 0" value="25076" />
+			<string key="company_id" value="6ffafc313e94655e00e3d1127ef3f24b" />
+			<string key="event" value="Create New Graph" />
+			<date key="time" value="2018-02-08T08:43:00+00:00" />
+			<float key="client" value="nan" />
+			<float key="template" value="nan" />
+			<float key="guide_name" value="nan" />
+			<float key="guide_type" value="nan" />
+			<float key="number_of_graphs" value="8.0" />
+			<float key="number_of_graphs_on_dashboard" value="nan" />
+			<float key="graph_origin" value="nan" />
+			<float key="source" value="2.0" />
+			<float key="kpi_count" value="nan" />
+			<string key="account_type" value="Direct" />
+			<float key="graphs_owned" value="nan" />
+			<float key="data_format" value="nan" />
+			<float key="dashboard_template_name" value="nan" />
+			<string key="x_city" value="Fort Lauderdale" />
+			<string key="weekday" value="Thursday" />
+			<string key="concept:name" value="Create New Graph" />
+			<date key="time:timestamp" value="2018-02-08T08:43:00+00:00" />
+			<int key="@@index" value="44" />
+		</event>
+		<event>
+			<int key="Unnamed: 0" value="25077" />
+			<string key="company_id" value="6ffafc313e94655e00e3d1127ef3f24b" />
+			<string key="event" value="Edit Graphs" />
+			<date key="time" value="2018-02-08T08:43:00+00:00" />
+			<float key="client" value="nan" />
+			<float key="template" value="nan" />
+			<float key="guide_name" value="nan" />
+			<float key="guide_type" value="nan" />
+			<float key="number_of_graphs" value="8.0" />
+			<float key="number_of_graphs_on_dashboard" value="nan" />
+			<string key="graph_origin" value="Custom" />
+			<float key="source" value="2.0" />
+			<float key="kpi_count" value="nan" />
+			<string key="account_type" value="Direct" />
+			<float key="graphs_owned" value="nan" />
+			<float key="data_format" value="nan" />
+			<float key="dashboard_template_name" value="nan" />
+			<string key="x_city" value="Fort Lauderdale" />
+			<string key="weekday" value="Thursday" />
+			<string key="concept:name" value="Edit Graphs" />
+			<date key="time:timestamp" value="2018-02-08T08:43:00+00:00" />
+			<int key="@@index" value="45" />
+		</event>
+		<event>
+			<int key="Unnamed: 0" value="25086" />
+			<string key="company_id" value="6ffafc313e94655e00e3d1127ef3f24b" />
+			<string key="event" value="Create Data Source" />
+			<date key="time" value="2018-02-08T08:45:00+00:00" />
+			<float key="client" value="nan" />
+			<float key="template" value="nan" />
+			<float key="guide_name" value="nan" />
+			<float key="guide_type" value="nan" />
+			<float key="number_of_graphs" value="8.0" />
+			<float key="number_of_graphs_on_dashboard" value="nan" />
+			<float key="graph_origin" value="nan" />
+			<float key="source" value="2.0" />
+			<float key="kpi_count" value="nan" />
+			<string key="account_type" value="Direct" />
+			<float key="graphs_owned" value="nan" />
+			<float key="data_format" value="nan" />
+			<float key="dashboard_template_name" value="nan" />
+			<string key="x_city" value="Fort Lauderdale" />
+			<string key="weekday" value="Thursday" />
+			<string key="concept:name" value="Create Data Source" />
+			<date key="time:timestamp" value="2018-02-08T08:45:00+00:00" />
+			<int key="@@index" value="46" />
+		</event>
+		<event>
+			<int key="Unnamed: 0" value="25087" />
+			<string key="company_id" value="6ffafc313e94655e00e3d1127ef3f24b" />
+			<string key="event" value="Data Source Connector" />
+			<date key="time" value="2018-02-08T08:45:00+00:00" />
+			<float key="client" value="nan" />
+			<float key="template" value="nan" />
+			<float key="guide_name" value="nan" />
+			<float key="guide_type" value="nan" />
+			<float key="number_of_graphs" value="8.0" />
+			<float key="number_of_graphs_on_dashboard" value="nan" />
+			<float key="graph_origin" value="nan" />
+			<float key="source" value="2.0" />
+			<float key="kpi_count" value="nan" />
+			<string key="account_type" value="Direct" />
+			<float key="graphs_owned" value="nan" />
+			<float key="data_format" value="nan" />
+			<float key="dashboard_template_name" value="nan" />
+			<string key="x_city" value="Fort Lauderdale" />
+			<string key="weekday" value="Thursday" />
+			<string key="concept:name" value="Data Source Connector" />
+			<date key="time:timestamp" value="2018-02-08T08:45:00+00:00" />
+			<int key="@@index" value="47" />
+		</event>
+		<event>
+			<int key="Unnamed: 0" value="25088" />
+			<string key="company_id" value="6ffafc313e94655e00e3d1127ef3f24b" />
+			<string key="event" value="DS Template Selected" />
+			<date key="time" value="2018-02-08T08:45:00+00:00" />
+			<float key="client" value="nan" />
+			<float key="template" value="nan" />
+			<float key="guide_name" value="nan" />
+			<float key="guide_type" value="nan" />
+			<float key="number_of_graphs" value="8.0" />
+			<float key="number_of_graphs_on_dashboard" value="nan" />
+			<float key="graph_origin" value="nan" />
+			<float key="source" value="2.0" />
+			<float key="kpi_count" value="nan" />
+			<string key="account_type" value="Direct" />
+			<float key="graphs_owned" value="nan" />
+			<float key="data_format" value="nan" />
+			<string key="dashboard_template_name" value="Create a custom graph" />
+			<string key="x_city" value="Fort Lauderdale" />
+			<string key="weekday" value="Thursday" />
+			<string key="concept:name" value="DS Template Selected" />
+			<date key="time:timestamp" value="2018-02-08T08:45:00+00:00" />
+			<int key="@@index" value="48" />
+		</event>
+		<event>
+			<int key="Unnamed: 0" value="25097" />
+			<string key="company_id" value="6ffafc313e94655e00e3d1127ef3f24b" />
+			<string key="event" value="Edit Graphs" />
+			<date key="time" value="2018-02-08T08:45:00+00:00" />
+			<float key="client" value="nan" />
+			<float key="template" value="nan" />
+			<float key="guide_name" value="nan" />
+			<float key="guide_type" value="nan" />
+			<float key="number_of_graphs" value="8.0" />
+			<float key="number_of_graphs_on_dashboard" value="nan" />
+			<string key="graph_origin" value="Custom" />
+			<float key="source" value="2.0" />
+			<float key="kpi_count" value="nan" />
+			<string key="account_type" value="Direct" />
+			<float key="graphs_owned" value="nan" />
+			<float key="data_format" value="nan" />
+			<float key="dashboard_template_name" value="nan" />
+			<string key="x_city" value="Fort Lauderdale" />
+			<string key="weekday" value="Thursday" />
+			<string key="concept:name" value="Edit Graphs" />
+			<date key="time:timestamp" value="2018-02-08T08:45:00+00:00" />
+			<int key="@@index" value="49" />
+		</event>
+		<event>
+			<int key="Unnamed: 0" value="25122" />
+			<string key="company_id" value="6ffafc313e94655e00e3d1127ef3f24b" />
+			<string key="event" value="Help" />
+			<date key="time" value="2018-02-08T08:47:00+00:00" />
+			<float key="client" value="nan" />
+			<float key="template" value="nan" />
+			<float key="guide_name" value="nan" />
+			<float key="guide_type" value="nan" />
+			<float key="number_of_graphs" value="8.0" />
+			<float key="number_of_graphs_on_dashboard" value="nan" />
+			<float key="graph_origin" value="nan" />
+			<float key="source" value="2.0" />
+			<float key="kpi_count" value="nan" />
+			<string key="account_type" value="Direct" />
+			<float key="graphs_owned" value="nan" />
+			<float key="data_format" value="nan" />
+			<float key="dashboard_template_name" value="nan" />
+			<string key="x_city" value="Fort Lauderdale" />
+			<string key="weekday" value="Thursday" />
+			<string key="concept:name" value="Help" />
+			<date key="time:timestamp" value="2018-02-08T08:47:00+00:00" />
+			<int key="@@index" value="50" />
+		</event>
+		<event>
+			<int key="Unnamed: 0" value="25134" />
+			<string key="company_id" value="6ffafc313e94655e00e3d1127ef3f24b" />
+			<string key="event" value="Help" />
+			<date key="time" value="2018-02-08T08:48:00+00:00" />
+			<float key="client" value="nan" />
+			<float key="template" value="nan" />
+			<float key="guide_name" value="nan" />
+			<float key="guide_type" value="nan" />
+			<float key="number_of_graphs" value="8.0" />
+			<float key="number_of_graphs_on_dashboard" value="nan" />
+			<float key="graph_origin" value="nan" />
+			<float key="source" value="2.0" />
+			<float key="kpi_count" value="nan" />
+			<string key="account_type" value="Direct" />
+			<float key="graphs_owned" value="nan" />
+			<float key="data_format" value="nan" />
+			<float key="dashboard_template_name" value="nan" />
+			<string key="x_city" value="Fort Lauderdale" />
+			<string key="weekday" value="Thursday" />
+			<string key="concept:name" value="Help" />
+			<date key="time:timestamp" value="2018-02-08T08:48:00+00:00" />
+			<int key="@@index" value="51" />
+		</event>
+		<event>
+			<int key="Unnamed: 0" value="25138" />
+			<string key="company_id" value="6ffafc313e94655e00e3d1127ef3f24b" />
+			<string key="event" value="Sidebar Search" />
+			<date key="time" value="2018-02-08T08:48:00+00:00" />
+			<float key="client" value="nan" />
+			<float key="template" value="nan" />
+			<float key="guide_name" value="nan" />
+			<float key="guide_type" value="nan" />
+			<float key="number_of_graphs" value="8.0" />
+			<float key="number_of_graphs_on_dashboard" value="nan" />
+			<float key="graph_origin" value="nan" />
+			<float key="source" value="2.0" />
+			<float key="kpi_count" value="nan" />
+			<string key="account_type" value="Direct" />
+			<float key="graphs_owned" value="nan" />
+			<float key="data_format" value="nan" />
+			<float key="dashboard_template_name" value="nan" />
+			<string key="x_city" value="Fort Lauderdale" />
+			<string key="weekday" value="Thursday" />
+			<string key="concept:name" value="Sidebar Search" />
+			<date key="time:timestamp" value="2018-02-08T08:48:00+00:00" />
+			<int key="@@index" value="52" />
+		</event>
+		<event>
+			<int key="Unnamed: 0" value="25139" />
+			<string key="company_id" value="6ffafc313e94655e00e3d1127ef3f24b" />
+			<string key="event" value="Help Selection" />
+			<date key="time" value="2018-02-08T08:48:00+00:00" />
+			<float key="client" value="nan" />
+			<float key="template" value="nan" />
+			<float key="guide_name" value="nan" />
+			<float key="guide_type" value="nan" />
+			<float key="number_of_graphs" value="8.0" />
+			<float key="number_of_graphs_on_dashboard" value="nan" />
+			<float key="graph_origin" value="nan" />
+			<float key="source" value="2.0" />
+			<float key="kpi_count" value="nan" />
+			<string key="account_type" value="Direct" />
+			<float key="graphs_owned" value="nan" />
+			<float key="data_format" value="nan" />
+			<float key="dashboard_template_name" value="nan" />
+			<string key="x_city" value="Fort Lauderdale" />
+			<string key="weekday" value="Thursday" />
+			<string key="concept:name" value="Help Selection" />
+			<date key="time:timestamp" value="2018-02-08T08:48:00+00:00" />
+			<int key="@@index" value="53" />
+		</event>
+		<event>
+			<int key="Unnamed: 0" value="25143" />
+			<string key="company_id" value="6ffafc313e94655e00e3d1127ef3f24b" />
+			<string key="event" value="Help" />
+			<date key="time" value="2018-02-08T08:48:00+00:00" />
+			<float key="client" value="nan" />
+			<float key="template" value="nan" />
+			<float key="guide_name" value="nan" />
+			<float key="guide_type" value="nan" />
+			<float key="number_of_graphs" value="8.0" />
+			<float key="number_of_graphs_on_dashboard" value="nan" />
+			<float key="graph_origin" value="nan" />
+			<float key="source" value="2.0" />
+			<float key="kpi_count" value="nan" />
+			<string key="account_type" value="Direct" />
+			<float key="graphs_owned" value="nan" />
+			<float key="data_format" value="nan" />
+			<float key="dashboard_template_name" value="nan" />
+			<string key="x_city" value="Fort Lauderdale" />
+			<string key="weekday" value="Thursday" />
+			<string key="concept:name" value="Help" />
+			<date key="time:timestamp" value="2018-02-08T08:48:00+00:00" />
+			<int key="@@index" value="54" />
+		</event>
+		<event>
+			<int key="Unnamed: 0" value="25144" />
+			<string key="company_id" value="6ffafc313e94655e00e3d1127ef3f24b" />
+			<string key="event" value="New Account Created" />
+			<date key="time" value="2018-02-08T08:48:00+00:00" />
+			<float key="client" value="nan" />
+			<float key="template" value="nan" />
+			<float key="guide_name" value="nan" />
+			<float key="guide_type" value="nan" />
+			<float key="number_of_graphs" value="8.0" />
+			<float key="number_of_graphs_on_dashboard" value="nan" />
+			<float key="graph_origin" value="nan" />
+			<float key="source" value="2.0" />
+			<float key="kpi_count" value="nan" />
+			<string key="account_type" value="Direct" />
+			<float key="graphs_owned" value="nan" />
+			<float key="data_format" value="nan" />
+			<float key="dashboard_template_name" value="nan" />
+			<string key="x_city" value="Fort Lauderdale" />
+			<string key="weekday" value="Thursday" />
+			<string key="concept:name" value="New Account Created" />
+			<date key="time:timestamp" value="2018-02-08T08:48:00+00:00" />
+			<int key="@@index" value="55" />
+		</event>
+		<event>
+			<int key="Unnamed: 0" value="25154" />
+			<string key="company_id" value="6ffafc313e94655e00e3d1127ef3f24b" />
+			<string key="event" value="Logo Change Started" />
+			<date key="time" value="2018-02-08T08:49:00+00:00" />
+			<float key="client" value="nan" />
+			<float key="template" value="nan" />
+			<float key="guide_name" value="nan" />
+			<float key="guide_type" value="nan" />
+			<float key="number_of_graphs" value="10.0" />
+			<float key="number_of_graphs_on_dashboard" value="nan" />
+			<float key="graph_origin" value="nan" />
+			<float key="source" value="5.0" />
+			<float key="kpi_count" value="nan" />
+			<string key="account_type" value="Direct" />
+			<float key="graphs_owned" value="nan" />
+			<float key="data_format" value="nan" />
+			<float key="dashboard_template_name" value="nan" />
+			<float key="x_city" value="nan" />
+			<string key="weekday" value="Thursday" />
+			<string key="concept:name" value="Logo Change Started" />
+			<date key="time:timestamp" value="2018-02-08T08:49:00+00:00" />
+			<int key="@@index" value="56" />
+		</event>
+		<event>
+			<int key="Unnamed: 0" value="25155" />
+			<string key="company_id" value="6ffafc313e94655e00e3d1127ef3f24b" />
+			<string key="event" value="View Plans" />
+			<date key="time" value="2018-02-08T08:49:00+00:00" />
+			<float key="client" value="nan" />
+			<float key="template" value="nan" />
+			<float key="guide_name" value="nan" />
+			<float key="guide_type" value="nan" />
+			<float key="number_of_graphs" value="8.0" />
+			<float key="number_of_graphs_on_dashboard" value="nan" />
+			<float key="graph_origin" value="nan" />
+			<float key="source" value="2.0" />
+			<float key="kpi_count" value="nan" />
+			<string key="account_type" value="Direct" />
+			<float key="graphs_owned" value="nan" />
+			<float key="data_format" value="nan" />
+			<float key="dashboard_template_name" value="nan" />
+			<string key="x_city" value="Fort Lauderdale" />
+			<string key="weekday" value="Thursday" />
+			<string key="concept:name" value="View Plans" />
+			<date key="time:timestamp" value="2018-02-08T08:49:00+00:00" />
+			<int key="@@index" value="57" />
+		</event>
+		<event>
+			<int key="Unnamed: 0" value="25159" />
+			<string key="company_id" value="6ffafc313e94655e00e3d1127ef3f24b" />
+			<string key="event" value="Purchase Company Details" />
+			<date key="time" value="2018-02-08T08:50:00+00:00" />
+			<float key="client" value="nan" />
+			<float key="template" value="nan" />
+			<float key="guide_name" value="nan" />
+			<float key="guide_type" value="nan" />
+			<float key="number_of_graphs" value="8.0" />
+			<float key="number_of_graphs_on_dashboard" value="nan" />
+			<float key="graph_origin" value="nan" />
+			<float key="source" value="2.0" />
+			<float key="kpi_count" value="nan" />
+			<string key="account_type" value="Direct" />
+			<float key="graphs_owned" value="nan" />
+			<float key="data_format" value="nan" />
+			<float key="dashboard_template_name" value="nan" />
+			<string key="x_city" value="Fort Lauderdale" />
+			<string key="weekday" value="Thursday" />
+			<string key="concept:name" value="Purchase Company Details" />
+			<date key="time:timestamp" value="2018-02-08T08:50:00+00:00" />
+			<int key="@@index" value="58" />
+		</event>
+		<event>
+			<int key="Unnamed: 0" value="25162" />
+			<string key="company_id" value="6ffafc313e94655e00e3d1127ef3f24b" />
+			<string key="event" value="View Plans" />
+			<date key="time" value="2018-02-08T08:50:00+00:00" />
+			<float key="client" value="nan" />
+			<float key="template" value="nan" />
+			<float key="guide_name" value="nan" />
+			<float key="guide_type" value="nan" />
+			<float key="number_of_graphs" value="8.0" />
+			<float key="number_of_graphs_on_dashboard" value="nan" />
+			<float key="graph_origin" value="nan" />
+			<float key="source" value="2.0" />
+			<float key="kpi_count" value="nan" />
+			<string key="account_type" value="Direct" />
+			<float key="graphs_owned" value="nan" />
+			<float key="data_format" value="nan" />
+			<float key="dashboard_template_name" value="nan" />
+			<string key="x_city" value="Fort Lauderdale" />
+			<string key="weekday" value="Thursday" />
+			<string key="concept:name" value="View Plans" />
+			<date key="time:timestamp" value="2018-02-08T08:50:00+00:00" />
+			<int key="@@index" value="59" />
+		</event>
+		<event>
+			<int key="Unnamed: 0" value="25163" />
+			<string key="company_id" value="6ffafc313e94655e00e3d1127ef3f24b" />
+			<string key="event" value="Sidebar Search" />
+			<date key="time" value="2018-02-08T08:50:00+00:00" />
+			<float key="client" value="nan" />
+			<float key="template" value="nan" />
+			<float key="guide_name" value="nan" />
+			<float key="guide_type" value="nan" />
+			<float key="number_of_graphs" value="8.0" />
+			<float key="number_of_graphs_on_dashboard" value="nan" />
+			<float key="graph_origin" value="nan" />
+			<float key="source" value="2.0" />
+			<float key="kpi_count" value="nan" />
+			<string key="account_type" value="Direct" />
+			<float key="graphs_owned" value="nan" />
+			<float key="data_format" value="nan" />
+			<float key="dashboard_template_name" value="nan" />
+			<string key="x_city" value="Fort Lauderdale" />
+			<string key="weekday" value="Thursday" />
+			<string key="concept:name" value="Sidebar Search" />
+			<date key="time:timestamp" value="2018-02-08T08:50:00+00:00" />
+			<int key="@@index" value="60" />
+		</event>
+		<event>
+			<int key="Unnamed: 0" value="25166" />
+			<string key="company_id" value="6ffafc313e94655e00e3d1127ef3f24b" />
+			<string key="event" value="Purchase Company Details" />
+			<date key="time" value="2018-02-08T08:51:00+00:00" />
+			<float key="client" value="nan" />
+			<float key="template" value="nan" />
+			<float key="guide_name" value="nan" />
+			<float key="guide_type" value="nan" />
+			<float key="number_of_graphs" value="8.0" />
+			<float key="number_of_graphs_on_dashboard" value="nan" />
+			<float key="graph_origin" value="nan" />
+			<float key="source" value="2.0" />
+			<float key="kpi_count" value="nan" />
+			<string key="account_type" value="Direct" />
+			<float key="graphs_owned" value="nan" />
+			<float key="data_format" value="nan" />
+			<float key="dashboard_template_name" value="nan" />
+			<string key="x_city" value="Fort Lauderdale" />
+			<string key="weekday" value="Thursday" />
+			<string key="concept:name" value="Purchase Company Details" />
+			<date key="time:timestamp" value="2018-02-08T08:51:00+00:00" />
+			<int key="@@index" value="61" />
+		</event>
+		<event>
+			<int key="Unnamed: 0" value="25170" />
+			<string key="company_id" value="6ffafc313e94655e00e3d1127ef3f24b" />
+			<string key="event" value="Purchase Confirm Details" />
+			<date key="time" value="2018-02-08T08:51:00+00:00" />
+			<float key="client" value="nan" />
+			<float key="template" value="nan" />
+			<float key="guide_name" value="nan" />
+			<float key="guide_type" value="nan" />
+			<float key="number_of_graphs" value="8.0" />
+			<float key="number_of_graphs_on_dashboard" value="nan" />
+			<float key="graph_origin" value="nan" />
+			<float key="source" value="2.0" />
+			<float key="kpi_count" value="nan" />
+			<string key="account_type" value="Direct" />
+			<float key="graphs_owned" value="nan" />
+			<float key="data_format" value="nan" />
+			<float key="dashboard_template_name" value="nan" />
+			<string key="x_city" value="Fort Lauderdale" />
+			<string key="weekday" value="Thursday" />
+			<string key="concept:name" value="Purchase Confirm Details" />
+			<date key="time:timestamp" value="2018-02-08T08:51:00+00:00" />
+			<int key="@@index" value="62" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="f5067bb522279c9e9972da3a6c4a1eb2" />
+		<event>
+			<int key="Unnamed: 0" value="14495" />
+			<string key="company_id" value="f5067bb522279c9e9972da3a6c4a1eb2" />
+			<string key="event" value="Trial Sign Up Completed" />
+			<date key="time" value="2018-01-08T16:41:00+00:00" />
+			<float key="client" value="nan" />
+			<float key="template" value="nan" />
+			<float key="guide_name" value="nan" />
+			<float key="guide_type" value="nan" />
+			<float key="number_of_graphs" value="8.0" />
+			<float key="number_of_graphs_on_dashboard" value="nan" />
+			<float key="graph_origin" value="nan" />
+			<float key="source" value="2.0" />
+			<float key="kpi_count" value="nan" />
+			<string key="account_type" value="Direct" />
+			<float key="graphs_owned" value="nan" />
+			<float key="data_format" value="nan" />
+			<float key="dashboard_template_name" value="nan" />
+			<string key="x_city" value="Ottawa" />
+			<string key="weekday" value="Wednesday" />
+			<string key="concept:name" value="Trial Sign Up Completed" />
+			<date key="time:timestamp" value="2018-01-08T16:41:00+00:00" />
+			<int key="@@index" value="63" />
+		</event>
+		<event>
+			<int key="Unnamed: 0" value="14550" />
+			<string key="company_id" value="f5067bb522279c9e9972da3a6c4a1eb2" />
+			<string key="event" value="View Plans" />
+			<date key="time" value="2018-01-08T16:44:00+00:00" />
+			<float key="client" value="nan" />
+			<float key="template" value="nan" />
+			<float key="guide_name" value="nan" />
+			<float key="guide_type" value="nan" />
+			<float key="number_of_graphs" value="8.0" />
+			<float key="number_of_graphs_on_dashboard" value="nan" />
+			<float key="graph_origin" value="nan" />
+			<float key="source" value="2.0" />
+			<float key="kpi_count" value="nan" />
+			<string key="account_type" value="Direct" />
+			<float key="graphs_owned" value="nan" />
+			<float key="data_format" value="nan" />
+			<float key="dashboard_template_name" value="nan" />
+			<string key="x_city" value="Ottawa" />
+			<string key="weekday" value="Wednesday" />
+			<string key="concept:name" value="View Plans" />
+			<date key="time:timestamp" value="2018-01-08T16:44:00+00:00" />
+			<int key="@@index" value="64" />
+		</event>
+		<event>
+			<int key="Unnamed: 0" value="14551" />
+			<string key="company_id" value="f5067bb522279c9e9972da3a6c4a1eb2" />
+			<string key="event" value="Purchase Company Details" />
+			<date key="time" value="2018-01-08T16:44:00+00:00" />
+			<float key="client" value="nan" />
+			<float key="template" value="nan" />
+			<float key="guide_name" value="nan" />
+			<float key="guide_type" value="nan" />
+			<float key="number_of_graphs" value="8.0" />
+			<float key="number_of_graphs_on_dashboard" value="nan" />
+			<float key="graph_origin" value="nan" />
+			<float key="source" value="2.0" />
+			<float key="kpi_count" value="nan" />
+			<string key="account_type" value="Direct" />
+			<float key="graphs_owned" value="nan" />
+			<float key="data_format" value="nan" />
+			<float key="dashboard_template_name" value="nan" />
+			<string key="x_city" value="Ottawa" />
+			<string key="weekday" value="Wednesday" />
+			<string key="concept:name" value="Purchase Company Details" />
+			<date key="time:timestamp" value="2018-01-08T16:44:00+00:00" />
+			<int key="@@index" value="65" />
+		</event>
+		<event>
+			<int key="Unnamed: 0" value="14552" />
+			<string key="company_id" value="f5067bb522279c9e9972da3a6c4a1eb2" />
+			<string key="event" value="Purchase Company Details" />
+			<date key="time" value="2018-01-08T16:44:00+00:00" />
+			<float key="client" value="nan" />
+			<float key="template" value="nan" />
+			<float key="guide_name" value="nan" />
+			<float key="guide_type" value="nan" />
+			<float key="number_of_graphs" value="8.0" />
+			<float key="number_of_graphs_on_dashboard" value="nan" />
+			<float key="graph_origin" value="nan" />
+			<float key="source" value="2.0" />
+			<float key="kpi_count" value="nan" />
+			<string key="account_type" value="Direct" />
+			<float key="graphs_owned" value="nan" />
+			<float key="data_format" value="nan" />
+			<float key="dashboard_template_name" value="nan" />
+			<string key="x_city" value="Ottawa" />
+			<string key="weekday" value="Wednesday" />
+			<string key="concept:name" value="Purchase Company Details" />
+			<date key="time:timestamp" value="2018-01-08T16:44:00+00:00" />
+			<int key="@@index" value="66" />
+		</event>
+		<event>
+			<int key="Unnamed: 0" value="14553" />
+			<string key="company_id" value="f5067bb522279c9e9972da3a6c4a1eb2" />
+			<string key="event" value="Purchase Confirm Details" />
+			<date key="time" value="2018-01-08T16:44:00+00:00" />
+			<float key="client" value="nan" />
+			<float key="template" value="nan" />
+			<float key="guide_name" value="nan" />
+			<float key="guide_type" value="nan" />
+			<float key="number_of_graphs" value="8.0" />
+			<float key="number_of_graphs_on_dashboard" value="nan" />
+			<float key="graph_origin" value="nan" />
+			<float key="source" value="2.0" />
+			<float key="kpi_count" value="nan" />
+			<string key="account_type" value="Direct" />
+			<float key="graphs_owned" value="nan" />
+			<float key="data_format" value="nan" />
+			<float key="dashboard_template_name" value="nan" />
+			<string key="x_city" value="Ottawa" />
+			<string key="weekday" value="Wednesday" />
+			<string key="concept:name" value="Purchase Confirm Details" />
+			<date key="time:timestamp" value="2018-01-08T16:44:00+00:00" />
+			<int key="@@index" value="67" />
+		</event>
+		<event>
+			<int key="Unnamed: 0" value="14554" />
+			<string key="company_id" value="f5067bb522279c9e9972da3a6c4a1eb2" />
+			<string key="event" value="Purchase Billing Details" />
+			<date key="time" value="2018-01-08T16:44:00+00:00" />
+			<float key="client" value="nan" />
+			<float key="template" value="nan" />
+			<float key="guide_name" value="nan" />
+			<float key="guide_type" value="nan" />
+			<float key="number_of_graphs" value="8.0" />
+			<float key="number_of_graphs_on_dashboard" value="nan" />
+			<float key="graph_origin" value="nan" />
+			<float key="source" value="2.0" />
+			<float key="kpi_count" value="nan" />
+			<string key="account_type" value="Direct" />
+			<float key="graphs_owned" value="nan" />
+			<float key="data_format" value="nan" />
+			<float key="dashboard_template_name" value="nan" />
+			<string key="x_city" value="Ottawa" />
+			<string key="weekday" value="Wednesday" />
+			<string key="concept:name" value="Purchase Billing Details" />
+			<date key="time:timestamp" value="2018-01-08T16:44:00+00:00" />
+			<int key="@@index" value="68" />
+		</event>
+		<event>
+			<int key="Unnamed: 0" value="14561" />
+			<string key="company_id" value="f5067bb522279c9e9972da3a6c4a1eb2" />
+			<string key="event" value="Purchase Confirm Details" />
+			<date key="time" value="2018-01-08T16:45:00+00:00" />
+			<float key="client" value="nan" />
+			<float key="template" value="nan" />
+			<float key="guide_name" value="nan" />
+			<float key="guide_type" value="nan" />
+			<float key="number_of_graphs" value="8.0" />
+			<float key="number_of_graphs_on_dashboard" value="nan" />
+			<float key="graph_origin" value="nan" />
+			<float key="source" value="2.0" />
+			<float key="kpi_count" value="nan" />
+			<string key="account_type" value="Direct" />
+			<float key="graphs_owned" value="nan" />
+			<float key="data_format" value="nan" />
+			<float key="dashboard_template_name" value="nan" />
+			<string key="x_city" value="Ottawa" />
+			<string key="weekday" value="Wednesday" />
+			<string key="concept:name" value="Purchase Confirm Details" />
+			<date key="time:timestamp" value="2018-01-08T16:45:00+00:00" />
+			<int key="@@index" value="69" />
+		</event>
+		<event>
+			<int key="Unnamed: 0" value="14562" />
+			<string key="company_id" value="f5067bb522279c9e9972da3a6c4a1eb2" />
+			<string key="event" value="Purchase Billing Details" />
+			<date key="time" value="2018-01-08T16:45:00+00:00" />
+			<float key="client" value="nan" />
+			<float key="template" value="nan" />
+			<float key="guide_name" value="nan" />
+			<float key="guide_type" value="nan" />
+			<float key="number_of_graphs" value="8.0" />
+			<float key="number_of_graphs_on_dashboard" value="nan" />
+			<float key="graph_origin" value="nan" />
+			<float key="source" value="2.0" />
+			<float key="kpi_count" value="nan" />
+			<string key="account_type" value="Direct" />
+			<float key="graphs_owned" value="nan" />
+			<float key="data_format" value="nan" />
+			<float key="dashboard_template_name" value="nan" />
+			<string key="x_city" value="Ottawa" />
+			<string key="weekday" value="Wednesday" />
+			<string key="concept:name" value="Purchase Billing Details" />
+			<date key="time:timestamp" value="2018-01-08T16:45:00+00:00" />
+			<int key="@@index" value="70" />
+		</event>
+		<event>
+			<int key="Unnamed: 0" value="14563" />
+			<string key="company_id" value="f5067bb522279c9e9972da3a6c4a1eb2" />
+			<string key="event" value="Purchase Confirm Details" />
+			<date key="time" value="2018-01-08T16:45:00+00:00" />
+			<float key="client" value="nan" />
+			<float key="template" value="nan" />
+			<float key="guide_name" value="nan" />
+			<float key="guide_type" value="nan" />
+			<float key="number_of_graphs" value="8.0" />
+			<float key="number_of_graphs_on_dashboard" value="nan" />
+			<float key="graph_origin" value="nan" />
+			<float key="source" value="2.0" />
+			<float key="kpi_count" value="nan" />
+			<string key="account_type" value="Direct" />
+			<float key="graphs_owned" value="nan" />
+			<float key="data_format" value="nan" />
+			<float key="dashboard_template_name" value="nan" />
+			<string key="x_city" value="Ottawa" />
+			<string key="weekday" value="Wednesday" />
+			<string key="concept:name" value="Purchase Confirm Details" />
+			<date key="time:timestamp" value="2018-01-08T16:45:00+00:00" />
+			<int key="@@index" value="71" />
+		</event>
+		<event>
+			<int key="Unnamed: 0" value="14564" />
+			<string key="company_id" value="f5067bb522279c9e9972da3a6c4a1eb2" />
+			<string key="event" value="Purchase Billing Details" />
+			<date key="time" value="2018-01-08T16:45:00+00:00" />
+			<float key="client" value="nan" />
+			<float key="template" value="nan" />
+			<float key="guide_name" value="nan" />
+			<float key="guide_type" value="nan" />
+			<float key="number_of_graphs" value="8.0" />
+			<float key="number_of_graphs_on_dashboard" value="nan" />
+			<float key="graph_origin" value="nan" />
+			<float key="source" value="2.0" />
+			<float key="kpi_count" value="nan" />
+			<string key="account_type" value="Direct" />
+			<float key="graphs_owned" value="nan" />
+			<float key="data_format" value="nan" />
+			<float key="dashboard_template_name" value="nan" />
+			<string key="x_city" value="Ottawa" />
+			<string key="weekday" value="Wednesday" />
+			<string key="concept:name" value="Purchase Billing Details" />
+			<date key="time:timestamp" value="2018-01-08T16:45:00+00:00" />
+			<int key="@@index" value="72" />
+		</event>
+		<event>
+			<int key="Unnamed: 0" value="14565" />
+			<string key="company_id" value="f5067bb522279c9e9972da3a6c4a1eb2" />
+			<string key="event" value="Purchase Confirm Details" />
+			<date key="time" value="2018-01-08T16:45:00+00:00" />
+			<float key="client" value="nan" />
+			<float key="template" value="nan" />
+			<float key="guide_name" value="nan" />
+			<float key="guide_type" value="nan" />
+			<float key="number_of_graphs" value="8.0" />
+			<float key="number_of_graphs_on_dashboard" value="nan" />
+			<float key="graph_origin" value="nan" />
+			<float key="source" value="2.0" />
+			<float key="kpi_count" value="nan" />
+			<string key="account_type" value="Direct" />
+			<float key="graphs_owned" value="nan" />
+			<float key="data_format" value="nan" />
+			<float key="dashboard_template_name" value="nan" />
+			<string key="x_city" value="Ottawa" />
+			<string key="weekday" value="Wednesday" />
+			<string key="concept:name" value="Purchase Confirm Details" />
+			<date key="time:timestamp" value="2018-01-08T16:45:00+00:00" />
+			<int key="@@index" value="73" />
+		</event>
+		<event>
+			<int key="Unnamed: 0" value="14566" />
+			<string key="company_id" value="f5067bb522279c9e9972da3a6c4a1eb2" />
+			<string key="event" value="Purchase Company Details" />
+			<date key="time" value="2018-01-08T16:45:00+00:00" />
+			<float key="client" value="nan" />
+			<float key="template" value="nan" />
+			<float key="guide_name" value="nan" />
+			<float key="guide_type" value="nan" />
+			<float key="number_of_graphs" value="8.0" />
+			<float key="number_of_graphs_on_dashboard" value="nan" />
+			<float key="graph_origin" value="nan" />
+			<float key="source" value="2.0" />
+			<float key="kpi_count" value="nan" />
+			<string key="account_type" value="Direct" />
+			<float key="graphs_owned" value="nan" />
+			<float key="data_format" value="nan" />
+			<float key="dashboard_template_name" value="nan" />
+			<string key="x_city" value="Ottawa" />
+			<string key="weekday" value="Wednesday" />
+			<string key="concept:name" value="Purchase Company Details" />
+			<date key="time:timestamp" value="2018-01-08T16:45:00+00:00" />
+			<int key="@@index" value="74" />
+		</event>
+		<event>
+			<int key="Unnamed: 0" value="14568" />
+			<string key="company_id" value="f5067bb522279c9e9972da3a6c4a1eb2" />
+			<string key="event" value="Purchase Confirm Details" />
+			<date key="time" value="2018-01-08T16:45:00+00:00" />
+			<float key="client" value="nan" />
+			<float key="template" value="nan" />
+			<float key="guide_name" value="nan" />
+			<float key="guide_type" value="nan" />
+			<float key="number_of_graphs" value="8.0" />
+			<float key="number_of_graphs_on_dashboard" value="nan" />
+			<float key="graph_origin" value="nan" />
+			<float key="source" value="2.0" />
+			<float key="kpi_count" value="nan" />
+			<string key="account_type" value="Direct" />
+			<float key="graphs_owned" value="nan" />
+			<float key="data_format" value="nan" />
+			<float key="dashboard_template_name" value="nan" />
+			<string key="x_city" value="Ottawa" />
+			<string key="weekday" value="Wednesday" />
+			<string key="concept:name" value="Purchase Confirm Details" />
+			<date key="time:timestamp" value="2018-01-08T16:45:00+00:00" />
+			<int key="@@index" value="75" />
+		</event>
+		<event>
+			<int key="Unnamed: 0" value="14571" />
+			<string key="company_id" value="f5067bb522279c9e9972da3a6c4a1eb2" />
+			<string key="event" value="Purchase Billing Details" />
+			<date key="time" value="2018-01-08T16:45:00+00:00" />
+			<float key="client" value="nan" />
+			<float key="template" value="nan" />
+			<float key="guide_name" value="nan" />
+			<float key="guide_type" value="nan" />
+			<float key="number_of_graphs" value="8.0" />
+			<float key="number_of_graphs_on_dashboard" value="nan" />
+			<float key="graph_origin" value="nan" />
+			<float key="source" value="2.0" />
+			<float key="kpi_count" value="nan" />
+			<string key="account_type" value="Direct" />
+			<float key="graphs_owned" value="nan" />
+			<float key="data_format" value="nan" />
+			<float key="dashboard_template_name" value="nan" />
+			<string key="x_city" value="Ottawa" />
+			<string key="weekday" value="Wednesday" />
+			<string key="concept:name" value="Purchase Billing Details" />
+			<date key="time:timestamp" value="2018-01-08T16:45:00+00:00" />
+			<int key="@@index" value="76" />
+		</event>
+		<event>
+			<int key="Unnamed: 0" value="14574" />
+			<string key="company_id" value="f5067bb522279c9e9972da3a6c4a1eb2" />
+			<string key="event" value="Purchase Confirm Details" />
+			<date key="time" value="2018-01-08T16:45:00+00:00" />
+			<float key="client" value="nan" />
+			<float key="template" value="nan" />
+			<float key="guide_name" value="nan" />
+			<float key="guide_type" value="nan" />
+			<float key="number_of_graphs" value="8.0" />
+			<float key="number_of_graphs_on_dashboard" value="nan" />
+			<float key="graph_origin" value="nan" />
+			<float key="source" value="2.0" />
+			<float key="kpi_count" value="nan" />
+			<string key="account_type" value="Direct" />
+			<float key="graphs_owned" value="nan" />
+			<float key="data_format" value="nan" />
+			<float key="dashboard_template_name" value="nan" />
+			<string key="x_city" value="Ottawa" />
+			<string key="weekday" value="Wednesday" />
+			<string key="concept:name" value="Purchase Confirm Details" />
+			<date key="time:timestamp" value="2018-01-08T16:45:00+00:00" />
+			<int key="@@index" value="77" />
+		</event>
+		<event>
+			<int key="Unnamed: 0" value="14577" />
+			<string key="company_id" value="f5067bb522279c9e9972da3a6c4a1eb2" />
+			<string key="event" value="Purchase Company Details" />
+			<date key="time" value="2018-01-08T16:45:00+00:00" />
+			<float key="client" value="nan" />
+			<float key="template" value="nan" />
+			<float key="guide_name" value="nan" />
+			<float key="guide_type" value="nan" />
+			<float key="number_of_graphs" value="8.0" />
+			<float key="number_of_graphs_on_dashboard" value="nan" />
+			<float key="graph_origin" value="nan" />
+			<float key="source" value="2.0" />
+			<float key="kpi_count" value="nan" />
+			<string key="account_type" value="Direct" />
+			<float key="graphs_owned" value="nan" />
+			<float key="data_format" value="nan" />
+			<float key="dashboard_template_name" value="nan" />
+			<string key="x_city" value="Ottawa" />
+			<string key="weekday" value="Wednesday" />
+			<string key="concept:name" value="Purchase Company Details" />
+			<date key="time:timestamp" value="2018-01-08T16:45:00+00:00" />
+			<int key="@@index" value="78" />
+		</event>
+		<event>
+			<int key="Unnamed: 0" value="14580" />
+			<string key="company_id" value="f5067bb522279c9e9972da3a6c4a1eb2" />
+			<string key="event" value="Purchase Confirm Details" />
+			<date key="time" value="2018-01-08T16:45:00+00:00" />
+			<float key="client" value="nan" />
+			<float key="template" value="nan" />
+			<float key="guide_name" value="nan" />
+			<float key="guide_type" value="nan" />
+			<float key="number_of_graphs" value="8.0" />
+			<float key="number_of_graphs_on_dashboard" value="nan" />
+			<float key="graph_origin" value="nan" />
+			<float key="source" value="2.0" />
+			<float key="kpi_count" value="nan" />
+			<string key="account_type" value="Direct" />
+			<float key="graphs_owned" value="nan" />
+			<float key="data_format" value="nan" />
+			<float key="dashboard_template_name" value="nan" />
+			<string key="x_city" value="Ottawa" />
+			<string key="weekday" value="Wednesday" />
+			<string key="concept:name" value="Purchase Confirm Details" />
+			<date key="time:timestamp" value="2018-01-08T16:45:00+00:00" />
+			<int key="@@index" value="79" />
+		</event>
+	</trace>
+</log>
